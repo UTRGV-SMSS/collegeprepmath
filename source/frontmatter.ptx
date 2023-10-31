@@ -6,10 +6,22 @@
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <titlepage>
     <author>
-      <personname>You</personname>
-      <department>Your department</department>
-      <institution>Your institution</institution>
+      <personname>Tyler Wallace</personname>
+      <!-- <department>Your department</department> -->
+      <institution>Big Bend Community College</institution>
     </author>
+
+    <author>
+      <personname>(HTML version is edited by Andras Balogh)</personname>
+          <department>School of Mathematical and Statistical Sciences</department>
+      <institution>The Universty of Texas Rio Grande Valley</institution>
+          <email>Andras.Balogh@utrgv.edu</email>
+  </author>
+
+  <author>
+    <personname>   <url href="collegeprepmath.pdf"> PDF version of this book.</url> </personname>
+   </author>
+   
     <date>
       <today />
     </date>
