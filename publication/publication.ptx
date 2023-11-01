@@ -54,6 +54,7 @@
     <projects level="2" />
     <equations level="2" />
     <footnotes level="2" />
+    <divisions chapter-start="0"/>
   </numbering>
 
   <!-- LaTeX specific options: set @print="yes" to get pdf set up   -->
@@ -82,7 +83,7 @@
       theorem="no"
       proof="yes"
       definition="no"
-      example="yes"
+      example="no"
       example-solution="yes"
       project="no"
       task="no"
