@@ -12,12 +12,13 @@
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
+
     <chapter  xml:id="chapter-prealgebra">
       <title>Pre-Algebra</title>
-    <xi:include href="./prealgebra-integers.ptx" /> 
-    <xi:include href="./prealgebra-fractions.ptx" /> 
-    <xi:include href="./prealgebra-order-of-operations.ptx" /> 
-    <xi:include href="./prealgebra-properties-of-algebra.ptx" /> 
+      <xi:include href="./prealgebra-integers.ptx" /> 
+      <xi:include href="./prealgebra-fractions.ptx" /> 
+      <xi:include href="./prealgebra-order-of-operations.ptx" /> 
+      <xi:include href="./prealgebra-properties-of-algebra.ptx" /> 
     </chapter>
 
     <chapter  xml:id="chapter-linear-equations">
