@@ -1,13 +1,22 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "frontmatter-2",
+  "id": "acknowledgement",
   "level": "1",
-  "url": "frontmatter-2.html",
+  "url": "acknowledgement.html",
+  "type": "Acknowledgements",
+  "number": "",
+  "title": "Acknowledgements",
+  "body": " This Open Educational Resource textbook has been adapted by Andras Balogh from the textbook: Beginning and Intermediate Algebra , Tyler Wallace, CC BY 3.0.  Helpful contributions were received from the University of Texas Rio Grande Valley students  Julio Paez  Sheil Rutto    "
+},
+{
+  "id": "frontmatter-3",
+  "level": "1",
+  "url": "frontmatter-3.html",
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
-  "body": "  My Website   copyright  "
+  "body": "  https:\/\/utrgv-smss.github.io\/collegeprepmath   copyright  "
 },
 {
   "id": "prealgebra-integers",
