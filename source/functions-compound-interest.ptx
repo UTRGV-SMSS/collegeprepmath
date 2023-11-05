@@ -112,12 +112,12 @@ The table below shows the result for the same problem with different compounds.
 
 <tabular halign="center" top="minor"  left="minor" bottom="minor" right="minor">
   <row>     <cell> Compound </cell>    <cell> Balance </cell>  </row>
-  <row>     <cell> Annually </cell>    <cell> \$4,919.50 </cell>   </row>
-  <row>     <cell> Semi-Annually </cell>    <cell> \$4,927.02 </cell>    </row>
-  <row>     <cell> Quarterly </cell>    <cell> \$4,930.85 </cell>    </row>
-  <row>     <cell> Monthly </cell>    <cell> \$4,933.42 </cell>    </row>
-  <row>     <cell> Weekly </cell>    <cell> \$4,934.41 </cell>    </row>
-  <row>     <cell> Daily </cell>    <cell> \$4,934.67 </cell>    </row>
+  <row>     <cell> Annually </cell>    <cell> <m>\$4,919.50</m> </cell>   </row>
+  <row>     <cell> Semi-Annually </cell>    <cell> <m>\$4,927.02</m> </cell>    </row>
+  <row>     <cell> Quarterly </cell>    <cell> <m>\$4,930.85</m> </cell>    </row>
+  <row>     <cell> Monthly </cell>    <cell> <m>\$4,933.42</m> </cell>    </row>
+  <row>     <cell> Weekly </cell>    <cell> <m>\$4,934.41</m> </cell>    </row>
+  <row>     <cell> Daily </cell>    <cell> <m>\$4,934.67</m> </cell>    </row>
       </tabular>
 
 <p>
