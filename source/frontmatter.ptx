@@ -26,11 +26,25 @@
       <today />
     </date>
   </titlepage>
+  <acknowledgement xml:id="acknowledgement">
+	  <p>
+	    This Open Educational Resource textbook has been adapted by 
+	    Andras Balogh from the textbook: 
+	    <url href="http://wallace.ccfaculty.org/book/book.html">Beginning and
+	  Intermediate Algebra</url>, Tyler Wallace, CC BY 3.0.</p>
+	  <p>
+	    Helpful contributions were received from the University of Texas Rio Grande Valley students
+	    <ul>
+              <li><p>Julio Paez</p></li>
+	      <li><p>Sheil Rutto</p></li>
+            </ul> 
+	  </p>
+  </acknowledgement>
 
   <colophon>
 
     <website>
-      <url href="https://pretextbook.org">My Website</url>
+      <url href="https://utrgv-smss.github.io/collegeprepmath">https://utrgv-smss.github.io/collegeprepmath</url>
     </website>
 
     <copyright>
