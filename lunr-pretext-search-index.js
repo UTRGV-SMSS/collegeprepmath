@@ -27172,63 +27172,63 @@ var ptx_lunr_docs = [
   "body": "    "
 },
 {
-  "id": "quadratic-in-form",
+  "id": "quadratics-quadratic-in-form",
   "level": "1",
-  "url": "quadratic-in-form.html",
+  "url": "quadratics-quadratic-in-form.html",
   "type": "Section",
   "number": "9.6",
   "title": "Quadratic in Form",
   "body": " Quadratic in Form   Objective: Solve equations that are quadratic in form by substitution to create a quadratic equation.   We have seen three different ways to solve quadratics: factoring, completing the square, and the quadratic formula. A quadratic is any equation of the form , however, we can use the skills learned to solve quadratics to solve problems with higher (or sometimes lower) powers if the equation is in what is called quadratic form.   Quadratic Form: where    An equation is in quadratic form if one of the exponents on a variable is double the exponent on the same variable somewhere else in the equation. If this is the case we can create a new variable, set it equal to the variable with smallest exponent. When we substitute this into the equation we will have a quadratic equation we can solve.   World View Note: Arab mathematicians around the year were the first to use this method!     When we have higher powers of our variable, we could end up with many more solutions. The previous equation had four unique solutions.     Just as with regular quadratics, these problems will not always have rational solutions. We also can have irrational or complex solutions to our equations.     When we create a new variable for our substitution, it won’t always be equal to just another variable. We can make our substitution variable equal to an expression as shown in the next example.        The higher the exponent, the more solution we could have. This is illustrated in the following example, one with six solutions.      Exercises – Quadratic in Form    Solve each of the following equations. Some equations will have complex roots.                                                                                                                                                                                                                                           "
 },
 {
-  "id": "quadratic-in-form-7",
+  "id": "quadratics-quadratic-in-form-7",
   "level": "2",
-  "url": "quadratic-in-form.html#quadratic-in-form-7",
+  "url": "quadratics-quadratic-in-form.html#quadratics-quadratic-in-form-7",
   "type": "Example",
   "number": "9.6.1",
   "title": "",
   "body": "  "
 },
 {
-  "id": "quadratic-in-form-9",
+  "id": "quadratics-quadratic-in-form-9",
   "level": "2",
-  "url": "quadratic-in-form.html#quadratic-in-form-9",
+  "url": "quadratics-quadratic-in-form.html#quadratics-quadratic-in-form-9",
   "type": "Example",
   "number": "9.6.2",
   "title": "",
   "body": "  "
 },
 {
-  "id": "quadratic-in-form-11",
+  "id": "quadratics-quadratic-in-form-11",
   "level": "2",
-  "url": "quadratic-in-form.html#quadratic-in-form-11",
+  "url": "quadratics-quadratic-in-form.html#quadratics-quadratic-in-form-11",
   "type": "Example",
   "number": "9.6.3",
   "title": "",
   "body": "  "
 },
 {
-  "id": "quadratic-in-form-13",
+  "id": "quadratics-quadratic-in-form-13",
   "level": "2",
-  "url": "quadratic-in-form.html#quadratic-in-form-13",
+  "url": "quadratics-quadratic-in-form.html#quadratics-quadratic-in-form-13",
   "type": "Example",
   "number": "9.6.4",
   "title": "",
   "body": "  "
 },
 {
-  "id": "quadratic-in-form-14",
+  "id": "quadratics-quadratic-in-form-14",
   "level": "2",
-  "url": "quadratic-in-form.html#quadratic-in-form-14",
+  "url": "quadratics-quadratic-in-form.html#quadratics-quadratic-in-form-14",
   "type": "Example",
   "number": "9.6.5",
   "title": "",
   "body": "  "
 },
 {
-  "id": "quadratic-in-form-16",
+  "id": "quadratics-quadratic-in-form-16",
   "level": "2",
-  "url": "quadratic-in-form.html#quadratic-in-form-16",
+  "url": "quadratics-quadratic-in-form.html#quadratics-quadratic-in-form-16",
   "type": "Example",
   "number": "9.6.6",
   "title": "",
@@ -27237,7 +27237,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-2",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-2",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-2",
   "type": "Exercise",
   "number": "9.6.1",
   "title": "",
@@ -27246,7 +27246,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-3",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-3",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-3",
   "type": "Exercise",
   "number": "9.6.2",
   "title": "",
@@ -27255,7 +27255,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-4",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-4",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-4",
   "type": "Exercise",
   "number": "9.6.3",
   "title": "",
@@ -27264,7 +27264,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-5",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-5",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-5",
   "type": "Exercise",
   "number": "9.6.4",
   "title": "",
@@ -27273,7 +27273,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-6",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-6",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-6",
   "type": "Exercise",
   "number": "9.6.5",
   "title": "",
@@ -27282,7 +27282,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-7",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-7",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-7",
   "type": "Exercise",
   "number": "9.6.6",
   "title": "",
@@ -27291,7 +27291,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-8",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-8",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-8",
   "type": "Exercise",
   "number": "9.6.7",
   "title": "",
@@ -27300,7 +27300,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-9",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-9",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-9",
   "type": "Exercise",
   "number": "9.6.8",
   "title": "",
@@ -27309,7 +27309,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-10",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-10",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-10",
   "type": "Exercise",
   "number": "9.6.9",
   "title": "",
@@ -27318,7 +27318,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-11",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-11",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-11",
   "type": "Exercise",
   "number": "9.6.10",
   "title": "",
@@ -27327,7 +27327,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-12",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-12",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-12",
   "type": "Exercise",
   "number": "9.6.11",
   "title": "",
@@ -27336,7 +27336,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-13",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-13",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-13",
   "type": "Exercise",
   "number": "9.6.12",
   "title": "",
@@ -27345,7 +27345,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-14",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-14",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-14",
   "type": "Exercise",
   "number": "9.6.13",
   "title": "",
@@ -27354,7 +27354,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-15",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-15",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-15",
   "type": "Exercise",
   "number": "9.6.14",
   "title": "",
@@ -27363,7 +27363,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-16",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-16",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-16",
   "type": "Exercise",
   "number": "9.6.15",
   "title": "",
@@ -27372,7 +27372,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-17",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-17",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-17",
   "type": "Exercise",
   "number": "9.6.16",
   "title": "",
@@ -27381,7 +27381,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-18",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-18",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-18",
   "type": "Exercise",
   "number": "9.6.17",
   "title": "",
@@ -27390,7 +27390,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-19",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-19",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-19",
   "type": "Exercise",
   "number": "9.6.18",
   "title": "",
@@ -27399,7 +27399,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-20",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-20",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-20",
   "type": "Exercise",
   "number": "9.6.19",
   "title": "",
@@ -27408,7 +27408,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-21",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-21",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-21",
   "type": "Exercise",
   "number": "9.6.20",
   "title": "",
@@ -27417,7 +27417,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-22",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-22",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-22",
   "type": "Exercise",
   "number": "9.6.21",
   "title": "",
@@ -27426,7 +27426,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-23",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-23",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-23",
   "type": "Exercise",
   "number": "9.6.22",
   "title": "",
@@ -27435,7 +27435,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-24",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-24",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-24",
   "type": "Exercise",
   "number": "9.6.23",
   "title": "",
@@ -27444,7 +27444,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-25",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-25",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-25",
   "type": "Exercise",
   "number": "9.6.24",
   "title": "",
@@ -27453,7 +27453,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-26",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-26",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-26",
   "type": "Exercise",
   "number": "9.6.25",
   "title": "",
@@ -27462,7 +27462,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-27",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-27",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-27",
   "type": "Exercise",
   "number": "9.6.26",
   "title": "",
@@ -27471,7 +27471,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-28",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-28",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-28",
   "type": "Exercise",
   "number": "9.6.27",
   "title": "",
@@ -27480,7 +27480,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-29",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-29",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-29",
   "type": "Exercise",
   "number": "9.6.28",
   "title": "",
@@ -27489,7 +27489,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-30",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-30",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-30",
   "type": "Exercise",
   "number": "9.6.29",
   "title": "",
@@ -27498,7 +27498,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-31",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-31",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-31",
   "type": "Exercise",
   "number": "9.6.30",
   "title": "",
@@ -27507,7 +27507,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-32",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-32",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-32",
   "type": "Exercise",
   "number": "9.6.31",
   "title": "",
@@ -27516,7 +27516,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-33",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-33",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-33",
   "type": "Exercise",
   "number": "9.6.32",
   "title": "",
@@ -27525,7 +27525,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-34",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-34",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-34",
   "type": "Exercise",
   "number": "9.6.33",
   "title": "",
@@ -27534,7 +27534,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-35",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-35",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-35",
   "type": "Exercise",
   "number": "9.6.34",
   "title": "",
@@ -27543,7 +27543,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-36",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-36",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-36",
   "type": "Exercise",
   "number": "9.6.35",
   "title": "",
@@ -27552,7 +27552,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-37",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-37",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-37",
   "type": "Exercise",
   "number": "9.6.36",
   "title": "",
@@ -27561,7 +27561,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-38",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-38",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-38",
   "type": "Exercise",
   "number": "9.6.37",
   "title": "",
@@ -27570,7 +27570,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-39",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-39",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-39",
   "type": "Exercise",
   "number": "9.6.38",
   "title": "",
@@ -27579,7 +27579,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-40",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-40",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-40",
   "type": "Exercise",
   "number": "9.6.39",
   "title": "",
@@ -27588,7 +27588,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-41",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-41",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-41",
   "type": "Exercise",
   "number": "9.6.40",
   "title": "",
@@ -27597,7 +27597,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-42",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-42",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-42",
   "type": "Exercise",
   "number": "9.6.41",
   "title": "",
@@ -27606,7 +27606,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-43",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-43",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-43",
   "type": "Exercise",
   "number": "9.6.42",
   "title": "",
@@ -27615,7 +27615,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-44",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-44",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-44",
   "type": "Exercise",
   "number": "9.6.43",
   "title": "",
@@ -27624,7 +27624,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-45",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-45",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-45",
   "type": "Exercise",
   "number": "9.6.44",
   "title": "",
@@ -27633,7 +27633,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-46",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-46",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-46",
   "type": "Exercise",
   "number": "9.6.45",
   "title": "",
@@ -27642,7 +27642,7 @@ var ptx_lunr_docs = [
 {
   "id": "exercises-quadratic-in-form-2-47",
   "level": "2",
-  "url": "quadratic-in-form.html#exercises-quadratic-in-form-2-47",
+  "url": "quadratics-quadratic-in-form.html#exercises-quadratic-in-form-2-47",
   "type": "Exercise",
   "number": "9.6.46",
   "title": "",
