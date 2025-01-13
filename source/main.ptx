@@ -115,6 +115,7 @@
       <xi:include href="./quadratics-quadratic-in-form.ptx" /> 	
       <xi:include href="./quadratics-rectangles.ptx" />
       <xi:include href="./quadratics-teamwork.ptx" /> 	
+      <xi:include href="./quadratics-simultaneous-products.ptx" /> 	
       <xi:include href="./quadratics-graphs.ptx" /> 	
    </chapter>
 
