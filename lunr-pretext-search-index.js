@@ -10,13 +10,13 @@ var ptx_lunr_docs = [
   "body": " This Open Educational Resource textbook has been adapted by Andras Balogh from the textbook: Beginning and Intermediate Algebra , Tyler Wallace, CC BY 3.0.  Helpful contributions were received from the University of Texas Rio Grande Valley students  Julio Paez  Sheil Rutto    "
 },
 {
-  "id": "front-colophon",
+  "id": "frontmatter-3",
   "level": "1",
-  "url": "front-colophon.html",
+  "url": "frontmatter-3.html",
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
-  "body": ""
+  "body": "  https:\/\/utrgv-smss.github.io\/collegeprepmath   copyright  "
 },
 {
   "id": "prealgebra-integers",
@@ -28261,11 +28261,20 @@ var ptx_lunr_docs = [
   "body": " Quadratics - Simultaneous Products   This section is not currently in use.   "
 },
 {
+  "id": "quadratics-revenue-distance",
+  "level": "1",
+  "url": "quadratics-revenue-distance.html",
+  "type": "Section",
+  "number": "9.10",
+  "title": "Quadratics - Revenue and Distance",
+  "body": " Quadratics - Revenue and Distance   This section is not currently in use.   "
+},
+{
   "id": "quadratics-graphs",
   "level": "1",
   "url": "quadratics-graphs.html",
   "type": "Section",
-  "number": "9.10",
+  "number": "9.11",
   "title": "Quadratics - Graphs of Quadratics",
   "body": " Quadratics - Graphs of Quadratics   Objective: Graph quadratic equations using the vertex, x-intercepts, and y-intercept.   Just as we drew pictures of the solutions for lines or linear equations, we can draw a picture of solution to quadratics as well. One way we can do that is to make a table of values.       Plot the points , , , , and .  Connect the dots with a smooth curve.  Our Solution     When we have in our equations, the graph will no longer be a straight line. Quadratics have a graph that looks like a U shape that is called a parabola.   World View Note: The first major female mathematician was Hypatia of Egypt who was born around 370 AD. She studied conic sections. The parabola is one type of conic section.  The above method to graph a parabola works for any equation, however, it can be very tedious to find all the correct points to get the correct bend and shape. For this reason we identify several key points on a graph and in the equation to help us graph parabolas more efficiently. These key points are described below.     Point  -intercept: Where the graph crosses the vertical -axis.  Points and  -intercepts: Where the graph crosses the horizontal -axis  Point Vertex: The point where the graph curves and changes directions.    We will use the following method to find each of the points on our parabola.  To graph the equation , find the following points    -intercept: Found by making , this simplifies down to   -intercepts: Found by making , this means solving  Vertex: Let to find . Then plug this value into the equation to find .  After finding these points we can connect the dots with a smooth curve to find our graph!       Graph the -intercept at , the - intercepts at and , and the vertex at . Connect the dots with a smooth curve in a U shape to get our parabola.  Our Solution     If the a in is a negative value, the parabola will end up being an upside-down U. The process to graph it is identical, we just need to be very careful of how our signs operate. Remember, if is negative, then will also be negative because we only square the , not the .       Graph the y-intercept at , the - intercepts at and , and the vertex at . Connect the dots with smooth curve in an upside-down U shape to get our parabola.  Our Solution     It is important to remember the graph of all quadratics is a parabola with the same U shape (they could be upside-down). If you plot your points and we cannot connect them in the correct U shape then one of your points must be wrong. Go back and check your work to be sure they are correct!  Just as all quadratics (equation with ) all have the same U-shape to them and all linear equations (equations such as ) have the same line shape when graphed, different equations have different shapes to them. Below are some common equations (some we have yet to cover!) with their graph shape drawn.    Absolute Value  Cubic                        Quadratic  Exponential                          Square Root  Logarithmic                     Exercises - Graphs of Quadratics    Find the vertex and intercepts of the following quadratics. Use this information to graph the quadratic.                                                                                                         "
 },
@@ -28274,7 +28283,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#quadratics-graphs-4",
   "type": "Example",
-  "number": "9.10.1",
+  "number": "9.11.1",
   "title": "",
   "body": "     Plot the points , , , , and .  Connect the dots with a smooth curve.  Our Solution    "
 },
@@ -28283,7 +28292,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#quadratics-graphs-11",
   "type": "Example",
-  "number": "9.10.2",
+  "number": "9.11.2",
   "title": "",
   "body": "     Graph the -intercept at , the - intercepts at and , and the vertex at . Connect the dots with a smooth curve in a U shape to get our parabola.  Our Solution    "
 },
@@ -28292,7 +28301,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#quadratics-graphs-13",
   "type": "Example",
-  "number": "9.10.3",
+  "number": "9.11.3",
   "title": "",
   "body": "     Graph the y-intercept at , the - intercepts at and , and the vertex at . Connect the dots with smooth curve in an upside-down U shape to get our parabola.  Our Solution    "
 },
@@ -28301,7 +28310,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-2",
   "type": "Exercise",
-  "number": "9.10.1",
+  "number": "9.11.1",
   "title": "",
   "body": "    "
 },
@@ -28310,7 +28319,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-3",
   "type": "Exercise",
-  "number": "9.10.2",
+  "number": "9.11.2",
   "title": "",
   "body": "    "
 },
@@ -28319,7 +28328,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-4",
   "type": "Exercise",
-  "number": "9.10.3",
+  "number": "9.11.3",
   "title": "",
   "body": "    "
 },
@@ -28328,7 +28337,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-5",
   "type": "Exercise",
-  "number": "9.10.4",
+  "number": "9.11.4",
   "title": "",
   "body": "    "
 },
@@ -28337,7 +28346,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-6",
   "type": "Exercise",
-  "number": "9.10.5",
+  "number": "9.11.5",
   "title": "",
   "body": "    "
 },
@@ -28346,7 +28355,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-7",
   "type": "Exercise",
-  "number": "9.10.6",
+  "number": "9.11.6",
   "title": "",
   "body": "    "
 },
@@ -28355,7 +28364,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-8",
   "type": "Exercise",
-  "number": "9.10.7",
+  "number": "9.11.7",
   "title": "",
   "body": "    "
 },
@@ -28364,7 +28373,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-9",
   "type": "Exercise",
-  "number": "9.10.8",
+  "number": "9.11.8",
   "title": "",
   "body": "    "
 },
@@ -28373,7 +28382,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-10",
   "type": "Exercise",
-  "number": "9.10.9",
+  "number": "9.11.9",
   "title": "",
   "body": "    "
 },
@@ -28382,7 +28391,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-11",
   "type": "Exercise",
-  "number": "9.10.10",
+  "number": "9.11.10",
   "title": "",
   "body": "    "
 },
@@ -28391,7 +28400,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-12",
   "type": "Exercise",
-  "number": "9.10.11",
+  "number": "9.11.11",
   "title": "",
   "body": "    "
 },
@@ -28400,7 +28409,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-13",
   "type": "Exercise",
-  "number": "9.10.12",
+  "number": "9.11.12",
   "title": "",
   "body": "    "
 },
@@ -28409,7 +28418,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-14",
   "type": "Exercise",
-  "number": "9.10.13",
+  "number": "9.11.13",
   "title": "",
   "body": "    "
 },
@@ -28418,7 +28427,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-15",
   "type": "Exercise",
-  "number": "9.10.14",
+  "number": "9.11.14",
   "title": "",
   "body": "    "
 },
@@ -28427,7 +28436,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-16",
   "type": "Exercise",
-  "number": "9.10.15",
+  "number": "9.11.15",
   "title": "",
   "body": "    "
 },
@@ -28436,7 +28445,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-17",
   "type": "Exercise",
-  "number": "9.10.16",
+  "number": "9.11.16",
   "title": "",
   "body": "    "
 },
@@ -28445,7 +28454,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-18",
   "type": "Exercise",
-  "number": "9.10.17",
+  "number": "9.11.17",
   "title": "",
   "body": "    "
 },
@@ -28454,7 +28463,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-19",
   "type": "Exercise",
-  "number": "9.10.18",
+  "number": "9.11.18",
   "title": "",
   "body": "    "
 },
@@ -28463,7 +28472,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-20",
   "type": "Exercise",
-  "number": "9.10.19",
+  "number": "9.11.19",
   "title": "",
   "body": "    "
 },
@@ -28472,7 +28481,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "quadratics-graphs.html#exercises-quadratics-2-21",
   "type": "Exercise",
-  "number": "9.10.20",
+  "number": "9.11.20",
   "title": "",
   "body": "    "
 },
