@@ -117,9 +117,14 @@
   
   <example>
     <sidebyside widths="30% 30% 30%" margins="auto" valign="middle">
-   <p><me>(4x-7)(4x+7) \\  16x^2 - 49</me> </p>
-   <p><me>(4x+7)^2 \\  16x^2 + 56x + 49</me> </p>
-   <p><me> (4x-7)^2\\  16x^2 - 56x + 49</me> </p>
+      <p><m>(4x-7)(4x+7)</m> </p>
+      <p><m>(4x+7)^2 </m> </p>
+      <p><m> (4x-7)^2</m> </p>
+    </sidebyside>
+    <sidebyside widths="30% 30% 30%" margins="auto" valign="middle">
+      <p><m> 16x^2 - 49</m> </p>
+      <p><m> 16x^2 + 56x + 49</m> </p>
+      <p><m>  16x^2 - 56x + 49</m> </p>
     </sidebyside>
   </example> 
 
