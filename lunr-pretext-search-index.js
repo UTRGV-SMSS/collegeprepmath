@@ -10,13 +10,13 @@ var ptx_lunr_docs = [
   "body": " This Open Educational Resource textbook has been adapted by Andras Balogh from the textbook: Beginning and Intermediate Algebra , Tyler Wallace, CC BY 3.0.  Helpful contributions were received from the University of Texas Rio Grande Valley students  Julio Paez  Sheil Rutto    "
 },
 {
-  "id": "frontmatter-3",
+  "id": "front-colophon",
   "level": "1",
-  "url": "frontmatter-3.html",
+  "url": "front-colophon.html",
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
-  "body": "  https:\/\/utrgv-smss.github.io\/collegeprepmath   copyright  "
+  "body": ""
 },
 {
   "id": "prealgebra-integers",
@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "0.1",
   "title": "Integers",
-  "body": " Integers   Objective: Add, Subtract, Multiply and Divide Positive and Negative Numbers.   The ability to work comfortably with negative numbers is essential to success in algebra. For this reason we will do a quick review of adding, subtracting, multiplying and dividing of integers. Integers are all the positive whole numbers, zero, and their opposites (negatives). As this is intended to be a review of integers, the descriptions and examples will not be as detailed as a normal lesson.   World View Note: The first set of rules for working with negative numbers was written out by the Indian mathematician Brahmagupa.  When adding integers we have two cases to consider. The first is if the signs match, both positive or both negative. If the signs match we will add the numbers together and keep the sign. This is illustrated in the following examples        If the signs don’t match, one positive and one negative number, we will subtract the numbers (as if they were all positive) and then use the sign from the larger number. This means if the larger number is positive, the answer is positive. If the larger number is negative, the answer is negative. This is shown in the following examples.        For subtraction of negatives we will change the problem to an addition problem which we can then solve using the above methods. The way we change a subtraction to an addition is to add the opposite of the number after the subtraction sign. Often this method is refered to as “add the opposite.” This is illustrated in the following examples.           Multiplication and division of integers both work in a very similar pattern. The short description of the process is we multiply and divide like normal, if the signs match (both positive or both negative) the answer is positive. If the signs don’t match (one positive and one negative) then the answer is negative. This is shown in the following examples              A few things to be careful of when working with integers. First be sure not to confuse a problem like with . The second problem is a multiplication problem because there is nothing between the and the parenthesis. If there is no operation written in between the parts, then we assume that means we are multiplying. The problem, is subtraction because the subtraction separates the from what comes after it. Another item to watch out for is to be careful not to mix up the pattern for adding and subtracting integers with the pattern for multiplying and dividing integers. They can look very similar, for example if the signs match on addition, the we keep the negative, , but if the signs match on multiplication, the answer is positive, .   Exercises - Integers    Evaluate each expression.                                                                         Find each product                                    Find each quotient.                                   "
+  "body": " Integers   Objective: Add, Subtract, Multiply and Divide Positive and Negative Numbers.   The ability to work comfortably with negative numbers is essential to success in algebra. For this reason we will do a quick review of adding, subtracting, multiplying and dividing of integers. Integers are all the positive whole numbers, zero, and their opposites (negatives). As this is intended to be a review of integers, the descriptions and examples will not be as detailed as a normal lesson.   World View Note: The first set of rules for working with negative numbers was written out by the Indian mathematician Brahmagupa.  When adding integers we have two cases to consider. The first is if the signs match, both positive or both negative. If the signs match we will add the numbers together and keep the sign. This is illustrated in the following examples        If the signs don’t match, one positive and one negative number, we will subtract the numbers (as if they were all positive) and then use the sign from the larger number. This means if the larger number is positive, the answer is positive. If the larger number is negative, the answer is negative. This is shown in the following examples.        For subtraction of negatives we will change the problem to an addition problem which we can then solve using the above methods. The way we change a subtraction to an addition is to add the opposite of the number after the subtraction sign. Often this method is refered to as “add the opposite.” This is illustrated in the following examples.           Multiplication and division of integers both work in a very similar pattern. The short description of the process is we multiply and divide like normal, if the signs match (both positive or both negative) the answer is positive. If the signs don’t match (one positive and one negative) then the answer is negative. This is shown in the following examples              A few things to be careful of when working with integers. First be sure not to confuse a problem like with . The second problem is a multiplication problem because there is nothing between the and the parenthesis. If there is no operation written in between the parts, then we assume that means we are multiplying. The problem, is subtraction because the subtraction separates the from what comes after it. Another item to watch out for is to be careful not to mix up the pattern for adding and subtracting integers with the pattern for multiplying and dividing integers. They can look very similar, for example if the signs match on addition, the we keep the negative, , but if the signs match on multiplication, the answer is positive, .   Exercises - Integers    Evaluate each expression.                                                                          Find each product                                    Find each quotient.                                   "
 },
 {
   "id": "prealgebra-integers-3",
@@ -142,7 +142,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "0.1.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-integers-2-3",
@@ -6325,7 +6325,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Points and Lines",
-  "body": " Points and Lines   Objective: Graph points and lines using coordinates.   Often, to get an idea of the behavior of an equation, we will make a picture that represents the solutions to the equations. A graph is simply a picture of the solutions to an equation. Before we spend much time on making a visual representation of an equation, we first have to understand the basis of graphing. Following is an example of what is called the coordinate plane.    The plane is divided into four sections by a horizontal number line ( -axis) and a vertical number line ( -axis). Where the two lines meet in the center is called the origin. This center origin is where and . As we move to the right the numbers count up from zero, representing ....   To the left the numbers count down from zero, representing .... Similarly, as we move up, the numbers count up from zero, ...., and as we move down, count down from zero, . We can put dots on the graph which we will call points. Each point has an “address” that defines its location. The first number will be the value on the -axis or horizontal number line. This is the distance the point moves left\/right from the origin. The second number will represent the value on the -axis or vertical number line. This is the distance the point moves up\/down from the origin. The points are given as an ordered pair .   World View Note: Locations on the globe are given in the same manner, each number is a distance from a central point, the origin which is where the prime meridian and the equator. This “origin” is just off the western coast of Africa.  The following example finds the address or coordinate pair for each of several points on the coordinate plane.   Give the coordinates of each point.    Tracing from the origin, point is right , up . This becomes . Point is left , up . Left is backwards or negative, so we have . is straight down units. There is no left or right. This means we go right zero, so the point is .     Just as we can give the coordinates for a set of points, we can take a set of points and plot them on the plane.   Graph the points , , , , , , .       The first point, , is at this means (right ) and (up ). Following these instructions, starting from the origin, we get our point.   The second point, , is left (negative moves backwards), up . This is also illustrated on the graph.          The third point, is right , down (negative moves backwards).   The fourth point, is left , down (both negative, both move backwards).     The last three points have zeros in them. We still treat these points just like the other points. If there is a zero, there is just no movement.       Next is . This is left (negative is backwards), and up zero, right on the -axis.   Then is . This is right zero, and up two, right on the -axis.   Finally is . This point has no movement. Thus, the point is right on the origin.       Our Solution    The main purpose of graphs is not to plot random points, but rather to give a picture of the solutions to an equation. We may have an equation such as . We may be interested in what type of solution are possible in this equation. We can visualize the solution by making a graph of possible and combinations that make this equation a true statement. We will have to start by finding possible and combinations. We will do this using a table of values.    Graph   We make a table of values                                 We will test three values for . Any three can be used.                                    Evaluate each by replacing with the given value:    ;     ;    ;         These then become the points to graph on our equation.        Plot each point.   Once the points are on the graph, connect the dots to make a line.   The graph is our solution.      What this line tells us is that any point on the line will work in the equation . For example, notice the graph also goes through the point . If we use , we should get . Sure enough, , just as the graph suggests. Thus, we have the line is a picture of all the solutions for . We can use this table of values method to draw a graph of any linear equation.                                   We will test three values for . Any three can be used.                                   Our completed table.         Graph points and connect dots   Our Solution        Exercises - Points and Lines   State the coordinates of each point.       Plot each point.   , , , ,  , , , , ,     Sketch the graph of each line.                                                                                                         "
+  "body": " Points and Lines   Objective: Graph points and lines using coordinates.   Often, to get an idea of the behavior of an equation, we will make a picture that represents the solutions to the equations. A graph is simply a picture of the solutions to an equation. Before we spend much time on making a visual representation of an equation, we first have to understand the basis of graphing. Following is an example of what is called the coordinate plane.    The plane is divided into four sections by a horizontal number line ( -axis) and a vertical number line ( -axis). Where the two lines meet in the center is called the origin. This center origin is where and . As we move to the right the numbers count up from zero, representing ....   To the left the numbers count down from zero, representing .... Similarly, as we move up, the numbers count up from zero, ...., and as we move down, count down from zero, . We can put dots on the graph which we will call points. Each point has an “address” that defines its location. The first number will be the value on the -axis or horizontal number line. This is the distance the point moves left\/right from the origin. The second number will represent the value on the -axis or vertical number line. This is the distance the point moves up\/down from the origin. The points are given as an ordered pair .   World View Note: Locations on the globe are given in the same manner, each number is a distance from a central point, the origin which is where the prime meridian and the equator. This “origin” is just off the western coast of Africa.  The following example finds the address or coordinate pair for each of several points on the coordinate plane.   Give the coordinates of each point.    Tracing from the origin, point is right , up . This becomes . Point is left , up . Left is backwards or negative, so we have . is straight down units. There is no left or right. This means we go right zero, so the point is .     Just as we can give the coordinates for a set of points, we can take a set of points and plot them on the plane.   Graph the points , , , , , , .       The first point, , is at this means (right ) and (up ). Following these instructions, starting from the origin, we get our point.   The second point, , is left (negative moves backwards), up . This is also illustrated on the graph.          The third point, is right , down (negative moves backwards).   The fourth point, is left , down (both negative, both move backwards).     The last three points have zeros in them. We still treat these points just like the other points. If there is a zero, there is just no movement.       Next is . This is left (negative is backwards), and up zero, right on the -axis.   Then is . This is right zero, and up two, right on the -axis.   Finally is . This point has no movement. Thus, the point is right on the origin.       Our Solution    The main purpose of graphs is not to plot random points, but rather to give a picture of the solutions to an equation. We may have an equation such as . We may be interested in what type of solution are possible in this equation. We can visualize the solution by making a graph of possible and combinations that make this equation a true statement. We will have to start by finding possible and combinations. We will do this using a table of values.    Graph   We make a table of values                                 We will test three values for . Any three can be used.                                    Evaluate each by replacing with the given value:    ;     ;    ;         These then become the points to graph on our equation.        Plot each point.   Once the points are on the graph, connect the dots to make a line.   The graph is our solution.      What this line tells us is that any point on the line will work in the equation . For example, notice the graph also goes through the point . If we use , we should get . Sure enough, , just as the graph suggests. Thus, we have the line is a picture of all the solutions for . We can use this table of values method to draw a graph of any linear equation.                                   We will test three values for . Any three can be used.                                   Our completed table.         Graph points and connect dots   Our Solution        Exercises - Points and Lines    State the coordinates of each point.         Plot each point.   , , , ,  , , , , ,      Sketch the graph of each line.                                                                                                         "
 },
 {
   "id": "graphing-points-lines-8",
@@ -6370,7 +6370,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "2.1.1",
   "title": "",
-  "body": " State the coordinates of each point.     "
+  "body": "  State the coordinates of each point.      "
 },
 {
   "id": "exercises-graphing-points-lines-3",
@@ -6379,7 +6379,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "2.1.2",
   "title": "",
-  "body": " Plot each point.   , , , ,  , , , , ,  "
+  "body": "  Plot each point.   , , , ,  , , , , ,   "
 },
 {
   "id": "exercises-graphing-points-lines-4-2",
@@ -8899,7 +8899,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.2",
   "title": "Compound Inequalities",
-  "body": " Compound Inequalities   Objective: Solve, graph and give interval notation to the solution of compound inequalities.   Several inequalities can be combined together to form what are called compound inequalities. There are three types of compound inequalities which we will investi- gate in this lesson.  The first type of a compound inequality is an OR inequality. For this type of inequality we want a true statment from either one inequality OR the other inequality OR both. When we are graphing these type of inequalities we will graph each individual inequality above the number line, then move them both down together onto the actual number line for our graph that combines them together.  When we give interval notation for our solution, if there are two different parts to the graph we will put a (union) symbol between two sets of interval notation, one for each part.  Solve each inequality, graph the solution, and give interval notation of solution.      World View Note: The symbol for infinity was first used by the Romans, although at the time the number was used for . The greeks also used the symbol for .  There are several different results that could result from an OR statement. The graphs could be pointing different directions, as in the graph above, or pointing in the same direction as in the graph below on the left, or pointing opposite direc- tions, but overlapping as in the graph below on the right. Notice how interval notation works for each of these cases.       As the graphs overlap, we take the largest graph for our solution.  When the graphs are combined they cover the entire number line.    Interval Notation:  Interval Notation: , or   The second type of compound inequality is an AND inequality. AND inequalities require both statements to be true. If one is false, they both are false. When we graph these inequalities we can follow a similar process, first graph both inequali- ties above the number line, but this time only where they overlap will be drawn onto the number line for our final graph. When our solution is given in interval notation it will be expressed in a manner very similar to single inequalities (there is a symbol that can be used for AND, the intersection - , but we will not use it here).  Solve each inequality, graph the solution, and express it interval notation.     Again, as we graph AND inequalities, only the overlapping parts of the individual graphs makes it to the final number line. As we graph AND inequalities there are also three different types of results we could get. The first is shown in the above example. The second is if the arrows both point the same way, this is shown below on the left. The third is if the arrows point opposite ways but don’t overlap, this is shown below on the right. Notice how interval notation is expressed in each case.       In this graph, the overlap is only the smaller graph, so this is what makes it to the final number line.  In this graph there is no overlap of the parts. Because their is no overlap, no values make it to the final number line.    Interval Notation:  Interval Notation: No Solution or   The third type of compound inequality is a special type of AND inequality. When our variable (or expression containing the variable) is between two numbers, we can write it as a single math sentence with three parts, such as , to show is between and (or equal to ). When solving these type of inequalities, because there are three parts to work with, to stay balanced we will do the same thing to all three parts (rather than just both sides) to isolate the variable in the middle. The graph then is simply the values between the numbers with appropriate brackets on the ends.  Solve the inequality, graph the solution, and give interval notation.      Exercises - Compound Inequalities    Solve each compound inequality, graph its solution, and give interval notation.                                                                                                                                                                    "
+  "body": " Compound Inequalities   Objective: Solve, graph and give interval notation to the solution of compound inequalities.   Several inequalities can be combined together to form what are called compound inequalities. There are three types of compound inequalities which we will investi- gate in this lesson.  The first type of a compound inequality is an OR inequality. For this type of inequality we want a true statment from either one inequality OR the other inequality OR both. When we are graphing these type of inequalities we will graph each individual inequality above the number line, then move them both down together onto the actual number line for our graph that combines them together.  When we give interval notation for our solution, if there are two different parts to the graph we will put a (union) symbol between two sets of interval notation, one for each part.  Solve each inequality, graph the solution, and give interval notation of solution.      World View Note: The symbol for infinity was first used by the Romans, although at the time the number was used for . The greeks also used the symbol for .  There are several different results that could result from an OR statement. The graphs could be pointing different directions, as in the graph above, or pointing in the same direction as in the graph below on the left, or pointing opposite direc- tions, but overlapping as in the graph below on the right. Notice how interval notation works for each of these cases.       As the graphs overlap, we take the largest graph for our solution.  When the graphs are combined they cover the entire number line.    Interval Notation:  Interval Notation: , or   The second type of compound inequality is an AND inequality. AND inequalities require both statements to be true. If one is false, they both are false. When we graph these inequalities we can follow a similar process, first graph both inequali- ties above the number line, but this time only where they overlap will be drawn onto the number line for our final graph. When our solution is given in interval notation it will be expressed in a manner very similar to single inequalities (there is a symbol that can be used for AND, the intersection - , but we will not use it here).  Solve each inequality, graph the solution, and express it interval notation.     Again, as we graph AND inequalities, only the overlapping parts of the individual graphs makes it to the final number line. As we graph AND inequalities there are also three different types of results we could get. The first is shown in the above example. The second is if the arrows both point the same way, this is shown below on the left. The third is if the arrows point opposite ways but don’t overlap, this is shown below on the right. Notice how interval notation is expressed in each case.       In this graph, the overlap is only the smaller graph, so this is what makes it to the final number line.  In this graph there is no overlap of the parts. Because their is no overlap, no values make it to the final number line.    Interval Notation:  Interval Notation: No Solution or   The third type of compound inequality is a special type of AND inequality. When our variable (or expression containing the variable) is between two numbers, we can write it as a single math sentence with three parts, such as , to show is between and (or equal to ). When solving these type of inequalities, because there are three parts to work with, to stay balanced we will do the same thing to all three parts (rather than just both sides) to isolate the variable in the middle. The graph then is simply the values between the numbers with appropriate brackets on the ends.  Solve the inequality, graph the solution, and give interval notation.      Exercises - Compound Inequalities    Solve each compound inequality, graph its solution, and give interval notation.                                                                                                                                                                                                    "
 },
 {
   "id": "inequalities-compound-6",
@@ -8935,7 +8935,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-3",
@@ -8944,7 +8944,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-4",
@@ -8953,7 +8953,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-5",
@@ -8962,7 +8962,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-6",
@@ -8971,7 +8971,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-7",
@@ -8980,7 +8980,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-8",
@@ -8989,7 +8989,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-9",
@@ -8998,7 +8998,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-10",
@@ -9007,7 +9007,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-11",
@@ -9016,7 +9016,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-12",
@@ -9025,7 +9025,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-13",
@@ -9034,7 +9034,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-14",
@@ -9043,7 +9043,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-15",
@@ -9052,7 +9052,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-16",
@@ -9061,7 +9061,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-17",
@@ -9070,7 +9070,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-18",
@@ -9079,7 +9079,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-19",
@@ -9088,7 +9088,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-20",
@@ -9097,7 +9097,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-21",
@@ -9106,7 +9106,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-22",
@@ -9115,7 +9115,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-23",
@@ -9124,7 +9124,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-24",
@@ -9133,7 +9133,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-25",
@@ -9142,7 +9142,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-26",
@@ -9151,7 +9151,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.25",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-inequalities-compound-2-27",
@@ -9160,7 +9160,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-28",
@@ -9169,7 +9169,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-29",
@@ -9178,7 +9178,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-30",
@@ -9187,7 +9187,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-31",
@@ -9196,7 +9196,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-32",
@@ -9205,7 +9205,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-compound-2-33",
@@ -9214,7 +9214,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.2.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "inequalities-absolute-value",
@@ -9223,7 +9223,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.3",
   "title": "Absolute Value Inequalities",
-  "body": " Absolute Value Inequalities   Objective: Solve, graph and give interval notation for the solution to inequalities with absolute values.   When an inequality has an absolute value we will have to remove the absolute value in order to graph the solution or give interval notation. The way we remove the absolute value depends on the direction of the inequality symbol.  Consider .  Absolute value is defined as distance from zero. Another way to read this inequality would be the distance from zero is less than . So on a number line we will shade all points that are less than units away from zero. This graph looks just like the graphs of the three part compound inequalities! When the absolute value is less than a number we will remove the absolute value by changing the problem to a three part inequality, with the negative value on the left and the positive value on the right. So becomes , as the graph above illustrates.  Consider .  Absolute value is defined as distance from zero. Another way to read this inequality would be the distance from zero is greater than . So on the number line we shade all points that are more than units away from zero. This graph looks just like the graphs of the OR compound inequalities! When the absolute value is greater than a number we will remove the absolute value by changing the problem to an OR inequality, the first inequality looking just like the problem with no absolute value, the second flipping the inequality symbol and changing the value to a negative. So becomes or , as the graph above illustrates.   World View Note: The phrase “absolute value” comes from German mathematician Karl Weierstrass in , though he used the absolute value symbol for complex numbers. The first known use of the symbol for integers comes from a edition of a college algebra text!  For all absolute value inequalities we can also express our answers in interval notation which is done the same way it is done for standard compound inequalities.  We can solve absolute value inequalities much like we solved absolute value equa- tions. Our first step will be to isolate the absolute value. Next we will remove the absolute value by making a three part inequality if the absolute value is less than a number, or making an OR inequality if the absolute value is greater than a number. Then we will solve these inequalites. Remember, if we multiply or divide by a negative the inequality symbol will switch directions!  Solve, graph, and give interval notation for the solution.     Solve, graph, and give interval notation for the solution.     In the previous example, we cannot combine and because they are not like terms, the has an absolute value attached. So we must first clear the by adding , then divide by . The next example is similar.  Solve, graph, and give interval notation for the solution.     In the previous example, we cannot distribute the into the absolute value. We can never distribute or combine things outside the absolute value with what is inside the absolute value. Our only way to solve is to first isolate the absolute value by clearing the values around it, then either make a compound inequality (and OR or a three part) to solve.  It is important to remember as we are solving these equations, the absolute value is always positive. If we end up with an absolute value is less than a negative number, then we will have no solution because absolute value will always be positive, greater than a negative. Similarly, if absolute value is greater than a negative, this will always happen. Here the answer will be all real numbers.  Solve, graph, and give interval notation for the solution.     Solve, graph, and give interval notation for the solution.      Exercises - Absolute Value Inequalities    Solve each inequality, graph its solution, and give interval notation.                                                                                                                                                                                    "
+  "body": " Absolute Value Inequalities   Objective: Solve, graph and give interval notation for the solution to inequalities with absolute values.   When an inequality has an absolute value we will have to remove the absolute value in order to graph the solution or give interval notation. The way we remove the absolute value depends on the direction of the inequality symbol.  Consider .  Absolute value is defined as distance from zero. Another way to read this inequality would be the distance from zero is less than . So on a number line we will shade all points that are less than units away from zero. This graph looks just like the graphs of the three part compound inequalities! When the absolute value is less than a number we will remove the absolute value by changing the problem to a three part inequality, with the negative value on the left and the positive value on the right. So becomes , as the graph above illustrates.  Consider .  Absolute value is defined as distance from zero. Another way to read this inequality would be the distance from zero is greater than . So on the number line we shade all points that are more than units away from zero. This graph looks just like the graphs of the OR compound inequalities! When the absolute value is greater than a number we will remove the absolute value by changing the problem to an OR inequality, the first inequality looking just like the problem with no absolute value, the second flipping the inequality symbol and changing the value to a negative. So becomes or , as the graph above illustrates.   World View Note: The phrase “absolute value” comes from German mathematician Karl Weierstrass in , though he used the absolute value symbol for complex numbers. The first known use of the symbol for integers comes from a edition of a college algebra text!  For all absolute value inequalities we can also express our answers in interval notation which is done the same way it is done for standard compound inequalities.  We can solve absolute value inequalities much like we solved absolute value equa- tions. Our first step will be to isolate the absolute value. Next we will remove the absolute value by making a three part inequality if the absolute value is less than a number, or making an OR inequality if the absolute value is greater than a number. Then we will solve these inequalites. Remember, if we multiply or divide by a negative the inequality symbol will switch directions!  Solve, graph, and give interval notation for the solution.     Solve, graph, and give interval notation for the solution.     In the previous example, we cannot combine and because they are not like terms, the has an absolute value attached. So we must first clear the by adding , then divide by . The next example is similar.  Solve, graph, and give interval notation for the solution.     In the previous example, we cannot distribute the into the absolute value. We can never distribute or combine things outside the absolute value with what is inside the absolute value. Our only way to solve is to first isolate the absolute value by clearing the values around it, then either make a compound inequality (and OR or a three part) to solve.  It is important to remember as we are solving these equations, the absolute value is always positive. If we end up with an absolute value is less than a negative number, then we will have no solution because absolute value will always be positive, greater than a negative. Similarly, if absolute value is greater than a negative, this will always happen. Here the answer will be all real numbers.  Solve, graph, and give interval notation for the solution.     Solve, graph, and give interval notation for the solution.      Exercises - Absolute Value Inequalities    Solve each inequality, graph its solution, and give interval notation.                                                                                                                                                                                                                       "
 },
 {
   "id": "inequalities-absolute-value-11",
@@ -9277,7 +9277,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-3",
@@ -9286,7 +9286,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-4",
@@ -9295,7 +9295,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-5",
@@ -9304,7 +9304,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-6",
@@ -9313,7 +9313,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-7",
@@ -9322,7 +9322,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-8",
@@ -9331,7 +9331,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-9",
@@ -9340,7 +9340,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-10",
@@ -9349,7 +9349,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-11",
@@ -9358,7 +9358,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-12",
@@ -9367,7 +9367,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-13",
@@ -9376,7 +9376,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-14",
@@ -9385,7 +9385,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-15",
@@ -9394,7 +9394,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-16",
@@ -9403,7 +9403,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-17",
@@ -9412,7 +9412,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-18",
@@ -9421,7 +9421,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-19",
@@ -9430,7 +9430,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-20",
@@ -9439,7 +9439,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-21",
@@ -9448,7 +9448,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-22",
@@ -9457,7 +9457,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-23",
@@ -9466,7 +9466,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-24",
@@ -9475,7 +9475,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-25",
@@ -9484,7 +9484,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-26",
@@ -9493,7 +9493,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-27",
@@ -9502,7 +9502,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-28",
@@ -9511,7 +9511,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-29",
@@ -9520,7 +9520,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-30",
@@ -9529,7 +9529,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-31",
@@ -9538,7 +9538,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-32",
@@ -9547,7 +9547,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-33",
@@ -9556,7 +9556,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-34",
@@ -9565,7 +9565,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-35",
@@ -9574,7 +9574,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-inequalities-absolute-2-36",
@@ -9583,7 +9583,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.3.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "systems-graphing",
@@ -9592,7 +9592,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.1",
   "title": "Graphing",
-  "body": " Graphing   Objective: Solve systems of equations by graphing and identifying the point of intersection.   We have solved problems like by adding to both sides and then dividing by (solution is ). We also have methods to solve equations with more than one variable in them. It turns out that to solve for more than one variable we will need the same number of equations as variables. For example, to solve for two variables such as x and y we will need two equations. When we have several equations we are using to solve, we call the equations a system of equations . When solving a system of equations we are looking for a solution that works in both equations. This solution is usually given as an ordered pair . The following example illustrates a solution working in both equations      As we found a true statement for both equations we know is the solution to the system. It is in fact the only combination of numbers that works in both equations. In this lesson we will be working to find this point given the equations. It seems to follow that if we use points to describe the solution, we can use graphs to find the solutions.  If the graph of a line is a picture of all the solutions, we can graph two lines on the same coordinate plane to see the solutions of both equations. We are interested in the point that is a solution for both lines, this would be where the lines intersect! If we can find the intersection of the lines we have found the solution that works in both equations.       To graph each equation, we start at the -intercept and use the slope to get the next point and connect the dots.  Remember a negative slope is downhill!  Find the intersection point,    Our Solution     Often our equations won’t be in slope-intercept form and we will have to solve both equations for first so we can idenfity the slope and -intercept.       To graph each equation, we start at the -intercept and use the slope to get the next point and connect the dots.  Remember a negative slope is downhill!  Find the intersection point,    Our Solution     As we are graphing our lines, it is possible to have one of two unexpected results. These are shown and discussed in the next two example.       To graph each equation, we start at the -intercept and use the slope to get the next point and connect the dots.  The two lines do not intersect! They are parallel! If the lines do not intersect we know that there is no point that works in both equations, there is no solution  No solution     We also could have noticed that both lines had the same slope. Remembering that parallel lines have the same slope we would have known there was no solution even without having to graph the lines.       To graph each equation, we start at the -intercept and use the slope to get the next point and connect the dots.  Both equations are the same line! As one line is directly on top of the other line, we can say that the lines “intersect” at all the points! Here we say we have infinite solutions.     Once we had both equations in slope-intercept form we could have noticed that the equations were the same. At this point we could have stated that there are infinite solutions without having to go through the work of graphing the equations.   World View Note: The Babylonians were the first to work with systems of equations with two variables. However, their work with systems was quickly passed by the Greeks who would solve systems of equations with three or four variables and around AD, developed methods for solving systems with any number of unknowns!   Exercises - Graphing    Solve each equation by graphing.                                                                                                                                                           "
+  "body": " Graphing   Objective: Solve systems of equations by graphing and identifying the point of intersection.   We have solved problems like by adding to both sides and then dividing by (solution is ). We also have methods to solve equations with more than one variable in them. It turns out that to solve for more than one variable we will need the same number of equations as variables. For example, to solve for two variables such as x and y we will need two equations. When we have several equations we are using to solve, we call the equations a system of equations . When solving a system of equations we are looking for a solution that works in both equations. This solution is usually given as an ordered pair . The following example illustrates a solution working in both equations      As we found a true statement for both equations we know is the solution to the system. It is in fact the only combination of numbers that works in both equations. In this lesson we will be working to find this point given the equations. It seems to follow that if we use points to describe the solution, we can use graphs to find the solutions.  If the graph of a line is a picture of all the solutions, we can graph two lines on the same coordinate plane to see the solutions of both equations. We are interested in the point that is a solution for both lines, this would be where the lines intersect! If we can find the intersection of the lines we have found the solution that works in both equations.       To graph each equation, we start at the -intercept and use the slope to get the next point and connect the dots.  Remember a negative slope is downhill!  Find the intersection point,    Our Solution     Often our equations won’t be in slope-intercept form and we will have to solve both equations for first so we can idenfity the slope and -intercept.       To graph each equation, we start at the -intercept and use the slope to get the next point and connect the dots.  Remember a negative slope is downhill!  Find the intersection point,    Our Solution     As we are graphing our lines, it is possible to have one of two unexpected results. These are shown and discussed in the next two example.       To graph each equation, we start at the -intercept and use the slope to get the next point and connect the dots.  The two lines do not intersect! They are parallel! If the lines do not intersect we know that there is no point that works in both equations, there is no solution  No solution     We also could have noticed that both lines had the same slope. Remembering that parallel lines have the same slope we would have known there was no solution even without having to graph the lines.       To graph each equation, we start at the -intercept and use the slope to get the next point and connect the dots.  Both equations are the same line! As one line is directly on top of the other line, we can say that the lines “intersect” at all the points! Here we say we have infinite solutions.     Once we had both equations in slope-intercept form we could have noticed that the equations were the same. At this point we could have stated that there are infinite solutions without having to go through the work of graphing the equations.   World View Note: The Babylonians were the first to work with systems of equations with two variables. However, their work with systems was quickly passed by the Greeks who would solve systems of equations with three or four variables and around AD, developed methods for solving systems with any number of unknowns!   Exercises - Graphing    Solve each equation by graphing.                                                                                                                                                                                         "
 },
 {
   "id": "systems-graphing-4",
@@ -9646,7 +9646,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-3",
@@ -9655,7 +9655,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-4",
@@ -9664,7 +9664,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-5",
@@ -9673,7 +9673,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-6",
@@ -9682,7 +9682,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-7",
@@ -9691,7 +9691,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-8",
@@ -9700,7 +9700,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-9",
@@ -9709,7 +9709,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-10",
@@ -9718,7 +9718,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-11",
@@ -9727,7 +9727,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-12",
@@ -9736,7 +9736,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-13",
@@ -9745,7 +9745,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-14",
@@ -9754,7 +9754,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-15",
@@ -9763,7 +9763,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-16",
@@ -9772,7 +9772,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-17",
@@ -9781,7 +9781,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-18",
@@ -9790,7 +9790,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-19",
@@ -9799,7 +9799,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-20",
@@ -9808,7 +9808,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-21",
@@ -9817,7 +9817,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-22",
@@ -9826,7 +9826,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-23",
@@ -9835,7 +9835,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-24",
@@ -9844,7 +9844,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-25",
@@ -9853,7 +9853,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-26",
@@ -9862,7 +9862,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-27",
@@ -9871,7 +9871,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-28",
@@ -9880,7 +9880,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-29",
@@ -9889,7 +9889,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-30",
@@ -9898,7 +9898,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-graphing-2-31",
@@ -9907,7 +9907,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.1.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "systems-substitution",
@@ -9916,7 +9916,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.2",
   "title": "Substitution",
-  "body": " Substitution   Objective: Solve systems of equations using substitution.   When solving a system by graphing has several limitations. First, it requires the graph to be perfectly drawn, if the lines are not straight we may arrive at the wrong answer. Second, graphing is not a great method to use if the answer is really large, over for example, or if the answer is a decimal the that graph will not help us find, for example. For these reasons we will rarely use graphing to solve our systems. Instead, an algebraic approach will be used.  The first algebraic approach is called substitution. We will build the concepts of substitution through several example, then end with a five-step process to solve problems using this method.     When we know what one variable equals we can plug that value (or expression) in for the variable in the other equation. It is very important that when we substitute, the substituted value goes in parenthesis. The reason for this is shown in the next example.     By using the entire expression to replace in the other equation we were able to reduce the system to a single linear equation which we can easily solve for our first variable. However, the lone variable (a variable without a coefficient) is not always alone on one side of the equation. If this happens we can isolate it by solving for the lone variable.     The process in the previous example is how we will solve problems using substitution. This process is described and illustrated in the following table which lists the five steps to solving by substitution.   Solving Systems of Equations by Substitution    Problem       1. Find the lone variable       2. Solve for the lone variable       3. Substitute into the untouched equation       4. Solve      5. Plug into lone variable equation and evaluate      Solution  (-1,-3)     Sometimes we have several lone variables in a problem. In this case we will have the choice on which lone variable we wish to solve for, either will give the same final result.     Just as with graphing it is possible to have no solution (parallel lines) or infinite solutions (same line) with the substitution method. While we won’t have a parallel line or the same line to look at and conclude if it is one or the other, the process takes an interesting turn as shown in the following example.     Because we had a true statement, and no variables, we know that anything that works in the first equation, will also work in the second equation. However, we do not always end up with a true statement.     Because we had a false statement, and no variables, we know that nothing will work in both equations.   World View Note: French mathematician Rene Descartes wrote a book which included an appendix on geometry. It was in this book that he suggested using letters from the end of the alphabet for unknown values. This is why often we are solving for the variables , , and .  One more question needs to be considered, what if there is no lone variable? If there is no lone variable substitution can still work to solve, we will just have to select one variable to solve for and use fractions as we solve.     Using the fractions does make the problem a bit more tricky. This is why we have another method for solving systems of equations that will be discussed in another lesson.   Exercises - Substitution    Solve each system by substitution.                                                                                                                                                                                                             "
+  "body": " Substitution   Objective: Solve systems of equations using substitution.   When solving a system by graphing has several limitations. First, it requires the graph to be perfectly drawn, if the lines are not straight we may arrive at the wrong answer. Second, graphing is not a great method to use if the answer is really large, over for example, or if the answer is a decimal the that graph will not help us find, for example. For these reasons we will rarely use graphing to solve our systems. Instead, an algebraic approach will be used.  The first algebraic approach is called substitution. We will build the concepts of substitution through several example, then end with a five-step process to solve problems using this method.     When we know what one variable equals we can plug that value (or expression) in for the variable in the other equation. It is very important that when we substitute, the substituted value goes in parenthesis. The reason for this is shown in the next example.     By using the entire expression to replace in the other equation we were able to reduce the system to a single linear equation which we can easily solve for our first variable. However, the lone variable (a variable without a coefficient) is not always alone on one side of the equation. If this happens we can isolate it by solving for the lone variable.     The process in the previous example is how we will solve problems using substitution. This process is described and illustrated in the following table which lists the five steps to solving by substitution.   Solving Systems of Equations by Substitution    Problem       1. Find the lone variable       2. Solve for the lone variable       3. Substitute into the untouched equation       4. Solve      5. Plug into lone variable equation and evaluate      Solution  (-1,-3)     Sometimes we have several lone variables in a problem. In this case we will have the choice on which lone variable we wish to solve for, either will give the same final result.     Just as with graphing it is possible to have no solution (parallel lines) or infinite solutions (same line) with the substitution method. While we won’t have a parallel line or the same line to look at and conclude if it is one or the other, the process takes an interesting turn as shown in the following example.     Because we had a true statement, and no variables, we know that anything that works in the first equation, will also work in the second equation. However, we do not always end up with a true statement.     Because we had a false statement, and no variables, we know that nothing will work in both equations.   World View Note: French mathematician Rene Descartes wrote a book which included an appendix on geometry. It was in this book that he suggested using letters from the end of the alphabet for unknown values. This is why often we are solving for the variables , , and .  One more question needs to be considered, what if there is no lone variable? If there is no lone variable substitution can still work to solve, we will just have to select one variable to solve for and use fractions as we solve.     Using the fractions does make the problem a bit more tricky. This is why we have another method for solving systems of equations that will be discussed in another lesson.   Exercises - Substitution    Solve each system by substitution.                                                                                                                                                                                                                                                     "
 },
 {
   "id": "systems-substitution-5",
@@ -9997,7 +9997,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-3",
@@ -10006,7 +10006,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-4",
@@ -10015,7 +10015,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-5",
@@ -10024,7 +10024,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-6",
@@ -10033,7 +10033,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-7",
@@ -10042,7 +10042,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-8",
@@ -10051,7 +10051,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-9",
@@ -10060,7 +10060,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-10",
@@ -10069,7 +10069,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-11",
@@ -10078,7 +10078,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-12",
@@ -10087,7 +10087,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-13",
@@ -10096,7 +10096,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-14",
@@ -10105,7 +10105,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-15",
@@ -10114,7 +10114,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-16",
@@ -10123,7 +10123,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-17",
@@ -10132,7 +10132,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-18",
@@ -10141,7 +10141,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-19",
@@ -10150,7 +10150,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-20",
@@ -10159,7 +10159,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-21",
@@ -10168,7 +10168,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-22",
@@ -10177,7 +10177,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-23",
@@ -10186,7 +10186,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-24",
@@ -10195,7 +10195,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-25",
@@ -10204,7 +10204,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-26",
@@ -10213,7 +10213,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-27",
@@ -10222,7 +10222,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-28",
@@ -10231,7 +10231,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-29",
@@ -10240,7 +10240,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-30",
@@ -10249,7 +10249,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-31",
@@ -10258,7 +10258,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-32",
@@ -10267,7 +10267,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-33",
@@ -10276,7 +10276,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-34",
@@ -10285,7 +10285,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-35",
@@ -10294,7 +10294,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-36",
@@ -10303,7 +10303,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-37",
@@ -10312,7 +10312,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-38",
@@ -10321,7 +10321,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-39",
@@ -10330,7 +10330,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-40",
@@ -10339,7 +10339,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-substitution-2-41",
@@ -10348,7 +10348,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.2.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "systems-elimination",
@@ -10357,7 +10357,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.3",
   "title": "Addition\/Elimination",
-  "body": " Addition\/Elimination   Objective: Solve systems of equations using the addition\/elimination method.   When solving systems we have found that graphing is very limited when solving equations. We then considered a second method known as substituion. This is probably the most used idea in solving systems in various areas of algebra. How- ever, substitution can get ugly if we don’t have a lone variable. This leads us to our second method for solving systems of equations. This method is known as either Elimination or Addition. We will set up the process in the following examples, then define the five step process we can use to solve by elimination.     In the previous example one variable had opposites in front of it, and . Adding these together eliminated the y completely. This allowed us to solve for the . This is the idea behind the addition method. However, generally we won’t have opposites in front of one of the variables. In this case we will manipulate the equations to get the opposites we want by multiplying one or both equations (on both sides!). This is shown in the next example.     When we looked at the terms, and we decided to multiply the by to get the opposites we were looking for. What we are looking for with our opposites is the least common multiple (LCM) of the coefficients. We also could have solved the above problem by looking at the terms with , and . The LCM of and is . So we would want to multiply both equations, the by , and the by to get opposites, and . This illustrates an important point, some problems we will have to multiply both equations by a constant (on both sides) to get the opposites we want.     It is important for each problem as we get started that all variables and constants are lined up before we start multiplying and adding equations. This is illustrated in the next example which includes the five steps we will go through to solve a problem using elimination.   Solving a System of Equations by Addition\/Elimination    Problem           1. Line up the variables and constants      2. Multiply to get opposites (use LCD)      3. Add      4. Solve      5. Plug into either original and solve      Solution        World View Note: The famous mathematical text, The Nine Chapters on the Mathematical Art , which was printed around AD in China describes a for- mula very similar to Gaussian elimination which is very similar to the addition method.  Just as with graphing and substution, it is possible to have no solution or infinite solutions with elimination. Just as with substitution, if the variables all disappear from our problem, a true statment will indicate infinite solutions and a false stat- ment will indicate no solution.        We have covered three different methods that can be used to solve a system of two equations with two variables. While all three can be used to solve any system, graphing works great for small integer solutions. Substitution works great when we have a lone variable, and addition works great when the other two methods fail. As each method has its own strengths, it is important you are familiar with all three methods.   Exercises - Addition\/Elimination    Solve each system by elimination.                                                                                                                                                                               "
+  "body": " Addition\/Elimination   Objective: Solve systems of equations using the addition\/elimination method.   When solving systems we have found that graphing is very limited when solving equations. We then considered a second method known as substituion. This is probably the most used idea in solving systems in various areas of algebra. How- ever, substitution can get ugly if we don’t have a lone variable. This leads us to our second method for solving systems of equations. This method is known as either Elimination or Addition. We will set up the process in the following examples, then define the five step process we can use to solve by elimination.     In the previous example one variable had opposites in front of it, and . Adding these together eliminated the y completely. This allowed us to solve for the . This is the idea behind the addition method. However, generally we won’t have opposites in front of one of the variables. In this case we will manipulate the equations to get the opposites we want by multiplying one or both equations (on both sides!). This is shown in the next example.     When we looked at the terms, and we decided to multiply the by to get the opposites we were looking for. What we are looking for with our opposites is the least common multiple (LCM) of the coefficients. We also could have solved the above problem by looking at the terms with , and . The LCM of and is . So we would want to multiply both equations, the by , and the by to get opposites, and . This illustrates an important point, some problems we will have to multiply both equations by a constant (on both sides) to get the opposites we want.     It is important for each problem as we get started that all variables and constants are lined up before we start multiplying and adding equations. This is illustrated in the next example which includes the five steps we will go through to solve a problem using elimination.   Solving a System of Equations by Addition\/Elimination    Problem           1. Line up the variables and constants      2. Multiply to get opposites (use LCD)      3. Add      4. Solve      5. Plug into either original and solve      Solution        World View Note: The famous mathematical text, The Nine Chapters on the Mathematical Art , which was printed around AD in China describes a for- mula very similar to Gaussian elimination which is very similar to the addition method.  Just as with graphing and substution, it is possible to have no solution or infinite solutions with elimination. Just as with substitution, if the variables all disappear from our problem, a true statment will indicate infinite solutions and a false stat- ment will indicate no solution.        We have covered three different methods that can be used to solve a system of two equations with two variables. While all three can be used to solve any system, graphing works great for small integer solutions. Substitution works great when we have a lone variable, and addition works great when the other two methods fail. As each method has its own strengths, it is important you are familiar with all three methods.   Exercises - Addition\/Elimination    Solve each system by elimination.                                                                                                                                                                                                                 "
 },
 {
   "id": "systems-elimination-4",
@@ -10420,7 +10420,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-3",
@@ -10429,7 +10429,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-4",
@@ -10438,7 +10438,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-5",
@@ -10447,7 +10447,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-6",
@@ -10456,7 +10456,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-7",
@@ -10465,7 +10465,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-8",
@@ -10474,7 +10474,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-9",
@@ -10483,7 +10483,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-10",
@@ -10492,7 +10492,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-11",
@@ -10501,7 +10501,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-12",
@@ -10510,7 +10510,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-13",
@@ -10519,7 +10519,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-14",
@@ -10528,7 +10528,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-15",
@@ -10537,7 +10537,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-16",
@@ -10546,7 +10546,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-17",
@@ -10555,7 +10555,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-18",
@@ -10564,7 +10564,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-19",
@@ -10573,7 +10573,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-20",
@@ -10582,7 +10582,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-21",
@@ -10591,7 +10591,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-22",
@@ -10600,7 +10600,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-23",
@@ -10609,7 +10609,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-24",
@@ -10618,7 +10618,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-25",
@@ -10627,7 +10627,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-26",
@@ -10636,7 +10636,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-27",
@@ -10645,7 +10645,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-28",
@@ -10654,7 +10654,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-29",
@@ -10663,7 +10663,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-30",
@@ -10672,7 +10672,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-31",
@@ -10681,7 +10681,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-32",
@@ -10690,7 +10690,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-33",
@@ -10699,7 +10699,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-34",
@@ -10708,7 +10708,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-elimination-2-35",
@@ -10717,7 +10717,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.3.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "systems-three-variables",
@@ -10726,7 +10726,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.4",
   "title": "Three Variables",
-  "body": " Three Variables   Objective: Solve systems of equations with three variables using addi- tion\/elimination.   Solving systems of equations with variables is very similar to how we solve systems with two variables. When we had two variables we reduced the system down to one with only one variable (by substitution or addition). With three variables we will reduce the system down to one with two variables (usually by addition), which we can then solve by either addition or substitution.  To reduce from three variables down to two it is very important to keep the work organized. We will use addition with two equations to eliminate one variable. This new equation we will call (A). Then we will use a different pair of equations and use addition to eliminate the same variable. This second new equation we will call (B). Once we have done this we will have two equations (A) and (B) with the same two variables that we can solve using either method. This is shown in the following examples.     As we are solving for , , and we will have an ordered triplet instead of just the ordered pair . In this above problem, was easily eliminated using the addition method. However, sometimes we may have to do a bit of work to get a variable to eliminate. Just as with addition of two equations, we may have to multiply equations by something on both sides to get the opposites we want so a variable eliminates. As we do this remmeber it is improtant to eliminate the same variable both times using two different pairs of equations.      World View Note: Around , The Nine Chapters on the Mathematical Art were published in China. This book had problems, and chapter was about solving systems of equations. One problem had four equations with five variables!  Just as with two variables and two equations, we can have special cases come up with three variables and three equations. The way we interpret the result is identical.        Equations with three (or more) variables are not any more difficult than two variables if we are careful to keep our information organized and eliminate the same variable twice using two different pairs of equations. It is possible to solve each system several different ways. We can use different pairs of equations or eliminate variables in different orders, but as long as our information is organized and our algebra is correct, we will arrive at the same final solution.   Exercises - Three Variables    Solve each of the following systems of equation.                                                                                                                                                                     "
+  "body": " Three Variables   Objective: Solve systems of equations with three variables using addi- tion\/elimination.   Solving systems of equations with variables is very similar to how we solve systems with two variables. When we had two variables we reduced the system down to one with only one variable (by substitution or addition). With three variables we will reduce the system down to one with two variables (usually by addition), which we can then solve by either addition or substitution.  To reduce from three variables down to two it is very important to keep the work organized. We will use addition with two equations to eliminate one variable. This new equation we will call (A). Then we will use a different pair of equations and use addition to eliminate the same variable. This second new equation we will call (B). Once we have done this we will have two equations (A) and (B) with the same two variables that we can solve using either method. This is shown in the following examples.     As we are solving for , , and we will have an ordered triplet instead of just the ordered pair . In this above problem, was easily eliminated using the addition method. However, sometimes we may have to do a bit of work to get a variable to eliminate. Just as with addition of two equations, we may have to multiply equations by something on both sides to get the opposites we want so a variable eliminates. As we do this remmeber it is improtant to eliminate the same variable both times using two different pairs of equations.      World View Note: Around , The Nine Chapters on the Mathematical Art were published in China. This book had problems, and chapter was about solving systems of equations. One problem had four equations with five variables!  Just as with two variables and two equations, we can have special cases come up with three variables and three equations. The way we interpret the result is identical.        Equations with three (or more) variables are not any more difficult than two variables if we are careful to keep our information organized and eliminate the same variable twice using two different pairs of equations. It is possible to solve each system several different ways. We can use different pairs of equations or eliminate variables in different orders, but as long as our information is organized and our algebra is correct, we will arrive at the same final solution.   Exercises - Three Variables    Solve each of the following systems of equation.                                                                                                                                                                                                     "
 },
 {
   "id": "systems-three-variables-5",
@@ -10771,7 +10771,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-3",
@@ -10780,7 +10780,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-4",
@@ -10789,7 +10789,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-5",
@@ -10798,7 +10798,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-6",
@@ -10807,7 +10807,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-7",
@@ -10816,7 +10816,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-8",
@@ -10825,7 +10825,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-9",
@@ -10834,7 +10834,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-10",
@@ -10843,7 +10843,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-11",
@@ -10852,7 +10852,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-12",
@@ -10861,7 +10861,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-13",
@@ -10870,7 +10870,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-14",
@@ -10879,7 +10879,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-15",
@@ -10888,7 +10888,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-16",
@@ -10897,7 +10897,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-17",
@@ -10906,7 +10906,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-18",
@@ -10915,7 +10915,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-19",
@@ -10924,7 +10924,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-20",
@@ -10933,7 +10933,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-21",
@@ -10942,7 +10942,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-22",
@@ -10951,7 +10951,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-23",
@@ -10960,7 +10960,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-24",
@@ -10969,7 +10969,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-25",
@@ -10978,7 +10978,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-26",
@@ -10987,7 +10987,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-27",
@@ -10996,7 +10996,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-28",
@@ -11005,7 +11005,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-29",
@@ -11014,7 +11014,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-30",
@@ -11023,7 +11023,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-31",
@@ -11032,7 +11032,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-32",
@@ -11041,7 +11041,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-systems-three-variables-2-33",
@@ -11050,7 +11050,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "systems-value-problems",
@@ -11059,7 +11059,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.5",
   "title": "Value Problems",
-  "body": " Value Problems   Objective: Solve value problems by setting up a system of equations.   One application of system of equations are known as value problems. Value problems are ones where each variable has a value attached to it. For example, if our variable is the number of nickles in a person’s pocket, those nickles would have a value of five cents each. We will use a table to help us set up and solve value problems. The basic structure of the table is shown below.       Number  Value  Total    Item         Item         Total         The first column in the table is used for the number of things we have. Quite often, this will be our variables. The second column is used for the that value each item has. The third column is used for the total value which we calculate by multiplying the number by the value. For example, if we have dimes, each with a value of cents, the total value is cents. The last row of the table is for totals. We only will use the third row (also marked total) for the totals that are given to use. This means sometimes this row may have some blanks in it. Once the table is filled in we can easily make equations by adding each column, setting it equal to the total at the bottom of the column. This is shown in the following example.   In a child’s bank are coins that have a value of . The coins are either quarters or dimes. How many coins each does the child have?       Number  Value  Total    Quarter       Dime       Total       Using value table, use for quarters, for dimes Each quarter’s value is cents, dime’s is cents        Number  Value  Total    Quarter       Dime       Total        Multiply number by value to get totals         Number  Value  Total    Quarter       Dime       Total       We have coins total. This is the number total. We have for the final total. Write final total in cents . Because and are cents      World View Note: American coins are the only coins that do not state the value of the coin. On the back of the dime it says “one dime” (not cents). On the back of the quarter it says “one quarter” (not cents). On the penny it says “one cent” (not cent). The rest of the world (Euros, Yen, Pesos, etc) all write the value as a number so people who don’t speak the language can easily use the coins.  Ticket sales also have a value. Often different types of tickets sell for different prices (values). These problems can be solve in much the same way.   There were tickets sold for an event. Tickets for children cost and tickets for adults cost . Total receipts for the event were . How many of each type of ticket were sold?       Number  Value  Total    Child       Adult       Total       Using our value table, for child, for adult Child tickets have value , adult value is (we can drop the zeros after the decimal point)        Number  Value  Total    Child       Adult       Total        Multiply number by value to get totals         Number  Value  Total    Child       Adult       Total       We have tickets sold. This is our number total The final total was Write in dollars as and are also dollars     Some problems will not give us the total number of items we have. Instead they will give a relationship between the items. Here we will have statements such as “There are twice as many dimes as nickles”. While it is clear that we need to multiply one variable by , it may not be clear which variable gets multiplied by . Generally the equations are backwards from the English sentence. If there are twice as many dimes, than we multiply the other variable (nickels) by two. So the equation would be . This type of problem is in the next example.   A man has a collection of stamps made up of cent stamps and cent stamps. There are three times as many cent stamps as cent stamps. The total value of all the stamps is . How many of each stamp does he have?       Number  Value  Total    Five       Eight       Total       Using our value table, for five cent stamp, and for eight. Also list value of each stamp under value column.        Number  Value  Total    Five       Eight       Total        Multiply number by value to get total         Number  Value  Total    Five       Eight       Total       The final total was (written in cents) We do not know the total number, this is left blank.     The same process for solving value problems can be applied to solving interest problems. Our table titles will be adjusted slightly as we do so.      Invest  Rate  Interest    Account        Account         Total        Our first column is for the amount invested in each account. The second column is the interest rate earned (written as a decimal - move decimal point twice left), and the last column is for the amount of interest earned. Just as before, we multiply the investment amount by the rate to find the final column, the interest earned. This is shown in the following example.   A woman invests in two accounts, one at interest, the other at interest for one year. At the end of the year she had earned in interest. How much did she have invested in each account?       Invest  Rate  Interest    Account       Account       Total       Use our investment table, and for accounts Fill in interest rates as decimals        Invest  Rate  Interest    Account       Account       Total       Multiply across to find interest earned.        Number  Value  Total    Account       Account       Total       Total investment is Total interest was      The same process can be used to find an unknown interest rate.   John invests in one account and in an account paying more in interest. He earned in interest after one year. At what rates did he invest?       Invest  Rate  Interest    Account       Account       Total       Our investment table. Use for first rate. The second rate is higher, or . Be sure to write this rate as a decimal!        Invest  Rate  Interest    Account       Account       Total       Multiply to fill in interest column. Be sure to distribute         Invest  Rate  Interest    Account       Account       Total    1230    Total interest was       Exercises – Value Problems   Solve.    A collection of dimes and quarters is worth . There are coins in all. How many of each is there?    A collection of half dollars and nickels is worth . There are coins in all. How many of each are there?    The attendance at a school concert was . Admission was for adults and for children. The total receipts were . How many adults and how many children attended?    A purse contains made up of dimes and quarters. If there are coins in all, how many dimes and how many quarters were there?    A boy has in nickels and dimes. If there are twice as many dimes as nickels, how many of each kind has he?     is made up of quarters and half dollars. If the number of quarters exceeds the number of half dollars by , how many coins of each denomination are there?    A collection of coins consisting of nickels and dimes amounts to . How many coins of each kind are there?    in dimes and nickels, were distributed among boys. If each received one coin, how many received dimes and how many received nickels?    There were people at a play. Admission was each for adults and cents each for children. The receipts were . How many children and how many adults attended?    There were tickets sold for a women’s basketball game. Tickets for students were cents each and for adults cents each. The total amount of money collected was . How many of each type of ticket was sold?    There were tickets sold for a volleyball game. For activity-card holders, the price was each and for noncard holders the price was each. The total amount of money collected was . How many of each type of ticket was sold?    At a local ball game the hotdogs sold for each and the hamburgers sold for each. There were total sandwiches sold for a total value of . How many of each sandwich was sold?    At a recent Vikings game in admission tickets was taken in. The cost of a student ticket was and the cost of a non-student ticket was . A total of tickets were sold. How many students and how many non- students attended the game?    A bank contains coins in dimes and quarters. The coins have a total value of . Find the number of dimes and quarters in the bank.    A coin purse contains coins in nickels and dimes. The coins have a total value of . Find the number of nickels and dimes in the coin purse.    A business executive bought stamps for . The purchase included stamps and stamps. How many of each type of stamp were bought?    A postal clerk sold some stamps and some stamps. Altogether, stamps were sold for a total cost of . How many of each type of stamps were sold?    A drawer contains stamps and stamps. The number of stamps is four less than three times the number of stamps. The total value of all the stamps is . How many stamps are in the drawer?    The total value of dimes and quarters in a bank is . There are six more quarters than dimes. Find the number of each type of coin in the bank.    A child’s piggy bank contains coins in quarters and dimes. The coins have a total value of . Find the number of quarters in the bank.    A coin bank contains nickels and dimes. The number of dimes is less than twice the number of nickels. The total value of all the coins is . Find the number of each type of coin in the bank.    A total of bills are in a cash box. Some of the bills are one dollar bills, and the rest are five dollar bills. The total amount of cash in the box is . Find the number of each type of bill in the cash box.    A bank teller cashed a check for using twenty dollar bills and ten dollar bills. In all, twelve bills were handed to the customer. Find the number of twenty dollar bills and the number of ten dollar bills.    A collection of stamps consists of stamps and stamps. The number of stamps is three more than four times the number of stamps. The total value of the stamps is . Find the number of stamps in the collection.    A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?    A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?    A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?    A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?    An inheritance of is invested in ways, part at and the remainder at . The combined annual interest was . How much was invested at each rate?    Kerry earned a total of last year on his investments. If was invested at a certain rate of return and was invested in a fund with a rate that was higher, find the two rates of interest.    Jason earned interest last year on his investments. If was invested at a certain rate of return and was invested in a fund with a rate that was double the rate of the first fund, find the two rates of interest.    Millicent earned last year in interest. If was invested at a certain rate of return and was invested in a fund with a rate that was lower, find the two rates of interest.    A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?    A total of was invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?    A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?    A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?    A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?    A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?    A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?    An investment portfolio earned in interest last year. If was invested at a certain rate of return and was invested in a fund with a rate that was lower, find the two rates of interest.    Samantha earned in interest last year on her investments. If was invested at a certain rate of return and was invested in a fund with a rate that was two-thirds the rate of the first fund, find the two rates of interest.    A man has in nickels, dimes, and quarters. There are twice as many nickels as dimes and more dimes than quarters. How many coins of each kind were there?     coins having a value of consists of nickels, dimes and quarters. If there are twice as many quarters as dimes, how many coins of each kind were there?    A bag contains nickels, dimes and quarters having a value of . If there are coins in all and times as many dimes as quarters, how many coins of each kind were there?    "
+  "body": " Value Problems   Objective: Solve value problems by setting up a system of equations.   One application of system of equations are known as value problems. Value problems are ones where each variable has a value attached to it. For example, if our variable is the number of nickles in a person’s pocket, those nickles would have a value of five cents each. We will use a table to help us set up and solve value problems. The basic structure of the table is shown below.       Number  Value  Total    Item         Item         Total         The first column in the table is used for the number of things we have. Quite often, this will be our variables. The second column is used for the that value each item has. The third column is used for the total value which we calculate by multiplying the number by the value. For example, if we have dimes, each with a value of cents, the total value is cents. The last row of the table is for totals. We only will use the third row (also marked total) for the totals that are given to use. This means sometimes this row may have some blanks in it. Once the table is filled in we can easily make equations by adding each column, setting it equal to the total at the bottom of the column. This is shown in the following example.   In a child’s bank are coins that have a value of . The coins are either quarters or dimes. How many coins each does the child have?       Number  Value  Total    Quarter       Dime       Total       Using value table, use for quarters, for dimes Each quarter’s value is cents, dime’s is cents        Number  Value  Total    Quarter       Dime       Total        Multiply number by value to get totals         Number  Value  Total    Quarter       Dime       Total       We have coins total. This is the number total. We have for the final total. Write final total in cents . Because and are cents      World View Note: American coins are the only coins that do not state the value of the coin. On the back of the dime it says “one dime” (not cents). On the back of the quarter it says “one quarter” (not cents). On the penny it says “one cent” (not cent). The rest of the world (Euros, Yen, Pesos, etc) all write the value as a number so people who don’t speak the language can easily use the coins.  Ticket sales also have a value. Often different types of tickets sell for different prices (values). These problems can be solve in much the same way.   There were tickets sold for an event. Tickets for children cost and tickets for adults cost . Total receipts for the event were . How many of each type of ticket were sold?       Number  Value  Total    Child       Adult       Total       Using our value table, for child, for adult Child tickets have value , adult value is (we can drop the zeros after the decimal point)        Number  Value  Total    Child       Adult       Total        Multiply number by value to get totals         Number  Value  Total    Child       Adult       Total       We have tickets sold. This is our number total The final total was Write in dollars as and are also dollars     Some problems will not give us the total number of items we have. Instead they will give a relationship between the items. Here we will have statements such as “There are twice as many dimes as nickles”. While it is clear that we need to multiply one variable by , it may not be clear which variable gets multiplied by . Generally the equations are backwards from the English sentence. If there are twice as many dimes, than we multiply the other variable (nickels) by two. So the equation would be . This type of problem is in the next example.   A man has a collection of stamps made up of cent stamps and cent stamps. There are three times as many cent stamps as cent stamps. The total value of all the stamps is . How many of each stamp does he have?       Number  Value  Total    Five       Eight       Total       Using our value table, for five cent stamp, and for eight. Also list value of each stamp under value column.        Number  Value  Total    Five       Eight       Total        Multiply number by value to get total         Number  Value  Total    Five       Eight       Total       The final total was (written in cents) We do not know the total number, this is left blank.     The same process for solving value problems can be applied to solving interest problems. Our table titles will be adjusted slightly as we do so.      Invest  Rate  Interest    Account        Account         Total        Our first column is for the amount invested in each account. The second column is the interest rate earned (written as a decimal - move decimal point twice left), and the last column is for the amount of interest earned. Just as before, we multiply the investment amount by the rate to find the final column, the interest earned. This is shown in the following example.   A woman invests in two accounts, one at interest, the other at interest for one year. At the end of the year she had earned in interest. How much did she have invested in each account?       Invest  Rate  Interest    Account       Account       Total       Use our investment table, and for accounts Fill in interest rates as decimals        Invest  Rate  Interest    Account       Account       Total       Multiply across to find interest earned.        Number  Value  Total    Account       Account       Total       Total investment is Total interest was      The same process can be used to find an unknown interest rate.   John invests in one account and in an account paying more in interest. He earned in interest after one year. At what rates did he invest?       Invest  Rate  Interest    Account       Account       Total       Our investment table. Use for first rate. The second rate is higher, or . Be sure to write this rate as a decimal!        Invest  Rate  Interest    Account       Account       Total       Multiply to fill in interest column. Be sure to distribute         Invest  Rate  Interest    Account       Account       Total    1230    Total interest was       Exercises – Value Problems   Solve.    A collection of dimes and quarters is worth . There are coins in all. How many of each is there?     A collection of half dollars and nickels is worth . There are coins in all. How many of each are there?     The attendance at a school concert was . Admission was for adults and for children. The total receipts were . How many adults and how many children attended?     A purse contains made up of dimes and quarters. If there are coins in all, how many dimes and how many quarters were there?     A boy has in nickels and dimes. If there are twice as many dimes as nickels, how many of each kind has he?      is made up of quarters and half dollars. If the number of quarters exceeds the number of half dollars by , how many coins of each denomination are there?     A collection of coins consisting of nickels and dimes amounts to . How many coins of each kind are there?     in dimes and nickels, were distributed among boys. If each received one coin, how many received dimes and how many received nickels?     There were people at a play. Admission was each for adults and cents each for children. The receipts were . How many children and how many adults attended?     There were tickets sold for a women’s basketball game. Tickets for students were cents each and for adults cents each. The total amount of money collected was . How many of each type of ticket was sold?     There were tickets sold for a volleyball game. For activity-card holders, the price was each and for noncard holders the price was each. The total amount of money collected was . How many of each type of ticket was sold?     At a local ball game the hotdogs sold for each and the hamburgers sold for each. There were total sandwiches sold for a total value of . How many of each sandwich was sold?     At a recent Vikings game in admission tickets was taken in. The cost of a student ticket was and the cost of a non-student ticket was . A total of tickets were sold. How many students and how many non- students attended the game?     A bank contains coins in dimes and quarters. The coins have a total value of . Find the number of dimes and quarters in the bank.     A coin purse contains coins in nickels and dimes. The coins have a total value of . Find the number of nickels and dimes in the coin purse.     A business executive bought stamps for . The purchase included stamps and stamps. How many of each type of stamp were bought?     A postal clerk sold some stamps and some stamps. Altogether, stamps were sold for a total cost of . How many of each type of stamps were sold?     A drawer contains stamps and stamps. The number of stamps is four less than three times the number of stamps. The total value of all the stamps is . How many stamps are in the drawer?     The total value of dimes and quarters in a bank is . There are six more quarters than dimes. Find the number of each type of coin in the bank.     A child’s piggy bank contains coins in quarters and dimes. The coins have a total value of . Find the number of quarters in the bank.     A coin bank contains nickels and dimes. The number of dimes is less than twice the number of nickels. The total value of all the coins is . Find the number of each type of coin in the bank.     A total of bills are in a cash box. Some of the bills are one dollar bills, and the rest are five dollar bills. The total amount of cash in the box is . Find the number of each type of bill in the cash box.     A bank teller cashed a check for using twenty dollar bills and ten dollar bills. In all, twelve bills were handed to the customer. Find the number of twenty dollar bills and the number of ten dollar bills.     A collection of stamps consists of stamps and stamps. The number of stamps is three more than four times the number of stamps. The total value of the stamps is . Find the number of stamps in the collection.     A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?     A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?     A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?     A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?     An inheritance of is invested in ways, part at and the remainder at . The combined annual interest was . How much was invested at each rate?     Kerry earned a total of last year on his investments. If was invested at a certain rate of return and was invested in a fund with a rate that was higher, find the two rates of interest.     Jason earned interest last year on his investments. If was invested at a certain rate of return and was invested in a fund with a rate that was double the rate of the first fund, find the two rates of interest.     Millicent earned last year in interest. If was invested at a certain rate of return and was invested in a fund with a rate that was lower, find the two rates of interest.     A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?     A total of was invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?     A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?     A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?     A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?     A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?     A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?     An investment portfolio earned in interest last year. If was invested at a certain rate of return and was invested in a fund with a rate that was lower, find the two rates of interest.     Samantha earned in interest last year on her investments. If was invested at a certain rate of return and was invested in a fund with a rate that was two-thirds the rate of the first fund, find the two rates of interest.     A man has in nickels, dimes, and quarters. There are twice as many nickels as dimes and more dimes than quarters. How many coins of each kind were there?      coins having a value of consists of nickels, dimes and quarters. If there are twice as many quarters as dimes, how many coins of each kind were there?     A bag contains nickels, dimes and quarters having a value of . If there are coins in all and times as many dimes as quarters, how many coins of each kind were there?     "
 },
 {
   "id": "systems-value-problems-6",
@@ -11113,7 +11113,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.1",
   "title": "",
-  "body": " A collection of dimes and quarters is worth . There are coins in all. How many of each is there?  "
+  "body": " A collection of dimes and quarters is worth . There are coins in all. How many of each is there?   "
 },
 {
   "id": "exercises-value-problems-4",
@@ -11122,7 +11122,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.2",
   "title": "",
-  "body": " A collection of half dollars and nickels is worth . There are coins in all. How many of each are there?  "
+  "body": " A collection of half dollars and nickels is worth . There are coins in all. How many of each are there?   "
 },
 {
   "id": "exercises-value-problems-5",
@@ -11131,7 +11131,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.3",
   "title": "",
-  "body": " The attendance at a school concert was . Admission was for adults and for children. The total receipts were . How many adults and how many children attended?  "
+  "body": " The attendance at a school concert was . Admission was for adults and for children. The total receipts were . How many adults and how many children attended?   "
 },
 {
   "id": "exercises-value-problems-6",
@@ -11140,7 +11140,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.4",
   "title": "",
-  "body": " A purse contains made up of dimes and quarters. If there are coins in all, how many dimes and how many quarters were there?  "
+  "body": " A purse contains made up of dimes and quarters. If there are coins in all, how many dimes and how many quarters were there?   "
 },
 {
   "id": "exercises-value-problems-7",
@@ -11149,7 +11149,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.5",
   "title": "",
-  "body": " A boy has in nickels and dimes. If there are twice as many dimes as nickels, how many of each kind has he?  "
+  "body": " A boy has in nickels and dimes. If there are twice as many dimes as nickels, how many of each kind has he?   "
 },
 {
   "id": "exercises-value-problems-8",
@@ -11158,7 +11158,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.6",
   "title": "",
-  "body": "  is made up of quarters and half dollars. If the number of quarters exceeds the number of half dollars by , how many coins of each denomination are there?  "
+  "body": "  is made up of quarters and half dollars. If the number of quarters exceeds the number of half dollars by , how many coins of each denomination are there?   "
 },
 {
   "id": "exercises-value-problems-9",
@@ -11167,7 +11167,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.7",
   "title": "",
-  "body": " A collection of coins consisting of nickels and dimes amounts to . How many coins of each kind are there?  "
+  "body": " A collection of coins consisting of nickels and dimes amounts to . How many coins of each kind are there?   "
 },
 {
   "id": "exercises-value-problems-10",
@@ -11176,7 +11176,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.8",
   "title": "",
-  "body": " in dimes and nickels, were distributed among boys. If each received one coin, how many received dimes and how many received nickels?  "
+  "body": " in dimes and nickels, were distributed among boys. If each received one coin, how many received dimes and how many received nickels?   "
 },
 {
   "id": "exercises-value-problems-11",
@@ -11185,7 +11185,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.9",
   "title": "",
-  "body": " There were people at a play. Admission was each for adults and cents each for children. The receipts were . How many children and how many adults attended?  "
+  "body": " There were people at a play. Admission was each for adults and cents each for children. The receipts were . How many children and how many adults attended?   "
 },
 {
   "id": "exercises-value-problems-12",
@@ -11194,7 +11194,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.10",
   "title": "",
-  "body": " There were tickets sold for a women’s basketball game. Tickets for students were cents each and for adults cents each. The total amount of money collected was . How many of each type of ticket was sold?  "
+  "body": " There were tickets sold for a women’s basketball game. Tickets for students were cents each and for adults cents each. The total amount of money collected was . How many of each type of ticket was sold?   "
 },
 {
   "id": "exercises-value-problems-13",
@@ -11203,7 +11203,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.11",
   "title": "",
-  "body": " There were tickets sold for a volleyball game. For activity-card holders, the price was each and for noncard holders the price was each. The total amount of money collected was . How many of each type of ticket was sold?  "
+  "body": " There were tickets sold for a volleyball game. For activity-card holders, the price was each and for noncard holders the price was each. The total amount of money collected was . How many of each type of ticket was sold?   "
 },
 {
   "id": "exercises-value-problems-14",
@@ -11212,7 +11212,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.12",
   "title": "",
-  "body": " At a local ball game the hotdogs sold for each and the hamburgers sold for each. There were total sandwiches sold for a total value of . How many of each sandwich was sold?  "
+  "body": " At a local ball game the hotdogs sold for each and the hamburgers sold for each. There were total sandwiches sold for a total value of . How many of each sandwich was sold?   "
 },
 {
   "id": "exercises-value-problems-15",
@@ -11221,7 +11221,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.13",
   "title": "",
-  "body": " At a recent Vikings game in admission tickets was taken in. The cost of a student ticket was and the cost of a non-student ticket was . A total of tickets were sold. How many students and how many non- students attended the game?  "
+  "body": " At a recent Vikings game in admission tickets was taken in. The cost of a student ticket was and the cost of a non-student ticket was . A total of tickets were sold. How many students and how many non- students attended the game?   "
 },
 {
   "id": "exercises-value-problems-16",
@@ -11230,7 +11230,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.14",
   "title": "",
-  "body": " A bank contains coins in dimes and quarters. The coins have a total value of . Find the number of dimes and quarters in the bank.  "
+  "body": " A bank contains coins in dimes and quarters. The coins have a total value of . Find the number of dimes and quarters in the bank.   "
 },
 {
   "id": "exercises-value-problems-17",
@@ -11239,7 +11239,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.15",
   "title": "",
-  "body": " A coin purse contains coins in nickels and dimes. The coins have a total value of . Find the number of nickels and dimes in the coin purse.  "
+  "body": " A coin purse contains coins in nickels and dimes. The coins have a total value of . Find the number of nickels and dimes in the coin purse.   "
 },
 {
   "id": "exercises-value-problems-18",
@@ -11248,7 +11248,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.16",
   "title": "",
-  "body": " A business executive bought stamps for . The purchase included stamps and stamps. How many of each type of stamp were bought?  "
+  "body": " A business executive bought stamps for . The purchase included stamps and stamps. How many of each type of stamp were bought?   "
 },
 {
   "id": "exercises-value-problems-19",
@@ -11257,7 +11257,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.17",
   "title": "",
-  "body": " A postal clerk sold some stamps and some stamps. Altogether, stamps were sold for a total cost of . How many of each type of stamps were sold?  "
+  "body": " A postal clerk sold some stamps and some stamps. Altogether, stamps were sold for a total cost of . How many of each type of stamps were sold?   "
 },
 {
   "id": "exercises-value-problems-20",
@@ -11266,7 +11266,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.18",
   "title": "",
-  "body": " A drawer contains stamps and stamps. The number of stamps is four less than three times the number of stamps. The total value of all the stamps is . How many stamps are in the drawer?  "
+  "body": " A drawer contains stamps and stamps. The number of stamps is four less than three times the number of stamps. The total value of all the stamps is . How many stamps are in the drawer?   "
 },
 {
   "id": "exercises-value-problems-21",
@@ -11275,7 +11275,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.19",
   "title": "",
-  "body": " The total value of dimes and quarters in a bank is . There are six more quarters than dimes. Find the number of each type of coin in the bank.  "
+  "body": " The total value of dimes and quarters in a bank is . There are six more quarters than dimes. Find the number of each type of coin in the bank.   "
 },
 {
   "id": "exercises-value-problems-22",
@@ -11284,7 +11284,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.20",
   "title": "",
-  "body": " A child’s piggy bank contains coins in quarters and dimes. The coins have a total value of . Find the number of quarters in the bank.  "
+  "body": " A child’s piggy bank contains coins in quarters and dimes. The coins have a total value of . Find the number of quarters in the bank.   "
 },
 {
   "id": "exercises-value-problems-23",
@@ -11293,7 +11293,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.21",
   "title": "",
-  "body": " A coin bank contains nickels and dimes. The number of dimes is less than twice the number of nickels. The total value of all the coins is . Find the number of each type of coin in the bank.  "
+  "body": " A coin bank contains nickels and dimes. The number of dimes is less than twice the number of nickels. The total value of all the coins is . Find the number of each type of coin in the bank.   "
 },
 {
   "id": "exercises-value-problems-24",
@@ -11302,7 +11302,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.22",
   "title": "",
-  "body": " A total of bills are in a cash box. Some of the bills are one dollar bills, and the rest are five dollar bills. The total amount of cash in the box is . Find the number of each type of bill in the cash box.  "
+  "body": " A total of bills are in a cash box. Some of the bills are one dollar bills, and the rest are five dollar bills. The total amount of cash in the box is . Find the number of each type of bill in the cash box.   "
 },
 {
   "id": "exercises-value-problems-25",
@@ -11311,7 +11311,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.23",
   "title": "",
-  "body": " A bank teller cashed a check for using twenty dollar bills and ten dollar bills. In all, twelve bills were handed to the customer. Find the number of twenty dollar bills and the number of ten dollar bills.  "
+  "body": " A bank teller cashed a check for using twenty dollar bills and ten dollar bills. In all, twelve bills were handed to the customer. Find the number of twenty dollar bills and the number of ten dollar bills.   "
 },
 {
   "id": "exercises-value-problems-26",
@@ -11320,7 +11320,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.24",
   "title": "",
-  "body": " A collection of stamps consists of stamps and stamps. The number of stamps is three more than four times the number of stamps. The total value of the stamps is . Find the number of stamps in the collection.  "
+  "body": " A collection of stamps consists of stamps and stamps. The number of stamps is three more than four times the number of stamps. The total value of the stamps is . Find the number of stamps in the collection.   "
 },
 {
   "id": "exercises-value-problems-27",
@@ -11329,7 +11329,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.25",
   "title": "",
-  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?  "
+  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?   "
 },
 {
   "id": "exercises-value-problems-28",
@@ -11338,7 +11338,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.26",
   "title": "",
-  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?  "
+  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?   "
 },
 {
   "id": "exercises-value-problems-29",
@@ -11347,7 +11347,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.27",
   "title": "",
-  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?  "
+  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?   "
 },
 {
   "id": "exercises-value-problems-30",
@@ -11356,7 +11356,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.28",
   "title": "",
-  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?  "
+  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?   "
 },
 {
   "id": "exercises-value-problems-31",
@@ -11365,7 +11365,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.29",
   "title": "",
-  "body": " An inheritance of is invested in ways, part at and the remainder at . The combined annual interest was . How much was invested at each rate?  "
+  "body": " An inheritance of is invested in ways, part at and the remainder at . The combined annual interest was . How much was invested at each rate?   "
 },
 {
   "id": "exercises-value-problems-32",
@@ -11374,7 +11374,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.30",
   "title": "",
-  "body": " Kerry earned a total of last year on his investments. If was invested at a certain rate of return and was invested in a fund with a rate that was higher, find the two rates of interest.  "
+  "body": " Kerry earned a total of last year on his investments. If was invested at a certain rate of return and was invested in a fund with a rate that was higher, find the two rates of interest.   "
 },
 {
   "id": "exercises-value-problems-33",
@@ -11383,7 +11383,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.31",
   "title": "",
-  "body": " Jason earned interest last year on his investments. If was invested at a certain rate of return and was invested in a fund with a rate that was double the rate of the first fund, find the two rates of interest.  "
+  "body": " Jason earned interest last year on his investments. If was invested at a certain rate of return and was invested in a fund with a rate that was double the rate of the first fund, find the two rates of interest.   "
 },
 {
   "id": "exercises-value-problems-34",
@@ -11392,7 +11392,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.32",
   "title": "",
-  "body": " Millicent earned last year in interest. If was invested at a certain rate of return and was invested in a fund with a rate that was lower, find the two rates of interest.  "
+  "body": " Millicent earned last year in interest. If was invested at a certain rate of return and was invested in a fund with a rate that was lower, find the two rates of interest.   "
 },
 {
   "id": "exercises-value-problems-35",
@@ -11401,7 +11401,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.33",
   "title": "",
-  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?  "
+  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?   "
 },
 {
   "id": "exercises-value-problems-36",
@@ -11410,7 +11410,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.34",
   "title": "",
-  "body": " A total of was invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?  "
+  "body": " A total of was invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?   "
 },
 {
   "id": "exercises-value-problems-37",
@@ -11419,7 +11419,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.35",
   "title": "",
-  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?  "
+  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?   "
 },
 {
   "id": "exercises-value-problems-38",
@@ -11428,7 +11428,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.36",
   "title": "",
-  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?  "
+  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?   "
 },
 {
   "id": "exercises-value-problems-39",
@@ -11437,7 +11437,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.37",
   "title": "",
-  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?  "
+  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?   "
 },
 {
   "id": "exercises-value-problems-40",
@@ -11446,7 +11446,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.38",
   "title": "",
-  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?  "
+  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?   "
 },
 {
   "id": "exercises-value-problems-41",
@@ -11455,7 +11455,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.39",
   "title": "",
-  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?  "
+  "body": " A total of is invested, part of it at and the rest at . The total interest after one year is . How much was invested at each rate?   "
 },
 {
   "id": "exercises-value-problems-42",
@@ -11464,7 +11464,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.40",
   "title": "",
-  "body": " An investment portfolio earned in interest last year. If was invested at a certain rate of return and was invested in a fund with a rate that was lower, find the two rates of interest.  "
+  "body": " An investment portfolio earned in interest last year. If was invested at a certain rate of return and was invested in a fund with a rate that was lower, find the two rates of interest.   "
 },
 {
   "id": "exercises-value-problems-43",
@@ -11473,7 +11473,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.41",
   "title": "",
-  "body": " Samantha earned in interest last year on her investments. If was invested at a certain rate of return and was invested in a fund with a rate that was two-thirds the rate of the first fund, find the two rates of interest.  "
+  "body": " Samantha earned in interest last year on her investments. If was invested at a certain rate of return and was invested in a fund with a rate that was two-thirds the rate of the first fund, find the two rates of interest.   "
 },
 {
   "id": "exercises-value-problems-44",
@@ -11482,7 +11482,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.42",
   "title": "",
-  "body": " A man has in nickels, dimes, and quarters. There are twice as many nickels as dimes and more dimes than quarters. How many coins of each kind were there?  "
+  "body": " A man has in nickels, dimes, and quarters. There are twice as many nickels as dimes and more dimes than quarters. How many coins of each kind were there?   "
 },
 {
   "id": "exercises-value-problems-45",
@@ -11491,7 +11491,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.43",
   "title": "",
-  "body": "  coins having a value of consists of nickels, dimes and quarters. If there are twice as many quarters as dimes, how many coins of each kind were there?  "
+  "body": "  coins having a value of consists of nickels, dimes and quarters. If there are twice as many quarters as dimes, how many coins of each kind were there?   "
 },
 {
   "id": "exercises-value-problems-46",
@@ -11500,7 +11500,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.5.44",
   "title": "",
-  "body": " A bag contains nickels, dimes and quarters having a value of . If there are coins in all and times as many dimes as quarters, how many coins of each kind were there?  "
+  "body": " A bag contains nickels, dimes and quarters having a value of . If there are coins in all and times as many dimes as quarters, how many coins of each kind were there?   "
 },
 {
   "id": "systems-mixture-problems",
@@ -11509,7 +11509,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.6",
   "title": "Mixture Problems",
-  "body": " Mixture Problems   Objective: Solve mixture problems by setting up a system of equations.   One application of systems of equations are mixture problems. Mixture problems are ones where two different solutions are mixed together resulting in a new final solution. We will use the following table to help us solve mixture problems:      Amount  Part  Total    Item         Item         Final        The first column is for the amount of each item we have. The second column is labeled “part”. If we mix percentages we will put the rate (written as a decimal) in this column. If we mix prices we will put prices in this column. Then we can multiply the amount by the part to find the total. Then we can get an equation by adding the amount and\/or total columns that will help us solve the problem and answer the questions.  These problems can have either one or two variables. We will start with one variable problems.   A chemist has mL of a methane solution. How much of a solution must she add so the final solution is methane?       Amount  Part  Total    Start       Add       Final        Set up the mixture table. We start with , but don’t know how much we add, that is . The part is the percentages, for start, for add.         Amount  Part  Total    Start       Add       Final        Add amount column to get final amount. The part for this amount is because we want the final solution to be methane.         Amount  Part  Total    Start       Add       Final        Multiply amount by part to get total.  Be sure to distribute on the last row:      The same process can be used if the starting and final amount have a price attached to them, rather than a percentage.   A coffee mix is to be made that sells for by mixing two types of coffee. The cafe has mL of coffee that costs . How much of another coffee that costs should the cafe mix with the first?       Amount  Part  Total    Start       Add       Final        Set up the mixture table. We know the starting amount and its cost, . The added amount we do not know but we do know its cost is .         Amount  Part  Total    Start       Add       Final        Add the amounts to get the final amount. We want this final amount to sell for .         Amount  Part  Total    Start       Add       Final        Multiply amount by part to get the total.  Be sure to distribute on the last row:       World View Note: Brazil is the world’s largest coffee producer, producing million metric tons of coffee a year! That is over three times as much coffee as second place Vietnam!  The above problems illustrate how we can put the mixture table together and get an equation to solve. However, here we are interested in systems of equations, with two unknown values. The following example is one such problem.   A farmer has two types of milk, one that is butterfat and another which is butterfat. How much of each should he use to end up with gallons of butterfat?       Amount  Part  Total    Milk       Milk       Final        We don't know either start value, but we do know final is .Also fill in part column with percentage of each type of milk including the final solution         Amount  Part  Total    Milk       Milk       Final        Multiply amount by part to get totals.      The same process can be used to solve mixtures of preces with two unknowns.   In a candy shop, chocolate which sells for a pound is mixed with nuts which are sold for a pound are mixed to form a chocolate-nut candy which sells for a pound. How much of each are used to make pounds of the mixture?       Amount  Part  Total    Chocolate       Nut       Final        Using our mixture table, use and for variables. We do know the final amount and price, include this in the table         Amount  Part  Total    Chocolate       Nut       Final        Multiply amount by part to get totals.      With mixture problems we often are mixing with a pure solution or using water which contains none of our chemical we are interested in. For pure solutions, the percentage is (or in the table). For water, the percentage is . This is shown in the following example.   A solution of pure antifreeze is mixed with water to make a $65%$ antifreeze solution. How much of each should be sued to make $70$ L?       Amount  Part  Total    Antifreeze       Water       Final        We use and for our variables. Antifreeze is pure, or in our table, written as a decimal. Water has no antifreeze, its percentage is . We also fill in the final percent         Amount  Part  Total    Antifreeze       Water       Final        Multiply to find final amounts       Exercises – Mixture Problems   Solve.    A tank contains liters of a solution that is acid. How much water should be added to make a solution that is acid?    How much antifreeze should be added to quarts of a mixture of antifreeze to make a solution that is antifreeze?    Of pounds of salt water is salt; of another mixture is salt. How many pounds of the second should be added to the first in order to get a mixture of salt?    How much alcohol must be added to gallons of a solution of alcohol in order to produce a solution?    How many pounds of a solution of borax must be added to pounds of a solution of borax to obtain a solution of borax?    How many grams of pure acid must be added to grams of a acid solution to make a solution which is acid?    A LB bag of animal feed is oats. How many pounds of oats must be added to this feed to produce a mixture which is oats?    A oz alloy of platinum that costs per ounce is mixed with an alloy that costs per ounce. How many ounces of the alloy should be used to make an alloy that costs per ounce?    How many pounds of tea that cost per pound must be mixed with lb of tea that cost per pound to make a mixture that costs per pound?    How many liters of a solvent that costs per liter must be mixed with L of a solvent that costs per liter to make a solvent that costs per liter?    How many kilograms of hard candy that cost per kilogram must be mixed with kg of jelly beans that cost per kilogram to make a mixture that sells for per kilogram?    How many kilograms of soil supplement that costs per kilogram must be mixed with kg of aluminum nitrate that costs per kilogram to make a fertilizer that costs per kilogram?    How many pounds of lima beans that cost per pound must be mixed with lb of corn that cost per pound to make a mixture of vegetables that costs per pound?    How many liters of a blue dye that costs per liter must be mixed with L of anil that costs per liter to make a mixture that costs per liter?    Solution A is acid and solution B is acid. How much of each should be used to make . of a solution that is acid?    A certain grade of milk contains butter fat and a certain grade of cream butter fat. How many quarts of each must be taken so as to obtain a mixture of quarts that will be butter fat?    A farmer has some cream which is butterfat and some which is butter fat. How many gallons of each must be mixed to produce gallons of cream which is butterfat?    A syrup manufacturer has some pure maple syrup and some which is maple syrup. How many liters of each should be mixed to make L which is maple syrup?    A chemist wants to make ml of a acid solution by mixing a acid solution and an acid solution. How many milliliters of each solution should the chemist use?    A hair dye is made by blending hydrogen peroxide solution and a hydrogen peroxide solution. How many milliliters of each are used to make a ml solution that is hydrogen peroxide?    A paint that contains green dye is mixed with a paint that contains green dye. How many gallons of each must be used to make gal of paint that is green dye?    A candy mix sells for per kilogram. It contains chocolates worth per kilogram and other candy worth per kilogram. How much of each are in kilograms of the mixture?    To make a weed and feed mixture, the Green Thumb Garden Shop mixes fertilizer worth \/lb. with a weed killer worth \/lb. The mixture will cost \/lb. How much of each should be used to prepare lb. of the mixture?    A grocer is mixing cent per lb. coffee with cent per lb. coffee to make a mixture worth c per lb. How much of each kind of coffee should be used to make lb. of the mixture?    A grocer wishes to mix sugar at cents per pound with sugar at cents per pound to make pounds at cents per pound. What quantity of each must he take?    A high-protein diet supplement that costs per pound is mixed with a vitamin supplement that costs per pound. How many pounds of each should be used to make lb of a mixture that costs per pound?    A goldsmith combined an alloy that costs per ounce with an alloy that costs per ounce. How many ounces of each were used to make a mixture of oz costing per ounce?    A grocery store offers a cheese and fruit sampler that combines cheddar cheese that costs per kilogram with kiwis that cost per kilogram. How many kilograms of each were used to make a kg mixture that costs per kilogram?    The manager of a garden shop mixes grass seed that is rye grass with lb of grass seed that is rye grass to make a mixture that is rye grass. How much of the mixture is used?    How many ounces of water evaporated from oz of a salt solution to produce a salt solution?    A caterer made an ice cream punch by combining fruit juice that cost per gallon with ice cream that costs per gallon. How many gallons of each were used to make gal of punch costing per pound?    A clothing manufacturer has some pure silk thread and some thread that is silk. How many kilograms of each must be woven together to make kg of cloth that is silk?    A carpet manufacturer blends two fibers, one wool and the second wool. How many pounds of each fiber should be woven together to produce lb of a fabric that is wool?    How many pounds of coffee that is java beans must be mixed with lb of coffee that is java beans to make a coffee blend that is java beans?    The manager of a specialty food store combined almonds that cost per pound with walnuts that cost per pound. How many pounds of each were used to make a lb mixture that cost per pound?    A tea that is jasmine is blended with a tea that is jasmine. How many pounds of each tea are used to make lb of tea that is jasmine?    How many ounces of dried apricots must be added to oz of a snack mix that contains dried apricots to make a mixture that is dried apricots?    How many milliliters of pure chocolate must be added to ml of chocolate topping that is chocolate to make a topping that is chocolate?    How many ounces of pure bran flakes must be added to oz of cereal that is bran flakes to produce a mixture that is bran flakes?    A ground meat mixture is formed by combining meat that costs per pound with meat that costs per pound. How many pounds of each were used to make a lb mixture that costs per pound?    How many grams of pure water must be added to g of pure acid to make a solution that is acid?    A lumber company combined oak wood chips that cost per pound with pine wood chips that cost per pound. How many pounds of each were used to make an lb mixture costing per pound?    How many ounces of pure water must be added to oz of a saline solution to make a saline solution that is salt?    "
+  "body": " Mixture Problems   Objective: Solve mixture problems by setting up a system of equations.   One application of systems of equations are mixture problems. Mixture problems are ones where two different solutions are mixed together resulting in a new final solution. We will use the following table to help us solve mixture problems:      Amount  Part  Total    Item         Item         Final        The first column is for the amount of each item we have. The second column is labeled “part”. If we mix percentages we will put the rate (written as a decimal) in this column. If we mix prices we will put prices in this column. Then we can multiply the amount by the part to find the total. Then we can get an equation by adding the amount and\/or total columns that will help us solve the problem and answer the questions.  These problems can have either one or two variables. We will start with one variable problems.   A chemist has mL of a methane solution. How much of a solution must she add so the final solution is methane?       Amount  Part  Total    Start       Add       Final        Set up the mixture table. We start with , but don’t know how much we add, that is . The part is the percentages, for start, for add.         Amount  Part  Total    Start       Add       Final        Add amount column to get final amount. The part for this amount is because we want the final solution to be methane.         Amount  Part  Total    Start       Add       Final        Multiply amount by part to get total.  Be sure to distribute on the last row:      The same process can be used if the starting and final amount have a price attached to them, rather than a percentage.   A coffee mix is to be made that sells for by mixing two types of coffee. The cafe has mL of coffee that costs . How much of another coffee that costs should the cafe mix with the first?       Amount  Part  Total    Start       Add       Final        Set up the mixture table. We know the starting amount and its cost, . The added amount we do not know but we do know its cost is .         Amount  Part  Total    Start       Add       Final        Add the amounts to get the final amount. We want this final amount to sell for .         Amount  Part  Total    Start       Add       Final        Multiply amount by part to get the total.  Be sure to distribute on the last row:       World View Note: Brazil is the world’s largest coffee producer, producing million metric tons of coffee a year! That is over three times as much coffee as second place Vietnam!  The above problems illustrate how we can put the mixture table together and get an equation to solve. However, here we are interested in systems of equations, with two unknown values. The following example is one such problem.   A farmer has two types of milk, one that is butterfat and another which is butterfat. How much of each should he use to end up with gallons of butterfat?       Amount  Part  Total    Milk       Milk       Final        We don't know either start value, but we do know final is .Also fill in part column with percentage of each type of milk including the final solution         Amount  Part  Total    Milk       Milk       Final        Multiply amount by part to get totals.      The same process can be used to solve mixtures of preces with two unknowns.   In a candy shop, chocolate which sells for a pound is mixed with nuts which are sold for a pound are mixed to form a chocolate-nut candy which sells for a pound. How much of each are used to make pounds of the mixture?       Amount  Part  Total    Chocolate       Nut       Final        Using our mixture table, use and for variables. We do know the final amount and price, include this in the table         Amount  Part  Total    Chocolate       Nut       Final        Multiply amount by part to get totals.      With mixture problems we often are mixing with a pure solution or using water which contains none of our chemical we are interested in. For pure solutions, the percentage is (or in the table). For water, the percentage is . This is shown in the following example.   A solution of pure antifreeze is mixed with water to make a $65%$ antifreeze solution. How much of each should be sued to make $70$ L?       Amount  Part  Total    Antifreeze       Water       Final        We use and for our variables. Antifreeze is pure, or in our table, written as a decimal. Water has no antifreeze, its percentage is . We also fill in the final percent         Amount  Part  Total    Antifreeze       Water       Final        Multiply to find final amounts       Exercises – Mixture Problems   Solve.    A tank contains liters of a solution that is acid. How much water should be added to make a solution that is acid?     How much antifreeze should be added to quarts of a mixture of antifreeze to make a solution that is antifreeze?     Of pounds of salt water is salt; of another mixture is salt. How many pounds of the second should be added to the first in order to get a mixture of salt?     How much alcohol must be added to gallons of a solution of alcohol in order to produce a solution?     How many pounds of a solution of borax must be added to pounds of a solution of borax to obtain a solution of borax?     How many grams of pure acid must be added to grams of a acid solution to make a solution which is acid?     A LB bag of animal feed is oats. How many pounds of oats must be added to this feed to produce a mixture which is oats?     A oz alloy of platinum that costs per ounce is mixed with an alloy that costs per ounce. How many ounces of the alloy should be used to make an alloy that costs per ounce?     How many pounds of tea that cost per pound must be mixed with lb of tea that cost per pound to make a mixture that costs per pound?     How many liters of a solvent that costs per liter must be mixed with L of a solvent that costs per liter to make a solvent that costs per liter?     How many kilograms of hard candy that cost per kilogram must be mixed with kg of jelly beans that cost per kilogram to make a mixture that sells for per kilogram?     How many kilograms of soil supplement that costs per kilogram must be mixed with kg of aluminum nitrate that costs per kilogram to make a fertilizer that costs per kilogram?     How many pounds of lima beans that cost per pound must be mixed with lb of corn that cost per pound to make a mixture of vegetables that costs per pound?     How many liters of a blue dye that costs per liter must be mixed with L of anil that costs per liter to make a mixture that costs per liter?     Solution A is acid and solution B is acid. How much of each should be used to make . of a solution that is acid?     A certain grade of milk contains butter fat and a certain grade of cream butter fat. How many quarts of each must be taken so as to obtain a mixture of quarts that will be butter fat?     A farmer has some cream which is butterfat and some which is butter fat. How many gallons of each must be mixed to produce gallons of cream which is butterfat?     A syrup manufacturer has some pure maple syrup and some which is maple syrup. How many liters of each should be mixed to make L which is maple syrup?     A chemist wants to make ml of a acid solution by mixing a acid solution and an acid solution. How many milliliters of each solution should the chemist use?     A hair dye is made by blending hydrogen peroxide solution and a hydrogen peroxide solution. How many milliliters of each are used to make a ml solution that is hydrogen peroxide?     A paint that contains green dye is mixed with a paint that contains green dye. How many gallons of each must be used to make gal of paint that is green dye?     A candy mix sells for per kilogram. It contains chocolates worth per kilogram and other candy worth per kilogram. How much of each are in kilograms of the mixture?     To make a weed and feed mixture, the Green Thumb Garden Shop mixes fertilizer worth \/lb. with a weed killer worth \/lb. The mixture will cost \/lb. How much of each should be used to prepare lb. of the mixture?     A grocer is mixing cent per lb. coffee with cent per lb. coffee to make a mixture worth c per lb. How much of each kind of coffee should be used to make lb. of the mixture?     A grocer wishes to mix sugar at cents per pound with sugar at cents per pound to make pounds at cents per pound. What quantity of each must he take?     A high-protein diet supplement that costs per pound is mixed with a vitamin supplement that costs per pound. How many pounds of each should be used to make lb of a mixture that costs per pound?     A goldsmith combined an alloy that costs per ounce with an alloy that costs per ounce. How many ounces of each were used to make a mixture of oz costing per ounce?     A grocery store offers a cheese and fruit sampler that combines cheddar cheese that costs per kilogram with kiwis that cost per kilogram. How many kilograms of each were used to make a kg mixture that costs per kilogram?     The manager of a garden shop mixes grass seed that is rye grass with lb of grass seed that is rye grass to make a mixture that is rye grass. How much of the mixture is used?     How many ounces of water evaporated from oz of a salt solution to produce a salt solution?     A caterer made an ice cream punch by combining fruit juice that cost per gallon with ice cream that costs per gallon. How many gallons of each were used to make gal of punch costing per pound?     A clothing manufacturer has some pure silk thread and some thread that is silk. How many kilograms of each must be woven together to make kg of cloth that is silk?     A carpet manufacturer blends two fibers, one wool and the second wool. How many pounds of each fiber should be woven together to produce lb of a fabric that is wool?     How many pounds of coffee that is java beans must be mixed with lb of coffee that is java beans to make a coffee blend that is java beans?     The manager of a specialty food store combined almonds that cost per pound with walnuts that cost per pound. How many pounds of each were used to make a lb mixture that cost per pound?     A tea that is jasmine is blended with a tea that is jasmine. How many pounds of each tea are used to make lb of tea that is jasmine?     How many ounces of dried apricots must be added to oz of a snack mix that contains dried apricots to make a mixture that is dried apricots?     How many milliliters of pure chocolate must be added to ml of chocolate topping that is chocolate to make a topping that is chocolate?     How many ounces of pure bran flakes must be added to oz of cereal that is bran flakes to produce a mixture that is bran flakes?     A ground meat mixture is formed by combining meat that costs per pound with meat that costs per pound. How many pounds of each were used to make a lb mixture that costs per pound?     How many grams of pure water must be added to g of pure acid to make a solution that is acid?     A lumber company combined oak wood chips that cost per pound with pine wood chips that cost per pound. How many pounds of each were used to make an lb mixture costing per pound?     How many ounces of pure water must be added to oz of a saline solution to make a saline solution that is salt?     "
 },
 {
   "id": "systems-mixture-problems-7",
@@ -11563,7 +11563,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.1",
   "title": "",
-  "body": " A tank contains liters of a solution that is acid. How much water should be added to make a solution that is acid?  "
+  "body": " A tank contains liters of a solution that is acid. How much water should be added to make a solution that is acid?   "
 },
 {
   "id": "exercises-mixture-problems-4",
@@ -11572,7 +11572,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.2",
   "title": "",
-  "body": " How much antifreeze should be added to quarts of a mixture of antifreeze to make a solution that is antifreeze?  "
+  "body": " How much antifreeze should be added to quarts of a mixture of antifreeze to make a solution that is antifreeze?   "
 },
 {
   "id": "exercises-mixture-problems-5",
@@ -11581,7 +11581,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.3",
   "title": "",
-  "body": " Of pounds of salt water is salt; of another mixture is salt. How many pounds of the second should be added to the first in order to get a mixture of salt?  "
+  "body": " Of pounds of salt water is salt; of another mixture is salt. How many pounds of the second should be added to the first in order to get a mixture of salt?   "
 },
 {
   "id": "exercises-mixture-problems-6",
@@ -11590,7 +11590,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.4",
   "title": "",
-  "body": " How much alcohol must be added to gallons of a solution of alcohol in order to produce a solution?  "
+  "body": " How much alcohol must be added to gallons of a solution of alcohol in order to produce a solution?   "
 },
 {
   "id": "exercises-mixture-problems-7",
@@ -11599,7 +11599,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.5",
   "title": "",
-  "body": " How many pounds of a solution of borax must be added to pounds of a solution of borax to obtain a solution of borax?  "
+  "body": " How many pounds of a solution of borax must be added to pounds of a solution of borax to obtain a solution of borax?   "
 },
 {
   "id": "exercises-mixture-problems-8",
@@ -11608,7 +11608,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.6",
   "title": "",
-  "body": " How many grams of pure acid must be added to grams of a acid solution to make a solution which is acid?  "
+  "body": " How many grams of pure acid must be added to grams of a acid solution to make a solution which is acid?   "
 },
 {
   "id": "exercises-mixture-problems-9",
@@ -11617,7 +11617,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.7",
   "title": "",
-  "body": " A LB bag of animal feed is oats. How many pounds of oats must be added to this feed to produce a mixture which is oats?  "
+  "body": " A LB bag of animal feed is oats. How many pounds of oats must be added to this feed to produce a mixture which is oats?   "
 },
 {
   "id": "exercises-mixture-problems-10",
@@ -11626,7 +11626,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.8",
   "title": "",
-  "body": " A oz alloy of platinum that costs per ounce is mixed with an alloy that costs per ounce. How many ounces of the alloy should be used to make an alloy that costs per ounce?  "
+  "body": " A oz alloy of platinum that costs per ounce is mixed with an alloy that costs per ounce. How many ounces of the alloy should be used to make an alloy that costs per ounce?   "
 },
 {
   "id": "exercises-mixture-problems-11",
@@ -11635,7 +11635,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.9",
   "title": "",
-  "body": " How many pounds of tea that cost per pound must be mixed with lb of tea that cost per pound to make a mixture that costs per pound?  "
+  "body": " How many pounds of tea that cost per pound must be mixed with lb of tea that cost per pound to make a mixture that costs per pound?   "
 },
 {
   "id": "exercises-mixture-problems-12",
@@ -11644,7 +11644,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.10",
   "title": "",
-  "body": " How many liters of a solvent that costs per liter must be mixed with L of a solvent that costs per liter to make a solvent that costs per liter?  "
+  "body": " How many liters of a solvent that costs per liter must be mixed with L of a solvent that costs per liter to make a solvent that costs per liter?   "
 },
 {
   "id": "exercises-mixture-problems-13",
@@ -11653,7 +11653,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.11",
   "title": "",
-  "body": " How many kilograms of hard candy that cost per kilogram must be mixed with kg of jelly beans that cost per kilogram to make a mixture that sells for per kilogram?  "
+  "body": " How many kilograms of hard candy that cost per kilogram must be mixed with kg of jelly beans that cost per kilogram to make a mixture that sells for per kilogram?   "
 },
 {
   "id": "exercises-mixture-problems-14",
@@ -11662,7 +11662,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.12",
   "title": "",
-  "body": " How many kilograms of soil supplement that costs per kilogram must be mixed with kg of aluminum nitrate that costs per kilogram to make a fertilizer that costs per kilogram?  "
+  "body": " How many kilograms of soil supplement that costs per kilogram must be mixed with kg of aluminum nitrate that costs per kilogram to make a fertilizer that costs per kilogram?   "
 },
 {
   "id": "exercises-mixture-problems-15",
@@ -11671,7 +11671,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.13",
   "title": "",
-  "body": " How many pounds of lima beans that cost per pound must be mixed with lb of corn that cost per pound to make a mixture of vegetables that costs per pound?  "
+  "body": " How many pounds of lima beans that cost per pound must be mixed with lb of corn that cost per pound to make a mixture of vegetables that costs per pound?   "
 },
 {
   "id": "exercises-mixture-problems-16",
@@ -11680,7 +11680,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.14",
   "title": "",
-  "body": " How many liters of a blue dye that costs per liter must be mixed with L of anil that costs per liter to make a mixture that costs per liter?  "
+  "body": " How many liters of a blue dye that costs per liter must be mixed with L of anil that costs per liter to make a mixture that costs per liter?   "
 },
 {
   "id": "exercises-mixture-problems-17",
@@ -11689,7 +11689,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.15",
   "title": "",
-  "body": " Solution A is acid and solution B is acid. How much of each should be used to make . of a solution that is acid?  "
+  "body": " Solution A is acid and solution B is acid. How much of each should be used to make . of a solution that is acid?   "
 },
 {
   "id": "exercises-mixture-problems-18",
@@ -11698,7 +11698,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.16",
   "title": "",
-  "body": " A certain grade of milk contains butter fat and a certain grade of cream butter fat. How many quarts of each must be taken so as to obtain a mixture of quarts that will be butter fat?  "
+  "body": " A certain grade of milk contains butter fat and a certain grade of cream butter fat. How many quarts of each must be taken so as to obtain a mixture of quarts that will be butter fat?   "
 },
 {
   "id": "exercises-mixture-problems-19",
@@ -11707,7 +11707,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.17",
   "title": "",
-  "body": " A farmer has some cream which is butterfat and some which is butter fat. How many gallons of each must be mixed to produce gallons of cream which is butterfat?  "
+  "body": " A farmer has some cream which is butterfat and some which is butter fat. How many gallons of each must be mixed to produce gallons of cream which is butterfat?   "
 },
 {
   "id": "exercises-mixture-problems-20",
@@ -11716,7 +11716,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.18",
   "title": "",
-  "body": " A syrup manufacturer has some pure maple syrup and some which is maple syrup. How many liters of each should be mixed to make L which is maple syrup?  "
+  "body": " A syrup manufacturer has some pure maple syrup and some which is maple syrup. How many liters of each should be mixed to make L which is maple syrup?   "
 },
 {
   "id": "exercises-mixture-problems-21",
@@ -11725,7 +11725,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.19",
   "title": "",
-  "body": " A chemist wants to make ml of a acid solution by mixing a acid solution and an acid solution. How many milliliters of each solution should the chemist use?  "
+  "body": " A chemist wants to make ml of a acid solution by mixing a acid solution and an acid solution. How many milliliters of each solution should the chemist use?   "
 },
 {
   "id": "exercises-mixture-problems-22",
@@ -11734,7 +11734,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.20",
   "title": "",
-  "body": " A hair dye is made by blending hydrogen peroxide solution and a hydrogen peroxide solution. How many milliliters of each are used to make a ml solution that is hydrogen peroxide?  "
+  "body": " A hair dye is made by blending hydrogen peroxide solution and a hydrogen peroxide solution. How many milliliters of each are used to make a ml solution that is hydrogen peroxide?   "
 },
 {
   "id": "exercises-mixture-problems-23",
@@ -11743,7 +11743,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.21",
   "title": "",
-  "body": " A paint that contains green dye is mixed with a paint that contains green dye. How many gallons of each must be used to make gal of paint that is green dye?  "
+  "body": " A paint that contains green dye is mixed with a paint that contains green dye. How many gallons of each must be used to make gal of paint that is green dye?   "
 },
 {
   "id": "exercises-mixture-problems-24",
@@ -11752,7 +11752,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.22",
   "title": "",
-  "body": " A candy mix sells for per kilogram. It contains chocolates worth per kilogram and other candy worth per kilogram. How much of each are in kilograms of the mixture?  "
+  "body": " A candy mix sells for per kilogram. It contains chocolates worth per kilogram and other candy worth per kilogram. How much of each are in kilograms of the mixture?   "
 },
 {
   "id": "exercises-mixture-problems-25",
@@ -11761,7 +11761,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.23",
   "title": "",
-  "body": " To make a weed and feed mixture, the Green Thumb Garden Shop mixes fertilizer worth \/lb. with a weed killer worth \/lb. The mixture will cost \/lb. How much of each should be used to prepare lb. of the mixture?  "
+  "body": " To make a weed and feed mixture, the Green Thumb Garden Shop mixes fertilizer worth \/lb. with a weed killer worth \/lb. The mixture will cost \/lb. How much of each should be used to prepare lb. of the mixture?   "
 },
 {
   "id": "exercises-mixture-problems-26",
@@ -11770,7 +11770,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.24",
   "title": "",
-  "body": " A grocer is mixing cent per lb. coffee with cent per lb. coffee to make a mixture worth c per lb. How much of each kind of coffee should be used to make lb. of the mixture?  "
+  "body": " A grocer is mixing cent per lb. coffee with cent per lb. coffee to make a mixture worth c per lb. How much of each kind of coffee should be used to make lb. of the mixture?   "
 },
 {
   "id": "exercises-mixture-problems-27",
@@ -11779,7 +11779,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.25",
   "title": "",
-  "body": " A grocer wishes to mix sugar at cents per pound with sugar at cents per pound to make pounds at cents per pound. What quantity of each must he take?  "
+  "body": " A grocer wishes to mix sugar at cents per pound with sugar at cents per pound to make pounds at cents per pound. What quantity of each must he take?   "
 },
 {
   "id": "exercises-mixture-problems-28",
@@ -11788,7 +11788,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.26",
   "title": "",
-  "body": " A high-protein diet supplement that costs per pound is mixed with a vitamin supplement that costs per pound. How many pounds of each should be used to make lb of a mixture that costs per pound?  "
+  "body": " A high-protein diet supplement that costs per pound is mixed with a vitamin supplement that costs per pound. How many pounds of each should be used to make lb of a mixture that costs per pound?   "
 },
 {
   "id": "exercises-mixture-problems-29",
@@ -11797,7 +11797,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.27",
   "title": "",
-  "body": " A goldsmith combined an alloy that costs per ounce with an alloy that costs per ounce. How many ounces of each were used to make a mixture of oz costing per ounce?  "
+  "body": " A goldsmith combined an alloy that costs per ounce with an alloy that costs per ounce. How many ounces of each were used to make a mixture of oz costing per ounce?   "
 },
 {
   "id": "exercises-mixture-problems-30",
@@ -11806,7 +11806,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.28",
   "title": "",
-  "body": " A grocery store offers a cheese and fruit sampler that combines cheddar cheese that costs per kilogram with kiwis that cost per kilogram. How many kilograms of each were used to make a kg mixture that costs per kilogram?  "
+  "body": " A grocery store offers a cheese and fruit sampler that combines cheddar cheese that costs per kilogram with kiwis that cost per kilogram. How many kilograms of each were used to make a kg mixture that costs per kilogram?   "
 },
 {
   "id": "exercises-mixture-problems-31",
@@ -11815,7 +11815,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.29",
   "title": "",
-  "body": " The manager of a garden shop mixes grass seed that is rye grass with lb of grass seed that is rye grass to make a mixture that is rye grass. How much of the mixture is used?  "
+  "body": " The manager of a garden shop mixes grass seed that is rye grass with lb of grass seed that is rye grass to make a mixture that is rye grass. How much of the mixture is used?   "
 },
 {
   "id": "exercises-mixture-problems-32",
@@ -11824,7 +11824,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.30",
   "title": "",
-  "body": " How many ounces of water evaporated from oz of a salt solution to produce a salt solution?  "
+  "body": " How many ounces of water evaporated from oz of a salt solution to produce a salt solution?   "
 },
 {
   "id": "exercises-mixture-problems-33",
@@ -11833,7 +11833,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.31",
   "title": "",
-  "body": " A caterer made an ice cream punch by combining fruit juice that cost per gallon with ice cream that costs per gallon. How many gallons of each were used to make gal of punch costing per pound?  "
+  "body": " A caterer made an ice cream punch by combining fruit juice that cost per gallon with ice cream that costs per gallon. How many gallons of each were used to make gal of punch costing per pound?   "
 },
 {
   "id": "exercises-mixture-problems-34",
@@ -11842,7 +11842,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.32",
   "title": "",
-  "body": " A clothing manufacturer has some pure silk thread and some thread that is silk. How many kilograms of each must be woven together to make kg of cloth that is silk?  "
+  "body": " A clothing manufacturer has some pure silk thread and some thread that is silk. How many kilograms of each must be woven together to make kg of cloth that is silk?   "
 },
 {
   "id": "exercises-mixture-problems-35",
@@ -11851,7 +11851,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.33",
   "title": "",
-  "body": " A carpet manufacturer blends two fibers, one wool and the second wool. How many pounds of each fiber should be woven together to produce lb of a fabric that is wool?  "
+  "body": " A carpet manufacturer blends two fibers, one wool and the second wool. How many pounds of each fiber should be woven together to produce lb of a fabric that is wool?   "
 },
 {
   "id": "exercises-mixture-problems-36",
@@ -11860,7 +11860,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.34",
   "title": "",
-  "body": " How many pounds of coffee that is java beans must be mixed with lb of coffee that is java beans to make a coffee blend that is java beans?  "
+  "body": " How many pounds of coffee that is java beans must be mixed with lb of coffee that is java beans to make a coffee blend that is java beans?   "
 },
 {
   "id": "exercises-mixture-problems-37",
@@ -11869,7 +11869,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.35",
   "title": "",
-  "body": " The manager of a specialty food store combined almonds that cost per pound with walnuts that cost per pound. How many pounds of each were used to make a lb mixture that cost per pound?  "
+  "body": " The manager of a specialty food store combined almonds that cost per pound with walnuts that cost per pound. How many pounds of each were used to make a lb mixture that cost per pound?   "
 },
 {
   "id": "exercises-mixture-problems-38",
@@ -11878,7 +11878,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.36",
   "title": "",
-  "body": " A tea that is jasmine is blended with a tea that is jasmine. How many pounds of each tea are used to make lb of tea that is jasmine?  "
+  "body": " A tea that is jasmine is blended with a tea that is jasmine. How many pounds of each tea are used to make lb of tea that is jasmine?   "
 },
 {
   "id": "exercises-mixture-problems-39",
@@ -11887,7 +11887,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.37",
   "title": "",
-  "body": " How many ounces of dried apricots must be added to oz of a snack mix that contains dried apricots to make a mixture that is dried apricots?  "
+  "body": " How many ounces of dried apricots must be added to oz of a snack mix that contains dried apricots to make a mixture that is dried apricots?   "
 },
 {
   "id": "exercises-mixture-problems-40",
@@ -11896,7 +11896,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.38",
   "title": "",
-  "body": " How many milliliters of pure chocolate must be added to ml of chocolate topping that is chocolate to make a topping that is chocolate?  "
+  "body": " How many milliliters of pure chocolate must be added to ml of chocolate topping that is chocolate to make a topping that is chocolate?   "
 },
 {
   "id": "exercises-mixture-problems-41",
@@ -11905,7 +11905,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.39",
   "title": "",
-  "body": " How many ounces of pure bran flakes must be added to oz of cereal that is bran flakes to produce a mixture that is bran flakes?  "
+  "body": " How many ounces of pure bran flakes must be added to oz of cereal that is bran flakes to produce a mixture that is bran flakes?   "
 },
 {
   "id": "exercises-mixture-problems-42",
@@ -11914,7 +11914,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.40",
   "title": "",
-  "body": " A ground meat mixture is formed by combining meat that costs per pound with meat that costs per pound. How many pounds of each were used to make a lb mixture that costs per pound?  "
+  "body": " A ground meat mixture is formed by combining meat that costs per pound with meat that costs per pound. How many pounds of each were used to make a lb mixture that costs per pound?   "
 },
 {
   "id": "exercises-mixture-problems-43",
@@ -11923,7 +11923,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.41",
   "title": "",
-  "body": " How many grams of pure water must be added to g of pure acid to make a solution that is acid?  "
+  "body": " How many grams of pure water must be added to g of pure acid to make a solution that is acid?   "
 },
 {
   "id": "exercises-mixture-problems-44",
@@ -11932,7 +11932,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.42",
   "title": "",
-  "body": " A lumber company combined oak wood chips that cost per pound with pine wood chips that cost per pound. How many pounds of each were used to make an lb mixture costing per pound?  "
+  "body": " A lumber company combined oak wood chips that cost per pound with pine wood chips that cost per pound. How many pounds of each were used to make an lb mixture costing per pound?   "
 },
 {
   "id": "exercises-mixture-problems-45",
@@ -11941,7 +11941,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.6.43",
   "title": "",
-  "body": " How many ounces of pure water must be added to oz of a saline solution to make a saline solution that is salt?  "
+  "body": " How many ounces of pure water must be added to oz of a saline solution to make a saline solution that is salt?   "
 },
 {
   "id": "polynomials-exponent-properties",
@@ -12949,7 +12949,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.3",
   "title": "Scientific Notation",
-  "body": " Scientific Notation   Objective: Multiply and divide expressions using scientific notation and exponent properties.   One application of exponent properties comes from scientific notation. Scientific notation is used to represent really large or really small numbers. An example of really large numbers would be the distance that light travels in a year in miles. An example of really small numbers would be the mass of a single hydrogen atom in grams. Doing basic operations such as multiplication and division with these numbers would normally be very combersome. However, our exponent properties make this process much simpler.  First we will take a look at what scientific notation is. Scientific notation has two parts, a number between one and ten (it can be equal to one, but not ten), and that number multiplied by ten to some exponent.   The exponent, , is very important to how we convert between scientific notation and normal numbers, or standard notation. The exponent tells us how many times we will multiply by . Multiplying by in affect moves the decimal point one place. So the exponent will tell us how many times the exponent moves between scientific notation and standard notation. To decide which direction to move the decimal (left or right) we simply need to remember that positive exponents mean in standard notation we have a big number (bigger than ten) and negative exponents mean in standard notation we have a small number (less than one).  Keeping this in mind, we can easily make conversions between standard notation and scientific notation.              Converting between standard notation and scientific notation is important to understand how scientific notation works and what it does. Here our main interest is to be able to multiply and divide numbers in scientific notation using exponent properties. The way we do this is first do the operation with the front number (multiply or divide) then use exponent properties to simplify the ’s. Scientific notation is the only time where it will be allowed to have negative exponents in our final solution. The negative exponent simply informs us that we are dealing with small numbers. Consider the following examples.           Often when we multiply or divide in scientific notation the end result is not in sci- entific notation. We will then have to convert the front number into scientific notation and then combine the ’s using the product property of exponents and adding the exponents. This is shown in the following examples.      World View Note: Archimedes ( BC - BC), the Greek mathematician, developed a system for representing large numbers using a system very similar to scientific notation. He used his system to calculate the number of grains of sand it would take to fill the universe. His conclusion was grains of sand because he figured the universe to have a diameter of stadia or about light years.      Exercises - Scientific Notation    Write each number in scientific notiation.                                    Write each number in standard notation.                                    Simplify. Write each answer in scientific notation.                                                                                                                                                           "
+  "body": " Scientific Notation   Objective: Multiply and divide expressions using scientific notation and exponent properties.   One application of exponent properties comes from scientific notation. Scientific notation is used to represent really large or really small numbers. An example of really large numbers would be the distance that light travels in a year in miles. An example of really small numbers would be the mass of a single hydrogen atom in grams. Doing basic operations such as multiplication and division with these numbers would normally be very combersome. However, our exponent properties make this process much simpler.  First we will take a look at what scientific notation is. Scientific notation has two parts, a number between one and ten (it can be equal to one, but not ten), and that number multiplied by ten to some exponent.   The exponent, , is very important to how we convert between scientific notation and normal numbers, or standard notation. The exponent tells us how many times we will multiply by . Multiplying by in affect moves the decimal point one place. So the exponent will tell us how many times the exponent moves between scientific notation and standard notation. To decide which direction to move the decimal (left or right) we simply need to remember that positive exponents mean in standard notation we have a big number (bigger than ten) and negative exponents mean in standard notation we have a small number (less than one).  Keeping this in mind, we can easily make conversions between standard notation and scientific notation.              Converting between standard notation and scientific notation is important to understand how scientific notation works and what it does. Here our main interest is to be able to multiply and divide numbers in scientific notation using exponent properties. The way we do this is first do the operation with the front number (multiply or divide) then use exponent properties to simplify the ’s. Scientific notation is the only time where it will be allowed to have negative exponents in our final solution. The negative exponent simply informs us that we are dealing with small numbers. Consider the following examples.           Often when we multiply or divide in scientific notation the end result is not in sci- entific notation. We will then have to convert the front number into scientific notation and then combine the ’s using the product property of exponents and adding the exponents. This is shown in the following examples.      World View Note: Archimedes ( BC - BC), the Greek mathematician, developed a system for representing large numbers using a system very similar to scientific notation. He used his system to calculate the number of grains of sand it would take to fill the universe. His conclusion was grains of sand because he figured the universe to have a diameter of stadia or about light years.      Exercises - Scientific Notation    Write each number in scientific notiation.                                          Write each number in standard notation.                                          Simplify. Write each answer in scientific notation.                                                                                                                                                                                         "
 },
 {
   "id": "polynomials-scientific-notation-8",
@@ -13039,7 +13039,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-2-3",
@@ -13048,7 +13048,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-2-4",
@@ -13057,7 +13057,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-2-5",
@@ -13066,7 +13066,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-2-6",
@@ -13075,7 +13075,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-2-7",
@@ -13084,7 +13084,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-3-2",
@@ -13093,7 +13093,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-3-3",
@@ -13102,7 +13102,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-3-4",
@@ -13111,7 +13111,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-3-5",
@@ -13120,7 +13120,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-3-6",
@@ -13129,7 +13129,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-3-7",
@@ -13138,7 +13138,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-2",
@@ -13147,7 +13147,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-3",
@@ -13156,7 +13156,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-4",
@@ -13165,7 +13165,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-5",
@@ -13174,7 +13174,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-6",
@@ -13183,7 +13183,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-7",
@@ -13192,7 +13192,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-8",
@@ -13201,7 +13201,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-9",
@@ -13210,7 +13210,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-10",
@@ -13219,7 +13219,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-11",
@@ -13228,7 +13228,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-12",
@@ -13237,7 +13237,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-13",
@@ -13246,7 +13246,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-14",
@@ -13255,7 +13255,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-15",
@@ -13264,7 +13264,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-16",
@@ -13273,7 +13273,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-17",
@@ -13282,7 +13282,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-18",
@@ -13291,7 +13291,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-19",
@@ -13300,7 +13300,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-20",
@@ -13309,7 +13309,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-21",
@@ -13318,7 +13318,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-22",
@@ -13327,7 +13327,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-23",
@@ -13336,7 +13336,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-24",
@@ -13345,7 +13345,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-25",
@@ -13354,7 +13354,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-26",
@@ -13363,7 +13363,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-27",
@@ -13372,7 +13372,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-28",
@@ -13381,7 +13381,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-29",
@@ -13390,7 +13390,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-30",
@@ -13399,7 +13399,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.41",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-scientific-notation-4-31",
@@ -13408,7 +13408,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.3.42",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "polynomials-introduction",
@@ -13417,7 +13417,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.4",
   "title": "Introduction to Polynomials",
-  "body": " Introduction to Polynomials   Objective: Evaluate, add, and subtract polynomials.   Many applications in mathematics have to do with what are called polynomials. Polynomials are made up of terms. Terms are a product of numbers and\/or variables. For example, , , , , and are all terms. Terms are connected to each other by addition or subtraction. Expressions are often named based on the number of terms in them. A monomial has one term, such as . A binomial has two terms, such as . A Trinomial has three terms, such as . The term polynomial means many terms. Monomials, binomials, trinomials, and expressions with more terms all fall under the umbrella of “polynomials”.  If we know what the variable in a polynomial represents we can replace the variable with the number and evaluate the polynomial as shown in the following example.     It is important to be careful with negative variables and exponents. Remember the exponent only effects the number it is physically attached to. This means because the exponent is only attached to the . Also, because the exponent is attached to the parenthesis and effects everything inside. When we replace a variable with parenthesis like in the previous example, the substituted value is in parenthesis. So the in the example. However, consider the next example.      World View Note: Ada Lovelace in described a Difference Engine that would be used to caluclate values of polynomials. Her work became the foundation for what would become the modern computer (the programming language Ada was named in her honor), more than years after her death from cancer.  Generally when working with polynomials we do not know the value of the variable, so we will try and simplify instead. The simplest operation with polynomials is addition. When adding polynomials we are mearly combining like terms. Consider the following example.     Generally final answers for polynomials are written so the exponent on the variable counts down. The previous example demonstrates this with the exponent counting down , , , (recall ). Subtracting polynomials is almost as fast. One extra step comes from the minus in front of the parenthesis. When we have a negative in front of parenthesis we distribute it through, changing the signs of everything inside. The same is done for the subtraction sign.     Addition and subtraction can also be combined into the same problem as shown in this final example.      Exercises - Introduction to Polynomials    Simplify each expression.     when     when     when     when     when     when     when     when     when     when                                                                                                                                                                    "
+  "body": " Introduction to Polynomials   Objective: Evaluate, add, and subtract polynomials.   Many applications in mathematics have to do with what are called polynomials. Polynomials are made up of terms. Terms are a product of numbers and\/or variables. For example, , , , , and are all terms. Terms are connected to each other by addition or subtraction. Expressions are often named based on the number of terms in them. A monomial has one term, such as . A binomial has two terms, such as . A Trinomial has three terms, such as . The term polynomial means many terms. Monomials, binomials, trinomials, and expressions with more terms all fall under the umbrella of “polynomials”.  If we know what the variable in a polynomial represents we can replace the variable with the number and evaluate the polynomial as shown in the following example.     It is important to be careful with negative variables and exponents. Remember the exponent only effects the number it is physically attached to. This means because the exponent is only attached to the . Also, because the exponent is attached to the parenthesis and effects everything inside. When we replace a variable with parenthesis like in the previous example, the substituted value is in parenthesis. So the in the example. However, consider the next example.      World View Note: Ada Lovelace in described a Difference Engine that would be used to caluclate values of polynomials. Her work became the foundation for what would become the modern computer (the programming language Ada was named in her honor), more than years after her death from cancer.  Generally when working with polynomials we do not know the value of the variable, so we will try and simplify instead. The simplest operation with polynomials is addition. When adding polynomials we are mearly combining like terms. Consider the following example.     Generally final answers for polynomials are written so the exponent on the variable counts down. The previous example demonstrates this with the exponent counting down , , , (recall ). Subtracting polynomials is almost as fast. One extra step comes from the minus in front of the parenthesis. When we have a negative in front of parenthesis we distribute it through, changing the signs of everything inside. The same is done for the subtraction sign.     Addition and subtraction can also be combined into the same problem as shown in this final example.      Exercises - Introduction to Polynomials    Simplify each expression.     when      when      when      when      when      when      when      when      when      when                                                                                                                                                                                                     "
 },
 {
   "id": "polynomials-introduction-5",
@@ -13471,7 +13471,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.1",
   "title": "",
-  "body": "  when  "
+  "body": "  when   "
 },
 {
   "id": "exercises-introduction-polynomials-2-3",
@@ -13480,7 +13480,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.2",
   "title": "",
-  "body": "  when  "
+  "body": "  when   "
 },
 {
   "id": "exercises-introduction-polynomials-2-4",
@@ -13489,7 +13489,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.3",
   "title": "",
-  "body": "  when  "
+  "body": "  when   "
 },
 {
   "id": "exercises-introduction-polynomials-2-5",
@@ -13498,7 +13498,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.4",
   "title": "",
-  "body": "  when  "
+  "body": "  when   "
 },
 {
   "id": "exercises-introduction-polynomials-2-6",
@@ -13507,7 +13507,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.5",
   "title": "",
-  "body": "  when  "
+  "body": "  when   "
 },
 {
   "id": "exercises-introduction-polynomials-2-7",
@@ -13516,7 +13516,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.6",
   "title": "",
-  "body": "  when  "
+  "body": "  when   "
 },
 {
   "id": "exercises-introduction-polynomials-2-8",
@@ -13525,7 +13525,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.7",
   "title": "",
-  "body": "  when  "
+  "body": "  when   "
 },
 {
   "id": "exercises-introduction-polynomials-2-9",
@@ -13534,7 +13534,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.8",
   "title": "",
-  "body": "  when  "
+  "body": "  when   "
 },
 {
   "id": "exercises-introduction-polynomials-2-10",
@@ -13543,7 +13543,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.9",
   "title": "",
-  "body": "  when  "
+  "body": "  when   "
 },
 {
   "id": "exercises-introduction-polynomials-2-11",
@@ -13552,7 +13552,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.10",
   "title": "",
-  "body": "  when  "
+  "body": "  when   "
 },
 {
   "id": "exercises-introduction-polynomials-2-12",
@@ -13561,7 +13561,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-13",
@@ -13570,7 +13570,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.12",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-introduction-polynomials-2-14",
@@ -13579,7 +13579,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-15",
@@ -13588,7 +13588,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-16",
@@ -13597,7 +13597,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-17",
@@ -13606,7 +13606,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-18",
@@ -13615,7 +13615,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-19",
@@ -13624,7 +13624,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-20",
@@ -13633,7 +13633,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-21",
@@ -13642,7 +13642,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-22",
@@ -13651,7 +13651,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-23",
@@ -13660,7 +13660,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-24",
@@ -13669,7 +13669,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-25",
@@ -13678,7 +13678,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-26",
@@ -13687,7 +13687,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-27",
@@ -13696,7 +13696,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-28",
@@ -13705,7 +13705,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-29",
@@ -13714,7 +13714,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-30",
@@ -13723,7 +13723,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-31",
@@ -13732,7 +13732,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-32",
@@ -13741,7 +13741,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-33",
@@ -13750,7 +13750,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-34",
@@ -13759,7 +13759,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-35",
@@ -13768,7 +13768,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-36",
@@ -13777,7 +13777,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-37",
@@ -13786,7 +13786,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-38",
@@ -13795,7 +13795,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-39",
@@ -13804,7 +13804,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-40",
@@ -13813,7 +13813,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-41",
@@ -13822,7 +13822,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-42",
@@ -13831,7 +13831,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.41",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-introduction-polynomials-2-43",
@@ -13840,7 +13840,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.4.42",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "polynomials-multiplying",
@@ -13849,7 +13849,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.5",
   "title": "Multiplying Polynomial",
-  "body": " Multiplying Polynomial   Objective: Multiply polynomials.   Multiplying polynomials can take several different forms based on what we are multiplying. We will first look at multiplying monomials, then monomials by polynomials and finish with polynomials by polynomials.  Multiplying monomials is done by multiplying the numbers or coefficients and then adding the exponents on like factors. This is shown in the next example.     In the previous example it is important to remember that the z has an exponent of when no exponent is written. Thus for our answer the has an exponent of . Be very careful with exponents in polynomials. If we are adding or subtracting the exponnets will stay the same, but when we multiply (or divide) the exponents will be changing.  Next we consider multiplying a monomial by a polynomial. We have seen this operation before with distributing through parenthesis. Here we will see the exact same process.     Following is another example with more variables. When distributing the exponents on are added and the exponents on are added.     There are several different methods for multiplying polynomials. All of which work, often students prefer the method they are first taught. Here three methods will be discussed. All three methods will be used to solve the same two multiplication problems.   Multiply by Distributing  Just as we distribute a monomial through parenthesis we can distribute an entire polynomial. As we do this we take each term of the second polynomial and put it in front of the first polynomial.     This example illustrates an important point, the negative\/subtraction sign stays with the . Which means on the second step the negative is also distributed through the last set of parenthesis.  Multiplying by distributing can easily be extended to problems with more terms. First distribute the front parenthesis onto each term, then distribute again!     This process of multiplying by distributing can easily be reversed to do an important procedure known as factoring. Factoring will be addressed in a future lesson.   Multiply by FOIL  Another form of multiplying is known as FOIL. Using the FOIL method we multiply each term in the first binomial by each term in the second binomial. The letters of FOIL help us remember every combination. F stands for First, we multiply the first term of each binomial. O stand for Outside, we multiply the outside two terms. I stands for Inside, we multiply the inside two terms. L stands for Last, we multiply the last term of each binomial. This is shown in the next example.     Some students like to think of the FOIL method as distributing the first term through the and distributing the second term through the . Thinking about FOIL in this way makes it possible to extend this method to problems with more terms.     The second step of the FOIL method is often not written, for example, consider the previous example, a student will often go from the problem and do the multiplication mentally to come up with and then combine like terms to come up with the final solution.   Multiplying in rows  A third method for multiplying polynomials looks very similar to multiplying numbers. Consider the problem:      World View Note: The first known system that used place values comes from Chinese mathematics, dating back to AD or earlier.  The same process can be done with polynomials. Multiply each term on the bottom with each term on the top.     This same process is easily expanded to a problem with more terms.     This method of multiplying in rows also works with multiplying a monomial by a polynomial!  Any of the three described methods work to multiply polynomials. It is suggested that you are very comfortable with at least one of these methods as you work through the practice problems. All three methods are shown in the next example.      When we are multiplying a monomial by a polynomial by a polynomial we can solve by first multiplying the polynomials then distributing the coefficient last. This is shown in the last example.     A common error students do is distribute the three at the start into both paren- thesis. While we can distribute the into the factor, distributing into both would be wrong. Be careful of this error. This is why it is suggested to multiply the binomials first, then distribute the coeffienct last.   Exercises - Multiply Polynomials    Find each product.                                                                                                                                                                                    2(4x + 1)(2x - 6)                         "
+  "body": " Multiplying Polynomial   Objective: Multiply polynomials.   Multiplying polynomials can take several different forms based on what we are multiplying. We will first look at multiplying monomials, then monomials by polynomials and finish with polynomials by polynomials.  Multiplying monomials is done by multiplying the numbers or coefficients and then adding the exponents on like factors. This is shown in the next example.     In the previous example it is important to remember that the z has an exponent of when no exponent is written. Thus for our answer the has an exponent of . Be very careful with exponents in polynomials. If we are adding or subtracting the exponnets will stay the same, but when we multiply (or divide) the exponents will be changing.  Next we consider multiplying a monomial by a polynomial. We have seen this operation before with distributing through parenthesis. Here we will see the exact same process.     Following is another example with more variables. When distributing the exponents on are added and the exponents on are added.     There are several different methods for multiplying polynomials. All of which work, often students prefer the method they are first taught. Here three methods will be discussed. All three methods will be used to solve the same two multiplication problems.   Multiply by Distributing  Just as we distribute a monomial through parenthesis we can distribute an entire polynomial. As we do this we take each term of the second polynomial and put it in front of the first polynomial.     This example illustrates an important point, the negative\/subtraction sign stays with the . Which means on the second step the negative is also distributed through the last set of parenthesis.  Multiplying by distributing can easily be extended to problems with more terms. First distribute the front parenthesis onto each term, then distribute again!     This process of multiplying by distributing can easily be reversed to do an important procedure known as factoring. Factoring will be addressed in a future lesson.   Multiply by FOIL  Another form of multiplying is known as FOIL. Using the FOIL method we multiply each term in the first binomial by each term in the second binomial. The letters of FOIL help us remember every combination. F stands for First, we multiply the first term of each binomial. O stand for Outside, we multiply the outside two terms. I stands for Inside, we multiply the inside two terms. L stands for Last, we multiply the last term of each binomial. This is shown in the next example.     Some students like to think of the FOIL method as distributing the first term through the and distributing the second term through the . Thinking about FOIL in this way makes it possible to extend this method to problems with more terms.     The second step of the FOIL method is often not written, for example, consider the previous example, a student will often go from the problem and do the multiplication mentally to come up with and then combine like terms to come up with the final solution.   Multiplying in rows  A third method for multiplying polynomials looks very similar to multiplying numbers. Consider the problem:      World View Note: The first known system that used place values comes from Chinese mathematics, dating back to AD or earlier.  The same process can be done with polynomials. Multiply each term on the bottom with each term on the top.     This same process is easily expanded to a problem with more terms.     This method of multiplying in rows also works with multiplying a monomial by a polynomial!  Any of the three described methods work to multiply polynomials. It is suggested that you are very comfortable with at least one of these methods as you work through the practice problems. All three methods are shown in the next example.      When we are multiplying a monomial by a polynomial by a polynomial we can solve by first multiplying the polynomials then distributing the coefficient last. This is shown in the last example.     A common error students do is distribute the three at the start into both paren- thesis. While we can distribute the into the factor, distributing into both would be wrong. Be careful of this error. This is why it is suggested to multiply the binomials first, then distribute the coeffienct last.   Exercises - Multiply Polynomials    Find each product.                                                                                                                                                                                                                       2(4x + 1)(2x - 6)                              "
 },
 {
   "id": "polynomials-multiplying-5",
@@ -13957,7 +13957,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-3",
@@ -13966,7 +13966,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-4",
@@ -13975,7 +13975,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-5",
@@ -13984,7 +13984,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-6",
@@ -13993,7 +13993,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-7",
@@ -14002,7 +14002,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-8",
@@ -14011,7 +14011,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-9",
@@ -14020,7 +14020,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-10",
@@ -14029,7 +14029,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-11",
@@ -14038,7 +14038,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-12",
@@ -14047,7 +14047,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-13",
@@ -14056,7 +14056,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-14",
@@ -14065,7 +14065,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-15",
@@ -14074,7 +14074,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-16",
@@ -14083,7 +14083,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-17",
@@ -14092,7 +14092,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-18",
@@ -14101,7 +14101,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-19",
@@ -14110,7 +14110,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-20",
@@ -14119,7 +14119,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-21",
@@ -14128,7 +14128,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-22",
@@ -14137,7 +14137,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-23",
@@ -14146,7 +14146,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-24",
@@ -14155,7 +14155,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-25",
@@ -14164,7 +14164,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-26",
@@ -14173,7 +14173,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-27",
@@ -14182,7 +14182,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-28",
@@ -14191,7 +14191,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-29",
@@ -14200,7 +14200,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-30",
@@ -14209,7 +14209,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-31",
@@ -14218,7 +14218,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-32",
@@ -14227,7 +14227,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-33",
@@ -14236,7 +14236,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-34",
@@ -14245,7 +14245,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-35",
@@ -14254,7 +14254,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-36",
@@ -14263,7 +14263,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-37",
@@ -14272,7 +14272,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.36",
   "title": "",
-  "body": "  2(4x + 1)(2x - 6)  "
+  "body": "  2(4x + 1)(2x - 6)   "
 },
 {
   "id": "exercises-polynomials-multiply-2-38",
@@ -14281,7 +14281,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-39",
@@ -14290,7 +14290,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-40",
@@ -14299,7 +14299,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-multiply-2-41",
@@ -14308,7 +14308,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "polynomials-special-products",
@@ -14317,7 +14317,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.6",
   "title": "Multiply Special Products",
-  "body": " Multiply Special Products   Objective: Recognize and use special product rules of a sum and difference and perfect squares to multiply polynomials.   There are a few shortcuts that we can take when multiplying polynomials. If we can recognize them the shortcuts can help us arrive at the solution much quicker. These shortcuts will also be useful to us as our study of algebra continues.  The first shortcut is often called a sum and a difference . A sum and a difference is easily recognized as the numbers and variables are exactly the same, but the sign in the middle is different (one sum, one difference). To illustrate the shortcut consider the following example, multiplied by the distributing method.     The important part of this example is the middle terms subtracted to zero. Rather than going through all this work, when we have a sum and a difference we will jump right to our solution by squaring the first term and squaring the last term, putting a subtraction between them. This is illustrated in the following example.     This is much quicker than going through the work of multiplying and combining like terms. Often students ask if they can just multiply out using another method and not learn the shortcut. These shortcuts are going to be very useful when we get to factoring polynomials, or reversing the multiplication process. For this reason it is very important to be able to recognize these shortcuts. More examples are shown here.        It is interesting to note that while we can multiply and get an answer like (with subtraction), it is impossible to multiply real numbers and end up with a product such as (with addition).  Another shortcut used to multiply is known as a perfect square . These are easy to recognize as we will have a binomial with a in the exponent. The following example illustrates multiplying a perfect square     This problem also helps us find our shortcut for multiplying. The first term in the answer is the square of the first term in the problem. The middle term is times the first term times the second term. The last term is the square of the last term. This can be shortened to square the first, twice the product, square the last. If we can remember this shortcut we can square any binomial. This is illustrated in the following example.     Be very careful when we are squaring a binomial to NOT distribute the square through the parenthesis. A common error is to do the following: (or ). Notice both of these are missing the middle term, . This is why it is important to use the shortcut to help us find the correct solution. Another important observation is that the middle term in the solution always has the same sign as the middle term in the problem. This is illustrated in the next examples.           These two formulas will be important to commit to memory. The more familiar we are with them, the easier factoring, or multiplying in reverse, will be. The final example covers both types of problems (two perfect squares, one positive, one negative), be sure to notice the difference between the examples and how each formula is used.                     World View Note: There are also formulas for higher powers of binomials as well, such as . While French mathematician Blaise Pascal often gets credit for working with these expansions of binomials in the th century, Chinese mathematicians had been working with them almost years earlier!   Exercises -Multiply Special Products    Find each product.                                                                                                                                                                                                             "
+  "body": " Multiply Special Products   Objective: Recognize and use special product rules of a sum and difference and perfect squares to multiply polynomials.   There are a few shortcuts that we can take when multiplying polynomials. If we can recognize them the shortcuts can help us arrive at the solution much quicker. These shortcuts will also be useful to us as our study of algebra continues.  The first shortcut is often called a sum and a difference . A sum and a difference is easily recognized as the numbers and variables are exactly the same, but the sign in the middle is different (one sum, one difference). To illustrate the shortcut consider the following example, multiplied by the distributing method.     The important part of this example is the middle terms subtracted to zero. Rather than going through all this work, when we have a sum and a difference we will jump right to our solution by squaring the first term and squaring the last term, putting a subtraction between them. This is illustrated in the following example.     This is much quicker than going through the work of multiplying and combining like terms. Often students ask if they can just multiply out using another method and not learn the shortcut. These shortcuts are going to be very useful when we get to factoring polynomials, or reversing the multiplication process. For this reason it is very important to be able to recognize these shortcuts. More examples are shown here.        It is interesting to note that while we can multiply and get an answer like (with subtraction), it is impossible to multiply real numbers and end up with a product such as (with addition).  Another shortcut used to multiply is known as a perfect square . These are easy to recognize as we will have a binomial with a in the exponent. The following example illustrates multiplying a perfect square     This problem also helps us find our shortcut for multiplying. The first term in the answer is the square of the first term in the problem. The middle term is times the first term times the second term. The last term is the square of the last term. This can be shortened to square the first, twice the product, square the last. If we can remember this shortcut we can square any binomial. This is illustrated in the following example.     Be very careful when we are squaring a binomial to NOT distribute the square through the parenthesis. A common error is to do the following: (or ). Notice both of these are missing the middle term, . This is why it is important to use the shortcut to help us find the correct solution. Another important observation is that the middle term in the solution always has the same sign as the middle term in the problem. This is illustrated in the next examples.           These two formulas will be important to commit to memory. The more familiar we are with them, the easier factoring, or multiplying in reverse, will be. The final example covers both types of problems (two perfect squares, one positive, one negative), be sure to notice the difference between the examples and how each formula is used.                     World View Note: There are also formulas for higher powers of binomials as well, such as . While French mathematician Blaise Pascal often gets credit for working with these expansions of binomials in the th century, Chinese mathematicians had been working with them almost years earlier!   Exercises -Multiply Special Products    Find each product.                                                                                                                                                                                                                                                     "
 },
 {
   "id": "polynomials-special-products-5",
@@ -14416,7 +14416,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-3",
@@ -14425,7 +14425,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-4",
@@ -14434,7 +14434,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-5",
@@ -14443,7 +14443,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-6",
@@ -14452,7 +14452,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-7",
@@ -14461,7 +14461,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-8",
@@ -14470,7 +14470,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-9",
@@ -14479,7 +14479,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-10",
@@ -14488,7 +14488,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-11",
@@ -14497,7 +14497,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-12",
@@ -14506,7 +14506,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-13",
@@ -14515,7 +14515,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-14",
@@ -14524,7 +14524,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-15",
@@ -14533,7 +14533,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-16",
@@ -14542,7 +14542,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-17",
@@ -14551,7 +14551,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-18",
@@ -14560,7 +14560,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-19",
@@ -14569,7 +14569,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-20",
@@ -14578,7 +14578,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-21",
@@ -14587,7 +14587,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-22",
@@ -14596,7 +14596,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-23",
@@ -14605,7 +14605,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-24",
@@ -14614,7 +14614,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-25",
@@ -14623,7 +14623,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-26",
@@ -14632,7 +14632,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-27",
@@ -14641,7 +14641,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-28",
@@ -14650,7 +14650,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-29",
@@ -14659,7 +14659,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-30",
@@ -14668,7 +14668,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-31",
@@ -14677,7 +14677,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-32",
@@ -14686,7 +14686,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-33",
@@ -14695,7 +14695,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-34",
@@ -14704,7 +14704,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-35",
@@ -14713,7 +14713,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-36",
@@ -14722,7 +14722,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-37",
@@ -14731,7 +14731,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-38",
@@ -14740,7 +14740,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-39",
@@ -14749,7 +14749,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-40",
@@ -14758,7 +14758,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-polynomials-special-products-2-41",
@@ -14767,7 +14767,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "polynomials-divide",
@@ -14776,7 +14776,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.7",
   "title": "Divide Polynomials",
-  "body": " Divide Polynomials   Objective: Divide polynomials using long division.   Dividing polynomials is a process very similar to long division of whole numbers. But before we look at that, we will first want to be able to master dividing a polynomial by a monomial. The way we do this is very similar to distributing, but the operation we distribute is the division, dividing each term by the monomial and reducing the resulting expression. This is shown in the following examples        The previous example illustrates that sometimes we will have fractions in our solution, as long as they are reduced this will be correct for our solution. Also interesting in this problem is the second term divided out completely. Remember that this means the reduced answer is not .  Long division is required when we divide by more than just a monomial. Long division with polynomials works very similar to long division with whole numbers.  An example is given to review the (general) steps that are used with whole numbers that we will also use with polynomials.     This same process will be used to multiply polynomials. The only difference is we will replace the word “number” with the word “term”.   Dividing Polynomials   Divide front terms  Multiply this term by the divisor  Change the sign of the terms and combine  Bring down the next term  Repeat    Step number 3 tends to be the one that students skip, not changing the signs of the terms would be equivalent to adding instead of subtracting on long division with whole numbers. Be sure not to miss this step! This process is illustrated in the following two examples.        In both of the previous example the dividends had the exponents on our variable counting down, no exponent skipped, third power, second power, first power, zero power (remember so there is no variable on zero power). This is very important in long division, the variables must count down and no exponent can be skipped. If they don’t count down we must put them in order. If an exponent is skipped we will have to add a term to the problem, with zero for its coefficient. This is demonstrated in the following example.     It is important to take a moment to check each problem to verify that the exponents count down and no exponent is skipped. If so we will have to adjust the problem. Also, this final example illustrates, just as in regular long division, sometimes we have no remainder in a problem.   World View Note: Paolo Ruffini was an Italian Mathematician of the early th century. In he was the first to describe a process called synthetic division which could also be used to divide polynomials.   Exercises - Divide Polynomials    Divide.                                                "
+  "body": " Divide Polynomials   Objective: Divide polynomials using long division.   Dividing polynomials is a process very similar to long division of whole numbers. But before we look at that, we will first want to be able to master dividing a polynomial by a monomial. The way we do this is very similar to distributing, but the operation we distribute is the division, dividing each term by the monomial and reducing the resulting expression. This is shown in the following examples        The previous example illustrates that sometimes we will have fractions in our solution, as long as they are reduced this will be correct for our solution. Also interesting in this problem is the second term divided out completely. Remember that this means the reduced answer is not .  Long division is required when we divide by more than just a monomial. Long division with polynomials works very similar to long division with whole numbers.  An example is given to review the (general) steps that are used with whole numbers that we will also use with polynomials.     This same process will be used to multiply polynomials. The only difference is we will replace the word “number” with the word “term”.   Dividing Polynomials   Divide front terms  Multiply this term by the divisor  Change the sign of the terms and combine  Bring down the next term  Repeat    Step number 3 tends to be the one that students skip, not changing the signs of the terms would be equivalent to adding instead of subtracting on long division with whole numbers. Be sure not to miss this step! This process is illustrated in the following two examples.        In both of the previous example the dividends had the exponents on our variable counting down, no exponent skipped, third power, second power, first power, zero power (remember so there is no variable on zero power). This is very important in long division, the variables must count down and no exponent can be skipped. If they don’t count down we must put them in order. If an exponent is skipped we will have to add a term to the problem, with zero for its coefficient. This is demonstrated in the following example.     It is important to take a moment to check each problem to verify that the exponents count down and no exponent is skipped. If so we will have to adjust the problem. Also, this final example illustrates, just as in regular long division, sometimes we have no remainder in a problem.   World View Note: Paolo Ruffini was an Italian Mathematician of the early th century. In he was the first to describe a process called synthetic division which could also be used to divide polynomials.   Exercises - Divide Polynomials    Divide.                                                                                           "
 },
 {
   "id": "polynomials-divide-4",
@@ -14839,7 +14839,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.1",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-3",
@@ -14848,7 +14848,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.2",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-4",
@@ -14857,7 +14857,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.3",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-5",
@@ -14866,7 +14866,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.4",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-6",
@@ -14875,7 +14875,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.5",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-7",
@@ -14884,7 +14884,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.6",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-8",
@@ -14893,7 +14893,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.7",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-9",
@@ -14902,7 +14902,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.8",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-10",
@@ -14911,7 +14911,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.9",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-11",
@@ -14920,7 +14920,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.10",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-12",
@@ -14929,7 +14929,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.11",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-13",
@@ -14938,7 +14938,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.12",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-14",
@@ -14947,7 +14947,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.13",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-15",
@@ -14956,7 +14956,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.14",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-16",
@@ -14965,7 +14965,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.15",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-17",
@@ -14974,7 +14974,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.16",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-18",
@@ -14983,7 +14983,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.17",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-19",
@@ -14992,7 +14992,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.18",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-20",
@@ -15001,7 +15001,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.19",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-21",
@@ -15010,7 +15010,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.20",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-22",
@@ -15019,7 +15019,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.21",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-23",
@@ -15028,7 +15028,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.22",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-24",
@@ -15037,7 +15037,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.23",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-25",
@@ -15046,7 +15046,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.24",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-26",
@@ -15055,7 +15055,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.25",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-27",
@@ -15064,7 +15064,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.26",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-28",
@@ -15073,7 +15073,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.27",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-29",
@@ -15082,7 +15082,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.28",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-30",
@@ -15091,7 +15091,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.29",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-31",
@@ -15100,7 +15100,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.30",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-32",
@@ -15109,7 +15109,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.31",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-33",
@@ -15118,7 +15118,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.32",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-34",
@@ -15127,7 +15127,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.33",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-35",
@@ -15136,7 +15136,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.34",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-36",
@@ -15145,7 +15145,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.35",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-37",
@@ -15154,7 +15154,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.36",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-38",
@@ -15163,7 +15163,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.37",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-39",
@@ -15172,7 +15172,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.38",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-40",
@@ -15181,7 +15181,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.39",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-41",
@@ -15190,7 +15190,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.40",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-42",
@@ -15199,7 +15199,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.41",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-43",
@@ -15208,7 +15208,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.42",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "exercises-polynomials-divide-2-44",
@@ -15217,7 +15217,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.7.43",
   "title": "",
-  "body": ""
+  "body": " "
 },
 {
   "id": "factoring-gcf",
@@ -15226,7 +15226,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.1",
   "title": "Greatest Common Factor",
-  "body": " Greatest Common Factor   Objective: Find the greatest common factor of a polynomial and factor it out of the expression.   The opposite of multiplying polynomials together is factoring polynomials. There are many benifits of a polynomial being factored. We use factored polynomials to help us solve equations, learn behaviors of graphs, work with fractions and more. Because so many concepts in algebra depend on us being able to factor polynomials it is very important to have very strong factoring skills.  In this lesson we will focus on factoring using the greatest common factor or GCF of a polynomial. When we multiplied polynomials, we multiplied monomials by polynomials by distributing, solving problems such as . In this lesson we will work the same problem backwards. We will start with and try and work backwards to the .  To do this we have to be able to first identify what is the GCF of a polynomial. We will first introduce this by looking at finding the GCF of several numbers. To find a GCF of sevearal numbers we are looking for the largest number that can be divided by each of the numbers. This can often be done with quick mental math and it is shown in the following example.  Find the GCF of , , and .   When there are variables in our problem we can first find the GCF of the numbers using mental math, then we take any variables that are in common with each term, using the lowest exponent. This is shown in the next example.  Find the GCF of , , and .   To factor out a GCF from a polynomial we first need to identify the GCF of all the terms, this is the part that goes in front of the parenthesis, then we divide each term by the GCF, the answer is what is left inside the parenthesis. This is shown in the following examples.     With factoring we can always check our solutions by multiplying (distributing in this case) out the answer and the solution should be the original equation.         World View Note: The first recorded algorithm for finding the greatest common factor comes from Greek mathematician Euclid around the year BC!     It is important to note in the previous example, that when the GCF was and was one of the terms, dividing gave an answer of . Students often try to factor out the and get zero which is incorrect, factoring will never make terms dissapear. Anything divided by itself is , be sure to not forget to put the 1 into the solution.  Often the second line is not shown in the work of factoring the GCF. We can simply identify the GCF and put it in front of the parenthesis as shown in the following two examples.        Again, in the previous problem, when dividing by itself, the answer is , not zero. Be very careful that each term is accounted for in your final solution.   Exercises - Greatest Common Factor    Factor the common factor out of each expression.                                                                                                                                                                     "
+  "body": " Greatest Common Factor   Objective: Find the greatest common factor of a polynomial and factor it out of the expression.   The opposite of multiplying polynomials together is factoring polynomials. There are many benifits of a polynomial being factored. We use factored polynomials to help us solve equations, learn behaviors of graphs, work with fractions and more. Because so many concepts in algebra depend on us being able to factor polynomials it is very important to have very strong factoring skills.  In this lesson we will focus on factoring using the greatest common factor or GCF of a polynomial. When we multiplied polynomials, we multiplied monomials by polynomials by distributing, solving problems such as . In this lesson we will work the same problem backwards. We will start with and try and work backwards to the .  To do this we have to be able to first identify what is the GCF of a polynomial. We will first introduce this by looking at finding the GCF of several numbers. To find a GCF of sevearal numbers we are looking for the largest number that can be divided by each of the numbers. This can often be done with quick mental math and it is shown in the following example.  Find the GCF of , , and .   When there are variables in our problem we can first find the GCF of the numbers using mental math, then we take any variables that are in common with each term, using the lowest exponent. This is shown in the next example.  Find the GCF of , , and .   To factor out a GCF from a polynomial we first need to identify the GCF of all the terms, this is the part that goes in front of the parenthesis, then we divide each term by the GCF, the answer is what is left inside the parenthesis. This is shown in the following examples.     With factoring we can always check our solutions by multiplying (distributing in this case) out the answer and the solution should be the original equation.         World View Note: The first recorded algorithm for finding the greatest common factor comes from Greek mathematician Euclid around the year BC!     It is important to note in the previous example, that when the GCF was and was one of the terms, dividing gave an answer of . Students often try to factor out the and get zero which is incorrect, factoring will never make terms dissapear. Anything divided by itself is , be sure to not forget to put the 1 into the solution.  Often the second line is not shown in the work of factoring the GCF. We can simply identify the GCF and put it in front of the parenthesis as shown in the following two examples.        Again, in the previous problem, when dividing by itself, the answer is , not zero. Be very careful that each term is accounted for in your final solution.   Exercises - Greatest Common Factor    Factor the common factor out of each expression.                                                                                                                                                                                                     "
 },
 {
   "id": "factoring-gcf-6",
@@ -15307,7 +15307,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-3",
@@ -15316,7 +15316,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-4",
@@ -15325,7 +15325,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-5",
@@ -15334,7 +15334,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-6",
@@ -15343,7 +15343,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-7",
@@ -15352,7 +15352,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-8",
@@ -15361,7 +15361,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-9",
@@ -15370,7 +15370,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-10",
@@ -15379,7 +15379,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-11",
@@ -15388,7 +15388,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-12",
@@ -15397,7 +15397,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-13",
@@ -15406,7 +15406,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-14",
@@ -15415,7 +15415,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-15",
@@ -15424,7 +15424,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-16",
@@ -15433,7 +15433,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-17",
@@ -15442,7 +15442,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-18",
@@ -15451,7 +15451,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-19",
@@ -15460,7 +15460,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-20",
@@ -15469,7 +15469,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-21",
@@ -15478,7 +15478,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-22",
@@ -15487,7 +15487,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-23",
@@ -15496,7 +15496,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-24",
@@ -15505,7 +15505,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-25",
@@ -15514,7 +15514,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-26",
@@ -15523,7 +15523,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-27",
@@ -15532,7 +15532,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-28",
@@ -15541,7 +15541,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-29",
@@ -15550,7 +15550,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-30",
@@ -15559,7 +15559,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-31",
@@ -15568,7 +15568,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-32",
@@ -15577,7 +15577,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-gcf-2-33",
@@ -15586,7 +15586,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.1.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "factoring-grouping",
@@ -15595,7 +15595,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.2",
   "title": "Grouping",
-  "body": " Grouping   Objective: Factor polynomials with four terms using grouping.   The first thing we will always do when factoring is try to factor out a GCF. This GCF is often a monomial like in the problem the GCF is the monomial , so we would have . However, a GCF does not have to be a monomial, it could be a binomial. To see this, consider the following two example.     Now the same problem, but instead of we have .     In the same way we factored out a GCF of we can factor out a GCF which is a binomial, . This process can be extended to factor problems where there is no GCF to factor out, or after the GCF is factored out, there is more factoring that can be done. Here we will have to use another strategy to factor. We will use a process known as grouping. Grouping is how we will factor if there are four terms in the problem. Remember, factoring is like multiplying in reverse, so first we will look at a multiplication problem and then try to reverse the process.     The solution has four terms in it. We arrived at the solution by looking at the two parts, and . When we are factoring by grouping we will always divide the problem into two parts, the first two terms and the last two terms. Then we can factor the GCF out of both the left and right sides. When we do this our hope is what is left in the parenthesis will match on both the left and right. If they match we can pull this matching GCF out front, putting the rest in parenthesis and we will be factored. The next example is the same problem worked backwards, factoring instead of multiplying.     The key for grouping to work is after the GCF is factored out of the left and right, the two binomials must match exactly. If there is any difference between the two we either have to do some adjusting or it can’t be factored using the grouping method. Consider the following example.    When the signs don’t match on both terms we can easily make them match by fac- toring the opposite of the GCF on the right side. Instead of we will use . This will change the signs inside the second parenthesis.    Often we can recognize early that we need to use the opposite of the GCF when factoring. If the first term of the first binomial is positive in the problem, we will also want the first term of the second binomial to be positive. If it is negative then we will use the opposite of the GCF to be sure they match.     Sometimes when factoring the GCF out of the left or right side there is no GCF to factor out. In this case we will use either the GCF of or . Often this is all we need to be sure the two binomials match.        Another problem that may come up with grouping is after factoring out the GCF on the left and right, the binomials don’t match, more than just the signs are different. In this case we may have to adjust the problem slightly. One way to do this is to change the order of the terms and try again. To do this we will move the second term to the end of the problem and see if that helps us use grouping.     When rearranging terms the problem can still be out of order. Sometimes after factoring out the GCF the terms are backwards. There are two ways that this can happen, one with addition, one with subtraction. If it happens with addition, for example the binomials are and , we don’t have to do any extra work. This is because addition is the same in either order .     However, if the binomial has subtraction, then we need to be a bit more careful. For example, if the binomials are and , we will factor out the opposite of the GCF on one part, usually the second. Notice what happens when we factor out .     Generally we won’t show all the above steps, we will simply factor out the opposite of the GCF and switch the order of the subtraction to make it match the other binomial.      World View Note: Sofia Kovalevskaya of Russia was the first woman on the editorial staff of a mathematical journal in the late th century. She also did research on how the rings of Saturn rotated.   Exercises - Grouping    Factor each completely.                                                                                                                                            "
+  "body": " Grouping   Objective: Factor polynomials with four terms using grouping.   The first thing we will always do when factoring is try to factor out a GCF. This GCF is often a monomial like in the problem the GCF is the monomial , so we would have . However, a GCF does not have to be a monomial, it could be a binomial. To see this, consider the following two example.     Now the same problem, but instead of we have .     In the same way we factored out a GCF of we can factor out a GCF which is a binomial, . This process can be extended to factor problems where there is no GCF to factor out, or after the GCF is factored out, there is more factoring that can be done. Here we will have to use another strategy to factor. We will use a process known as grouping. Grouping is how we will factor if there are four terms in the problem. Remember, factoring is like multiplying in reverse, so first we will look at a multiplication problem and then try to reverse the process.     The solution has four terms in it. We arrived at the solution by looking at the two parts, and . When we are factoring by grouping we will always divide the problem into two parts, the first two terms and the last two terms. Then we can factor the GCF out of both the left and right sides. When we do this our hope is what is left in the parenthesis will match on both the left and right. If they match we can pull this matching GCF out front, putting the rest in parenthesis and we will be factored. The next example is the same problem worked backwards, factoring instead of multiplying.     The key for grouping to work is after the GCF is factored out of the left and right, the two binomials must match exactly. If there is any difference between the two we either have to do some adjusting or it can’t be factored using the grouping method. Consider the following example.    When the signs don’t match on both terms we can easily make them match by fac- toring the opposite of the GCF on the right side. Instead of we will use . This will change the signs inside the second parenthesis.    Often we can recognize early that we need to use the opposite of the GCF when factoring. If the first term of the first binomial is positive in the problem, we will also want the first term of the second binomial to be positive. If it is negative then we will use the opposite of the GCF to be sure they match.     Sometimes when factoring the GCF out of the left or right side there is no GCF to factor out. In this case we will use either the GCF of or . Often this is all we need to be sure the two binomials match.        Another problem that may come up with grouping is after factoring out the GCF on the left and right, the binomials don’t match, more than just the signs are different. In this case we may have to adjust the problem slightly. One way to do this is to change the order of the terms and try again. To do this we will move the second term to the end of the problem and see if that helps us use grouping.     When rearranging terms the problem can still be out of order. Sometimes after factoring out the GCF the terms are backwards. There are two ways that this can happen, one with addition, one with subtraction. If it happens with addition, for example the binomials are and , we don’t have to do any extra work. This is because addition is the same in either order .     However, if the binomial has subtraction, then we need to be a bit more careful. For example, if the binomials are and , we will factor out the opposite of the GCF on one part, usually the second. Notice what happens when we factor out .     Generally we won’t show all the above steps, we will simply factor out the opposite of the GCF and switch the order of the subtraction to make it match the other binomial.      World View Note: Sofia Kovalevskaya of Russia was the first woman on the editorial staff of a mathematical journal in the late th century. She also did research on how the rings of Saturn rotated.   Exercises - Grouping    Factor each completely.                                                                                                                                                                       "
 },
 {
   "id": "factoring-grouping-4",
@@ -15712,7 +15712,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-3",
@@ -15721,7 +15721,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-4",
@@ -15730,7 +15730,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-5",
@@ -15739,7 +15739,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-6",
@@ -15748,7 +15748,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-7",
@@ -15757,7 +15757,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-8",
@@ -15766,7 +15766,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-9",
@@ -15775,7 +15775,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-10",
@@ -15784,7 +15784,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-11",
@@ -15793,7 +15793,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-12",
@@ -15802,7 +15802,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-13",
@@ -15811,7 +15811,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-14",
@@ -15820,7 +15820,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-15",
@@ -15829,7 +15829,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-16",
@@ -15838,7 +15838,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-17",
@@ -15847,7 +15847,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-18",
@@ -15856,7 +15856,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-19",
@@ -15865,7 +15865,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-20",
@@ -15874,7 +15874,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-21",
@@ -15883,7 +15883,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-22",
@@ -15892,7 +15892,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-23",
@@ -15901,7 +15901,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-24",
@@ -15910,7 +15910,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-25",
@@ -15919,7 +15919,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-26",
@@ -15928,7 +15928,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-27",
@@ -15937,7 +15937,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-grouping-2-28",
@@ -15946,7 +15946,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "factoring-trinomials-A-1",
@@ -15955,7 +15955,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.3",
   "title": "Trinomials where <span class=\"process-math\">\\(a= 1\\)<\/span>",
-  "body": " Trinomials where    Objective: Factor trinomials where the coefficient of is one.   Factoring with three terms, or trinomials, is the most important type of factoring to be able to master. As factoring is multiplication backwards we will start with a multipication problem and look at how we can reverse the process.     You may notice that if you reverse the last three steps the process looks like grouping. This is because it is grouping! The GCF of the left two terms is and the GCF of the second two terms is . The way we will factor trinomials is to make them into a polynomial with four terms and then factor by grouping. This is shown in the following example, the same problem worked backwards.     The trick to make these problems work is how we split the middle term. Why did we pick and not ? The reason is because is the only combination that works! So how do we know what is the one combination that works? To find the correct way to split the middle term we will use what is called the ac method. In the next lesson we will discuss why it is called the ac method. The way the ac method works is we find a pair of numers that multiply to a cer- tain number and add to another number. Here we will try to multiply to get the last term and add to get the coefficient of the middle term. In the previous example that would mean we wanted to multiply to and add to . The only numbers that can do this are and : and . This process is shown in the next few examples.           Often when factoring we have two variables. These problems solve just like prob- lems with one variable, using the coefficients to decide how to split the middle term.     As the past few examples illustrate, it is very important to be aware of negatives as we find the pair of numbers we will use to split the middle term. Consier the following example, done incorrectly, ignoring negative signs.     Because we did not use the negative sign with the six to find our pair of numbers, the binomials did not match and grouping was not able to work at the end. Now the problem will be done correctly.     You may have noticed a shortcut for factoring these problems. Once we identify the two numbers that are used to split the middle term, these are the two num- bers in our factors! In the previous example, the numbers used to split the middle term were and , our factors turned out to be . This pattern does not always work, so be careful getting in the habit of using it. We can use it however, when we have no number (technically we have a ) in front of . In all the problems we have factored in this lesson there is no number in front of . If this is the case then we can use this shortcut. This is shown in the next few examples.        It is possible to have a problem that does not factor. If there is no combination of numbers that multiplies and adds to the correct numbers, then we say we cannot factor the polynomial, or we say the polynomial is prime. This is shown in the following example.     When factoring it is important not to forget about the GCF. If all the terms in a problem have a common factor we will want to first factor out the GCF before we factor using any other method.     Again it is important to comment on the shortcut of jumping right to the factors, this only works if there is no coefficient on . In the next lesson we will look at how this process changes slightly when we have a number in front of . Be careful not to use this shortcut on all factoring problems!   World View Note: The first person to use letters for unknown values was Francois Vieta in in France. He used vowels to represent variables we are solving for, just as codes used letters to represent an unknown message.   Exercises - Trinomials where    Factor each completely.                                                                                                                                                                               "
+  "body": " Trinomials where    Objective: Factor trinomials where the coefficient of is one.   Factoring with three terms, or trinomials, is the most important type of factoring to be able to master. As factoring is multiplication backwards we will start with a multipication problem and look at how we can reverse the process.     You may notice that if you reverse the last three steps the process looks like grouping. This is because it is grouping! The GCF of the left two terms is and the GCF of the second two terms is . The way we will factor trinomials is to make them into a polynomial with four terms and then factor by grouping. This is shown in the following example, the same problem worked backwards.     The trick to make these problems work is how we split the middle term. Why did we pick and not ? The reason is because is the only combination that works! So how do we know what is the one combination that works? To find the correct way to split the middle term we will use what is called the ac method. In the next lesson we will discuss why it is called the ac method. The way the ac method works is we find a pair of numers that multiply to a cer- tain number and add to another number. Here we will try to multiply to get the last term and add to get the coefficient of the middle term. In the previous example that would mean we wanted to multiply to and add to . The only numbers that can do this are and : and . This process is shown in the next few examples.           Often when factoring we have two variables. These problems solve just like prob- lems with one variable, using the coefficients to decide how to split the middle term.     As the past few examples illustrate, it is very important to be aware of negatives as we find the pair of numbers we will use to split the middle term. Consier the following example, done incorrectly, ignoring negative signs.     Because we did not use the negative sign with the six to find our pair of numbers, the binomials did not match and grouping was not able to work at the end. Now the problem will be done correctly.     You may have noticed a shortcut for factoring these problems. Once we identify the two numbers that are used to split the middle term, these are the two num- bers in our factors! In the previous example, the numbers used to split the middle term were and , our factors turned out to be . This pattern does not always work, so be careful getting in the habit of using it. We can use it however, when we have no number (technically we have a ) in front of . In all the problems we have factored in this lesson there is no number in front of . If this is the case then we can use this shortcut. This is shown in the next few examples.        It is possible to have a problem that does not factor. If there is no combination of numbers that multiplies and adds to the correct numbers, then we say we cannot factor the polynomial, or we say the polynomial is prime. This is shown in the following example.     When factoring it is important not to forget about the GCF. If all the terms in a problem have a common factor we will want to first factor out the GCF before we factor using any other method.     Again it is important to comment on the shortcut of jumping right to the factors, this only works if there is no coefficient on . In the next lesson we will look at how this process changes slightly when we have a number in front of . Be careful not to use this shortcut on all factoring problems!   World View Note: The first person to use letters for unknown values was Francois Vieta in in France. He used vowels to represent variables we are solving for, just as codes used letters to represent an unknown message.   Exercises - Trinomials where    Factor each completely.                                                                                                                                                                                                                 "
 },
 {
   "id": "factoring-trinomials-A-1-4",
@@ -16072,7 +16072,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-3",
@@ -16081,7 +16081,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-4",
@@ -16090,7 +16090,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-5",
@@ -16099,7 +16099,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-6",
@@ -16108,7 +16108,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-7",
@@ -16117,7 +16117,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-8",
@@ -16126,7 +16126,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-9",
@@ -16135,7 +16135,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-10",
@@ -16144,7 +16144,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-11",
@@ -16153,7 +16153,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-12",
@@ -16162,7 +16162,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-13",
@@ -16171,7 +16171,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-14",
@@ -16180,7 +16180,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-15",
@@ -16189,7 +16189,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-16",
@@ -16198,7 +16198,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-17",
@@ -16207,7 +16207,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-18",
@@ -16216,7 +16216,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-19",
@@ -16225,7 +16225,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-20",
@@ -16234,7 +16234,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-21",
@@ -16243,7 +16243,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-22",
@@ -16252,7 +16252,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-23",
@@ -16261,7 +16261,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-24",
@@ -16270,7 +16270,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-25",
@@ -16279,7 +16279,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-26",
@@ -16288,7 +16288,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-27",
@@ -16297,7 +16297,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-28",
@@ -16306,7 +16306,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-29",
@@ -16315,7 +16315,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-30",
@@ -16324,7 +16324,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-31",
@@ -16333,7 +16333,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-32",
@@ -16342,7 +16342,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-33",
@@ -16351,7 +16351,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-34",
@@ -16360,7 +16360,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-A-1-2-35",
@@ -16369,7 +16369,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.3.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "factoring-trinomials-A-not-1",
@@ -16378,7 +16378,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.4",
   "title": "Trinomials where <span class=\"process-math\">\\(a\\neq 1\\)<\/span>",
-  "body": " Trinomials where    Objective: Factor trinomials using the ac method when the coefficient of is not one.   When factoring trinomials we used the ac method to split the middle term and then factor by grouping. The ac method gets it’s name from the general trinomial equation, , where , , and are the numbers in front of , and the constant at the end respectively.   World View Note: It was French philosopher Rene Descartes who first used letters from the beginning of the alphabet to represent values we know and letters from the end to represent letters we don’t know and are solving for .  The ac method is named ac because we multiply to find out what we want to multiply to. In the previous lesson we always multiplied to just because there was no number in front of . This meant the number was and we were multiplying to or just . Now we will have a number in front of so we will be looking for numbers that multiply to and add to . Other than this, the process will be the same.     When , or no coefficient in front of , we were able to use a shortcut, using the numbers that split the middle term in the factors. The previous example illustrates an important point, the shortcut does not work when . We must go through all the steps of grouping in order to factor the problem.        The same process works with two variables in the problem.     As always, when factoring we will first look for a GCF before using any other method, including the ac method. Factoring out the GCF first also has the added bonus of making the numbers smaller so the ac method becomes easier.     As was the case with trinomials when , not all trinomials can be factored. If there is no combinations that multiply and add correctly then we can say the trinomial is prime and cannot be factored.      Exercises -Trinomials where     Factor each completely.                                                                                                                                                                                                             "
+  "body": " Trinomials where    Objective: Factor trinomials using the ac method when the coefficient of is not one.   When factoring trinomials we used the ac method to split the middle term and then factor by grouping. The ac method gets it’s name from the general trinomial equation, , where , , and are the numbers in front of , and the constant at the end respectively.   World View Note: It was French philosopher Rene Descartes who first used letters from the beginning of the alphabet to represent values we know and letters from the end to represent letters we don’t know and are solving for .  The ac method is named ac because we multiply to find out what we want to multiply to. In the previous lesson we always multiplied to just because there was no number in front of . This meant the number was and we were multiplying to or just . Now we will have a number in front of so we will be looking for numbers that multiply to and add to . Other than this, the process will be the same.     When , or no coefficient in front of , we were able to use a shortcut, using the numbers that split the middle term in the factors. The previous example illustrates an important point, the shortcut does not work when . We must go through all the steps of grouping in order to factor the problem.        The same process works with two variables in the problem.     As always, when factoring we will first look for a GCF before using any other method, including the ac method. Factoring out the GCF first also has the added bonus of making the numbers smaller so the ac method becomes easier.     As was the case with trinomials when , not all trinomials can be factored. If there is no combinations that multiply and add correctly then we can say the trinomial is prime and cannot be factored.      Exercises -Trinomials where     Factor each completely.                                                                                                                                                                                                                                                     "
 },
 {
   "id": "factoring-trinomials-A-not-1-6",
@@ -16441,7 +16441,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-3",
@@ -16450,7 +16450,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-4",
@@ -16459,7 +16459,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-5",
@@ -16468,7 +16468,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-6",
@@ -16477,7 +16477,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-7",
@@ -16486,7 +16486,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-8",
@@ -16495,7 +16495,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-9",
@@ -16504,7 +16504,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-10",
@@ -16513,7 +16513,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-11",
@@ -16522,7 +16522,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-12",
@@ -16531,7 +16531,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-13",
@@ -16540,7 +16540,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-14",
@@ -16549,7 +16549,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-15",
@@ -16558,7 +16558,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-16",
@@ -16567,7 +16567,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-17",
@@ -16576,7 +16576,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-18",
@@ -16585,7 +16585,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-19",
@@ -16594,7 +16594,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-20",
@@ -16603,7 +16603,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-21",
@@ -16612,7 +16612,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-22",
@@ -16621,7 +16621,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-23",
@@ -16630,7 +16630,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-24",
@@ -16639,7 +16639,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-25",
@@ -16648,7 +16648,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-26",
@@ -16657,7 +16657,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-27",
@@ -16666,7 +16666,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-28",
@@ -16675,7 +16675,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-29",
@@ -16684,7 +16684,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-30",
@@ -16693,7 +16693,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-31",
@@ -16702,7 +16702,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-32",
@@ -16711,7 +16711,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-33",
@@ -16720,7 +16720,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-34",
@@ -16729,7 +16729,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-35",
@@ -16738,7 +16738,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-36",
@@ -16747,7 +16747,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-37",
@@ -16756,7 +16756,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-38",
@@ -16765,7 +16765,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-39",
@@ -16774,7 +16774,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-40",
@@ -16783,7 +16783,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-trinomials-a-not-1-2-41",
@@ -16792,7 +16792,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "factoring-special-products",
@@ -16801,7 +16801,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.5",
   "title": "Factoring Special Products",
-  "body": " Factoring Special Products   Objective: Identify and factor special products including a difference of squares, perfect squares, and sum and difference of cubes.   When factoring there are a few special products that, if we can recognize them, can help us factor polynomials. The first is one we have seen before. When multiplying special products we found that a sum and a difference could multiply to a difference of squares. Here we will use this special product to help us factor.     If we are subtracting two perfect squares then it will always factor to the sum and difference of the square roots.        It is important to note, that a sum of squares cannot be factored. It is a prime (unless additional information is available). This can be seen if we try to use the ac method to factor .     It turns out that a sum of squares is prime that cannot be factored unless additional information is available.     A great example where we see a sum of squares comes from factoring a difference of th powers. Because the square root of a fourth power is a square , we can factor a difference of fourth powers just like we factor a difference of squares, to a sum and difference of the square roots. This will give us two factors, one which will be a prime sum of squares, and a second which will be a difference of squares which we can factor again. This is shown in the following examples.        Another factoring shortcut is the perfect square. We had a shortcut for multi- plying a perfect square which can be reversed to help us factor a perfect square.     A perfect square can be difficult to recognize at first glance, but if we use the ac method and get two of the same numbers we know we have a perfect square. Then we can just factor using the square roots of the first and last terms and the sign from the middle. This is shown in the following examples.         World View Note: The first known record of work with polynomials comes from the Chinese around BC. Problems would be written as “three sheafs of a good crop, two sheafs of a mediocre crop, and one sheaf of a bad crop sold for dou. This would be the polynomial (trinomial) .  Another factoring shortcut has cubes. With cubes we can either do a sum or a difference of cubes. Both sum and difference of cubes have very similar factoring formulas  Comparing the formulas you may notice that the only difference is the signs in between the terms. One way to keep these two formulas straight is to think of SOAP. S stands for Same sign as the problem. If we have a sum of cubes, we add first, a difference of cubes we subtract first. O stands for Opposite sign. If we have a sum, then subtraction is the second sign, a difference would have addition for the second sign. Finally, AP stands for Always Positive. Both formulas end with addition. The following examples show factoring with cubes.        The previous example illustrates an important point. When we fill in the trino- mial’s first and last terms we square the cube roots and . Often students forget to square the number in addition to the variable. Notice that when done correctly, both get cubed.  Often after factoring a sum or difference of cubes, students want to factor the second factor, the trinomial further. As a general rule, this factor will always be prime (unless there is a GCF which should have been factored out before using cubes rule).  The following table sumarizes all of the shortcuts that we can use to factor special products.      As always, when factoring special products it is important to check for a GCF first. Only after checking for a GCF should we be using the special products. This is shown in the following examples.            Exercises - Factoring Special Products    Factor each completely.                                                                                                                                                                                                                                                     "
+  "body": " Factoring Special Products   Objective: Identify and factor special products including a difference of squares, perfect squares, and sum and difference of cubes.   When factoring there are a few special products that, if we can recognize them, can help us factor polynomials. The first is one we have seen before. When multiplying special products we found that a sum and a difference could multiply to a difference of squares. Here we will use this special product to help us factor.     If we are subtracting two perfect squares then it will always factor to the sum and difference of the square roots.        It is important to note, that a sum of squares cannot be factored. It is a prime (unless additional information is available). This can be seen if we try to use the ac method to factor .     It turns out that a sum of squares is prime that cannot be factored unless additional information is available.     A great example where we see a sum of squares comes from factoring a difference of th powers. Because the square root of a fourth power is a square , we can factor a difference of fourth powers just like we factor a difference of squares, to a sum and difference of the square roots. This will give us two factors, one which will be a prime sum of squares, and a second which will be a difference of squares which we can factor again. This is shown in the following examples.        Another factoring shortcut is the perfect square. We had a shortcut for multi- plying a perfect square which can be reversed to help us factor a perfect square.     A perfect square can be difficult to recognize at first glance, but if we use the ac method and get two of the same numbers we know we have a perfect square. Then we can just factor using the square roots of the first and last terms and the sign from the middle. This is shown in the following examples.         World View Note: The first known record of work with polynomials comes from the Chinese around BC. Problems would be written as “three sheafs of a good crop, two sheafs of a mediocre crop, and one sheaf of a bad crop sold for dou. This would be the polynomial (trinomial) .  Another factoring shortcut has cubes. With cubes we can either do a sum or a difference of cubes. Both sum and difference of cubes have very similar factoring formulas  Comparing the formulas you may notice that the only difference is the signs in between the terms. One way to keep these two formulas straight is to think of SOAP. S stands for Same sign as the problem. If we have a sum of cubes, we add first, a difference of cubes we subtract first. O stands for Opposite sign. If we have a sum, then subtraction is the second sign, a difference would have addition for the second sign. Finally, AP stands for Always Positive. Both formulas end with addition. The following examples show factoring with cubes.        The previous example illustrates an important point. When we fill in the trino- mial’s first and last terms we square the cube roots and . Often students forget to square the number in addition to the variable. Notice that when done correctly, both get cubed.  Often after factoring a sum or difference of cubes, students want to factor the second factor, the trinomial further. As a general rule, this factor will always be prime (unless there is a GCF which should have been factored out before using cubes rule).  The following table sumarizes all of the shortcuts that we can use to factor special products.      As always, when factoring special products it is important to check for a GCF first. Only after checking for a GCF should we be using the special products. This is shown in the following examples.            Exercises - Factoring Special Products    Factor each completely.                                                                                                                                                                                                                                                                                                     "
 },
 {
   "id": "factoring-special-products-6",
@@ -16918,7 +16918,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-3",
@@ -16927,7 +16927,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-4",
@@ -16936,7 +16936,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-5",
@@ -16945,7 +16945,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-6",
@@ -16954,7 +16954,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-7",
@@ -16963,7 +16963,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-8",
@@ -16972,7 +16972,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-9",
@@ -16981,7 +16981,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-10",
@@ -16990,7 +16990,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-11",
@@ -16999,7 +16999,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-12",
@@ -17008,7 +17008,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-13",
@@ -17017,7 +17017,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-14",
@@ -17026,7 +17026,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-15",
@@ -17035,7 +17035,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-16",
@@ -17044,7 +17044,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-17",
@@ -17053,7 +17053,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-18",
@@ -17062,7 +17062,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-19",
@@ -17071,7 +17071,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-20",
@@ -17080,7 +17080,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-21",
@@ -17089,7 +17089,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-22",
@@ -17098,7 +17098,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-23",
@@ -17107,7 +17107,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-24",
@@ -17116,7 +17116,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-25",
@@ -17125,7 +17125,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-26",
@@ -17134,7 +17134,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-27",
@@ -17143,7 +17143,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-28",
@@ -17152,7 +17152,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-29",
@@ -17161,7 +17161,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-30",
@@ -17170,7 +17170,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-31",
@@ -17179,7 +17179,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-32",
@@ -17188,7 +17188,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-33",
@@ -17197,7 +17197,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-34",
@@ -17206,7 +17206,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-35",
@@ -17215,7 +17215,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-36",
@@ -17224,7 +17224,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-37",
@@ -17233,7 +17233,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-38",
@@ -17242,7 +17242,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-39",
@@ -17251,7 +17251,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-40",
@@ -17260,7 +17260,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-41",
@@ -17269,7 +17269,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-42",
@@ -17278,7 +17278,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.41",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-43",
@@ -17287,7 +17287,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.42",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-44",
@@ -17296,7 +17296,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.43",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-45",
@@ -17305,7 +17305,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.44",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-46",
@@ -17314,7 +17314,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.45",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-47",
@@ -17323,7 +17323,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.46",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-48",
@@ -17332,7 +17332,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.47",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-special-products-2-49",
@@ -17341,7 +17341,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.5.48",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "factoring-strategy",
@@ -17350,7 +17350,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.6",
   "title": "Factoring Strategy",
-  "body": " Factoring Strategy   Objective: Idenfity and use the correct method to factor various polynomials.   With so many different tools used to factor, it is easy to get lost as to which tool to use when. Here we will attempt to organize all the different factoring types we have seen. A large part of deciding how to solve a problem is based on how many terms are in the problem. For all problem types we will always try to factor out the GCF first.     2 terms: sum or difference of squares or cubes:    3 terms: ac method, watch for perfect square!    4 terms: grouping   We will use the above strategy to factor each of the following examples. Here the emphasis will be on which strategy to use rather than the steps used in that method.               World View Note: Variables originated in ancient Greece where Aristotle would use a single capital letter to represent a number.     It is important to be comfortable and confident not just with using all the fac- toring methods, but decided on which method to use. This is why practice is very important!   Exercises - Factoring Strategy    Factor each completely.                                                                                                                                                                                                                       "
+  "body": " Factoring Strategy   Objective: Idenfity and use the correct method to factor various polynomials.   With so many different tools used to factor, it is easy to get lost as to which tool to use when. Here we will attempt to organize all the different factoring types we have seen. A large part of deciding how to solve a problem is based on how many terms are in the problem. For all problem types we will always try to factor out the GCF first.     2 terms: sum or difference of squares or cubes:    3 terms: ac method, watch for perfect square!    4 terms: grouping   We will use the above strategy to factor each of the following examples. Here the emphasis will be on which strategy to use rather than the steps used in that method.               World View Note: Variables originated in ancient Greece where Aristotle would use a single capital letter to represent a number.     It is important to be comfortable and confident not just with using all the fac- toring methods, but decided on which method to use. This is why practice is very important!   Exercises - Factoring Strategy    Factor each completely.                                                                                                                                                                                                                                                                 "
 },
 {
   "id": "factoring-strategy-7",
@@ -17404,7 +17404,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-3",
@@ -17413,7 +17413,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-4",
@@ -17422,7 +17422,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-5",
@@ -17431,7 +17431,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-6",
@@ -17440,7 +17440,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-7",
@@ -17449,7 +17449,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-8",
@@ -17458,7 +17458,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-9",
@@ -17467,7 +17467,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-10",
@@ -17476,7 +17476,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-11",
@@ -17485,7 +17485,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-12",
@@ -17494,7 +17494,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-13",
@@ -17503,7 +17503,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-14",
@@ -17512,7 +17512,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-15",
@@ -17521,7 +17521,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-16",
@@ -17530,7 +17530,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-17",
@@ -17539,7 +17539,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-18",
@@ -17548,7 +17548,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-19",
@@ -17557,7 +17557,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-20",
@@ -17566,7 +17566,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-21",
@@ -17575,7 +17575,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-22",
@@ -17584,7 +17584,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-23",
@@ -17593,7 +17593,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-24",
@@ -17602,7 +17602,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-25",
@@ -17611,7 +17611,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-26",
@@ -17620,7 +17620,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-27",
@@ -17629,7 +17629,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-28",
@@ -17638,7 +17638,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-29",
@@ -17647,7 +17647,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-30",
@@ -17656,7 +17656,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-31",
@@ -17665,7 +17665,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-32",
@@ -17674,7 +17674,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-33",
@@ -17683,7 +17683,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-34",
@@ -17692,7 +17692,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-35",
@@ -17701,7 +17701,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-36",
@@ -17710,7 +17710,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-37",
@@ -17719,7 +17719,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-38",
@@ -17728,7 +17728,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-39",
@@ -17737,7 +17737,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-40",
@@ -17746,7 +17746,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-41",
@@ -17755,7 +17755,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-42",
@@ -17764,7 +17764,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.41",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-strategy-2-43",
@@ -17773,7 +17773,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.6.42",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "factoring-solve-by",
@@ -17782,7 +17782,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.7",
   "title": "Solve by Factoring",
-  "body": " Solve by Factoring   Objective: Solve quadratic equation by factoring and using the zero product rule.   When solving linear equations such as we can solve for the variable directly by adding and dividing by to get . However, when we have (or a higher power of ) we cannot just isolate the variable as we did with the linear equations. One method that we can use to solve for the varaible is known as the zero product rule   The zero product rule tells us that if two factors are multiplied together and the answer is zero, then one of the factors must be zero. We can use this to help us solve factored polynomials as in the following example.     For the zero product rule to work we must have factors to set equal to zero. This means if the problem is not already factored we will factor it first.     Another important part of the zero product rule is that before we factor, the equation must equal zero. If it does not, we must move terms around so it does equal zero. Generally we like the term to be positive.           Most problems with will have two unique solutions. However, it is possible to have only one solution as the next example illustrates.     As always it will be important to factor out the GCF first if we have one. This GCF is also a factor and must also be set equal to zero using the zero product rule. This may give us more than just two solution. The next few examples illustrate this.           In the previous example, the GCF did not have a variable in it. When we set this factor equal to zero we got a false statement. No solution come from this factor. Often a student will skip setting the GCF factor equal to zero if there is no variables in the GCF.  Just as not all polynomials cannot factor, all equations cannot be solved by factoring. If an equation does not factor we will have to solve it using another method. These other methods are saved for another section.   World View Note: While factoring works great to solve problems with , Tartaglia, in th century Italy, developed a method to solve problems with . He kept his method a secret until another mathematician, Cardan, talked him out of his secret and published the results. To this day the formula is known as Cardan’s Formula.  A question often asked is if it is possible to get rid of the square on the variable by taking the square root of both sides. While it is possible, there are a few properties of square roots that we have not covered yet and thus it is common to break a rule of roots that we are not aware of at this point. The short reason we want to avoid this for now is because taking a square root will only give us one of the two answers. When we talk about roots we will come back to problems like these and see how we can solve using square roots in a method called completing the square. For now, never take the square root of both sides !   Exercises - Solve by Factoring    Solve each equation by factoring.                                                                                                                                                                                         "
+  "body": " Solve by Factoring   Objective: Solve quadratic equation by factoring and using the zero product rule.   When solving linear equations such as we can solve for the variable directly by adding and dividing by to get . However, when we have (or a higher power of ) we cannot just isolate the variable as we did with the linear equations. One method that we can use to solve for the varaible is known as the zero product rule   The zero product rule tells us that if two factors are multiplied together and the answer is zero, then one of the factors must be zero. We can use this to help us solve factored polynomials as in the following example.     For the zero product rule to work we must have factors to set equal to zero. This means if the problem is not already factored we will factor it first.     Another important part of the zero product rule is that before we factor, the equation must equal zero. If it does not, we must move terms around so it does equal zero. Generally we like the term to be positive.           Most problems with will have two unique solutions. However, it is possible to have only one solution as the next example illustrates.     As always it will be important to factor out the GCF first if we have one. This GCF is also a factor and must also be set equal to zero using the zero product rule. This may give us more than just two solution. The next few examples illustrate this.           In the previous example, the GCF did not have a variable in it. When we set this factor equal to zero we got a false statement. No solution come from this factor. Often a student will skip setting the GCF factor equal to zero if there is no variables in the GCF.  Just as not all polynomials cannot factor, all equations cannot be solved by factoring. If an equation does not factor we will have to solve it using another method. These other methods are saved for another section.   World View Note: While factoring works great to solve problems with , Tartaglia, in th century Italy, developed a method to solve problems with . He kept his method a secret until another mathematician, Cardan, talked him out of his secret and published the results. To this day the formula is known as Cardan’s Formula.  A question often asked is if it is possible to get rid of the square on the variable by taking the square root of both sides. While it is possible, there are a few properties of square roots that we have not covered yet and thus it is common to break a rule of roots that we are not aware of at this point. The short reason we want to avoid this for now is because taking a square root will only give us one of the two answers. When we talk about roots we will come back to problems like these and see how we can solve using square roots in a method called completing the square. For now, never take the square root of both sides !   Exercises - Solve by Factoring    Solve each equation by factoring.                                                                                                                                                                                                                             "
 },
 {
   "id": "factoring-solve-by-5",
@@ -17872,7 +17872,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-3",
@@ -17881,7 +17881,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-4",
@@ -17890,7 +17890,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-5",
@@ -17899,7 +17899,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-6",
@@ -17908,7 +17908,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-7",
@@ -17917,7 +17917,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-8",
@@ -17926,7 +17926,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-9",
@@ -17935,7 +17935,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-10",
@@ -17944,7 +17944,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-11",
@@ -17953,7 +17953,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-12",
@@ -17962,7 +17962,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-13",
@@ -17971,7 +17971,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-14",
@@ -17980,7 +17980,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-15",
@@ -17989,7 +17989,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-16",
@@ -17998,7 +17998,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-17",
@@ -18007,7 +18007,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-18",
@@ -18016,7 +18016,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-19",
@@ -18025,7 +18025,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-20",
@@ -18034,7 +18034,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-21",
@@ -18043,7 +18043,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-22",
@@ -18052,7 +18052,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-23",
@@ -18061,7 +18061,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-24",
@@ -18070,7 +18070,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-25",
@@ -18079,7 +18079,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-26",
@@ -18088,7 +18088,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-27",
@@ -18097,7 +18097,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-28",
@@ -18106,7 +18106,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-29",
@@ -18115,7 +18115,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-30",
@@ -18124,7 +18124,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-31",
@@ -18133,7 +18133,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-32",
@@ -18142,7 +18142,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-33",
@@ -18151,7 +18151,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-34",
@@ -18160,7 +18160,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-35",
@@ -18169,7 +18169,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-36",
@@ -18178,7 +18178,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-factoring-solve-by-2-37",
@@ -18187,7 +18187,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.7.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "rational-expressions-reduce",
@@ -18196,7 +18196,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.1",
   "title": "Reduce Rational Expressions",
-  "body": " Reduce Rational Expressions   Objective: Reduce rational expressions by dividing out common factors.   Rational expressions are expressions written as a quotient of polynomials. Examples of rational expressions include:   As rational expressions are a special type of fraction, it is important to remember with fractions we cannot have zero in the denominator of a fraction. For this reason, rational expressions may have one more excluded values, or values that the variable cannot be or the expression would be undefined.  State the excluded value(s): This means we can use any value for in the equation except for and . We can however, evaluate any other value in the expression.   World View Note: The number zero was not widely accepted in mathematical thought around the world for many years. It was the Mayans of Central America who first used zero to aid in the use of their base system as a place holder!  Rational expressions are easily evaluated by simply substituting the value for the variable and using order of operations.  Determine the value of the following expression for :   Just as we reduced the previous example, often a rational expression can be reduced, even without knowing the value of the variable. When we reduce we divide out common factors. We have already seen this with monomials when we discussed properties of exponents. If the problem only has monomials we can reduce the coefficients, and subtract exponents on the variables.     However, if there is more than just one term in either the numerator or denominator, we can’t divide out common factors unless we first factor the numerator and denominator.           It is important to remember we cannot reduce terms, only factors. This means if there are any or between the parts we want to reduce we cannot. In the previous example we had the solution , we cannot divide out the ’s because they are terms (separated by or ) not factors (separated by multiplication).   Exercises - Reduce Rational Expressions    Evaluate each expression.     when      when      when      when      when      when       State the excluded values for each expression.                                                        Simplify each expression.                                                                                                                                                                               "
+  "body": " Reduce Rational Expressions   Objective: Reduce rational expressions by dividing out common factors.   Rational expressions are expressions written as a quotient of polynomials. Examples of rational expressions include:   As rational expressions are a special type of fraction, it is important to remember with fractions we cannot have zero in the denominator of a fraction. For this reason, rational expressions may have one more excluded values, or values that the variable cannot be or the expression would be undefined.  State the excluded value(s): This means we can use any value for in the equation except for and . We can however, evaluate any other value in the expression.   World View Note: The number zero was not widely accepted in mathematical thought around the world for many years. It was the Mayans of Central America who first used zero to aid in the use of their base system as a place holder!  Rational expressions are easily evaluated by simply substituting the value for the variable and using order of operations.  Determine the value of the following expression for :   Just as we reduced the previous example, often a rational expression can be reduced, even without knowing the value of the variable. When we reduce we divide out common factors. We have already seen this with monomials when we discussed properties of exponents. If the problem only has monomials we can reduce the coefficients, and subtract exponents on the variables.     However, if there is more than just one term in either the numerator or denominator, we can’t divide out common factors unless we first factor the numerator and denominator.           It is important to remember we cannot reduce terms, only factors. This means if there are any or between the parts we want to reduce we cannot. In the previous example we had the solution , we cannot divide out the ’s because they are terms (separated by or ) not factors (separated by multiplication).   Exercises - Reduce Rational Expressions    Evaluate each expression.     when       when       when       when       when       when        State the excluded values for each expression.                                                                  Simplify each expression.                                                                                                                                                                                                                 "
 },
 {
   "id": "rational-expressions-reduce-6",
@@ -18259,7 +18259,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.1",
   "title": "",
-  "body": "  when   "
+  "body": "  when    "
 },
 {
   "id": "exercises-rational-expressions-reduce-2-3",
@@ -18268,7 +18268,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.2",
   "title": "",
-  "body": "  when   "
+  "body": "  when    "
 },
 {
   "id": "exercises-rational-expressions-reduce-2-4",
@@ -18277,7 +18277,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.3",
   "title": "",
-  "body": "  when   "
+  "body": "  when    "
 },
 {
   "id": "exercises-rational-expressions-reduce-2-5",
@@ -18286,7 +18286,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.4",
   "title": "",
-  "body": "  when   "
+  "body": "  when    "
 },
 {
   "id": "exercises-rational-expressions-reduce-2-6",
@@ -18295,7 +18295,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.5",
   "title": "",
-  "body": "  when   "
+  "body": "  when    "
 },
 {
   "id": "exercises-rational-expressions-reduce-2-7",
@@ -18304,7 +18304,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.6",
   "title": "",
-  "body": "  when   "
+  "body": "  when    "
 },
 {
   "id": "exercises-rational-expressions-reduce-3-2",
@@ -18313,7 +18313,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-3-3",
@@ -18322,7 +18322,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-3-4",
@@ -18331,7 +18331,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-3-5",
@@ -18340,7 +18340,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-3-6",
@@ -18349,7 +18349,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-3-7",
@@ -18358,7 +18358,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-3-8",
@@ -18367,7 +18367,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-3-9",
@@ -18376,7 +18376,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-3-10",
@@ -18385,7 +18385,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-3-11",
@@ -18394,7 +18394,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-2",
@@ -18403,7 +18403,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-3",
@@ -18412,7 +18412,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-4",
@@ -18421,7 +18421,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-5",
@@ -18430,7 +18430,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-6",
@@ -18439,7 +18439,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-7",
@@ -18448,7 +18448,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-8",
@@ -18457,7 +18457,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-9",
@@ -18466,7 +18466,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-10",
@@ -18475,7 +18475,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-11",
@@ -18484,7 +18484,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-12",
@@ -18493,7 +18493,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-13",
@@ -18502,7 +18502,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-14",
@@ -18511,7 +18511,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-15",
@@ -18520,7 +18520,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-16",
@@ -18529,7 +18529,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-17",
@@ -18538,7 +18538,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-18",
@@ -18547,7 +18547,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-19",
@@ -18556,7 +18556,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-20",
@@ -18565,7 +18565,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-21",
@@ -18574,7 +18574,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-22",
@@ -18583,7 +18583,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-23",
@@ -18592,7 +18592,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-24",
@@ -18601,7 +18601,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-25",
@@ -18610,7 +18610,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-26",
@@ -18619,7 +18619,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.41",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-27",
@@ -18628,7 +18628,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.42",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-28",
@@ -18637,7 +18637,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.43",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-29",
@@ -18646,7 +18646,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.44",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-30",
@@ -18655,7 +18655,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.45",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-31",
@@ -18664,7 +18664,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.46",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-32",
@@ -18673,7 +18673,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.47",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-33",
@@ -18682,7 +18682,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.48",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-34",
@@ -18691,7 +18691,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.49",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-reduce-4-35",
@@ -18700,7 +18700,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.1.50",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "rational-expressions-multiply-devide",
@@ -18709,7 +18709,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.2",
   "title": "Multiply and Divide",
-  "body": " Multiply and Divide   Objective: Multiply and divide rational expressions.   Multiplying and dividing rational expressions is very similar to the process we use to multiply and divide fractions.     The process is identical for division with the extra first step of multiplying by the reciprocal. When multiplying with rational expressions we follow the same process, first divide out common factors, then multiply straight across.     Division is identical in process with the extra first step of multiplying by the reciprocal.     Just as with reducing rational expressions, before we reduce a multiplication problem, it must be factored first.     Again we follow the same pattern with division with the extra first step of multiplying by the reciprocal.     We can combine multiplying and dividing of fractions into one problem as shown below. To solve we still need to factor, and we use the reciprocal of the divided fraction.      World View Note: Indian mathematician Aryabhata, in the 6th century, published a work which included the rational expression for the sum of the first n squares ( ).   Exercises - Multiply and Divide    Simplify each expression.                                                                                                                                                                                                                                 "
+  "body": " Multiply and Divide   Objective: Multiply and divide rational expressions.   Multiplying and dividing rational expressions is very similar to the process we use to multiply and divide fractions.     The process is identical for division with the extra first step of multiplying by the reciprocal. When multiplying with rational expressions we follow the same process, first divide out common factors, then multiply straight across.     Division is identical in process with the extra first step of multiplying by the reciprocal.     Just as with reducing rational expressions, before we reduce a multiplication problem, it must be factored first.     Again we follow the same pattern with division with the extra first step of multiplying by the reciprocal.     We can combine multiplying and dividing of fractions into one problem as shown below. To solve we still need to factor, and we use the reciprocal of the divided fraction.      World View Note: Indian mathematician Aryabhata, in the 6th century, published a work which included the rational expression for the sum of the first n squares ( ).   Exercises - Multiply and Divide    Simplify each expression.                                                                                                                                                                                                                                                                             "
 },
 {
   "id": "rational-expressions-multiply-devide-4",
@@ -18772,7 +18772,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-3",
@@ -18781,7 +18781,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-4",
@@ -18790,7 +18790,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-5",
@@ -18799,7 +18799,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-6",
@@ -18808,7 +18808,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-7",
@@ -18817,7 +18817,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-8",
@@ -18826,7 +18826,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-9",
@@ -18835,7 +18835,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-10",
@@ -18844,7 +18844,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-11",
@@ -18853,7 +18853,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-12",
@@ -18862,7 +18862,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-13",
@@ -18871,7 +18871,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-14",
@@ -18880,7 +18880,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-15",
@@ -18889,7 +18889,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-16",
@@ -18898,7 +18898,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-17",
@@ -18907,7 +18907,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-18",
@@ -18916,7 +18916,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-19",
@@ -18925,7 +18925,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-20",
@@ -18934,7 +18934,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-21",
@@ -18943,7 +18943,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-22",
@@ -18952,7 +18952,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-23",
@@ -18961,7 +18961,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-24",
@@ -18970,7 +18970,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-25",
@@ -18979,7 +18979,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-26",
@@ -18988,7 +18988,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-27",
@@ -18997,7 +18997,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-28",
@@ -19006,7 +19006,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-29",
@@ -19015,7 +19015,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-30",
@@ -19024,7 +19024,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-31",
@@ -19033,7 +19033,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-32",
@@ -19042,7 +19042,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-33",
@@ -19051,7 +19051,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-34",
@@ -19060,7 +19060,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-35",
@@ -19069,7 +19069,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-36",
@@ -19078,7 +19078,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-37",
@@ -19087,7 +19087,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-38",
@@ -19096,7 +19096,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-39",
@@ -19105,7 +19105,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-40",
@@ -19114,7 +19114,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-41",
@@ -19123,7 +19123,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-42",
@@ -19132,7 +19132,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.41",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-43",
@@ -19141,7 +19141,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.42",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-44",
@@ -19150,7 +19150,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.43",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-multiply-divide-2-45",
@@ -19159,7 +19159,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.2.44",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "rational-expressions-LCD",
@@ -19168,7 +19168,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.3",
   "title": "Least Common Denominators",
-  "body": " Least Common Denominators   Objective: Idenfity the least common denominator and build up denominators to match this common denominator.   As with fractions, the least common denominator or LCD is very important to working with rational expressions. The process we use to find the LCD is based on the process used to find the LCD of intergers.     When finding the LCD of several monomials we first find the LCD of the coefficients, then use all variables and attach the highest exponent on each variable.  Find the LCD of and .   The same pattern can be used on polynomials that have more than one term. However, we must first factor each polynomial so we can identify all the factors to be used (attaching highest exponent if necessary).  Find the LCD of and .   Notice we only used once in our LCD. This is because it only appears as a factor once in either polynomial. The only time we need to repeat a factor or use an exponent on a factor is if there are exponents when one of the polynomials is factored.  Find the LCD of and .   The previous example could have also been done with factoring the first polynomial to . Then we would have used twice in the LCD because it showed up twice in one of the polynomials. However, it is the author’s suggestion to use the exponents in factored form so as to use the same pattern (highest exponent) as used with monomials.  Once we know the LCD, our goal will be to build up fractions so they have matching denominators. In this lesson we will not be adding and subtracting frac- tions, just building them up to a common denominator. We can build up a fraction’s denominator by multipliplying the numerator and denoinator by any factors that are not already in the denominator.        As the above example illustrates, we will multiply out our numerators, but keep our denominators factored. The reason for this is to add and subtract fractions we will want to be able to combine like terms in the numerator, then when we reduce at the end we will want our denominators factored.  Once we know how to find the LCD and how to build up fractions to a desired denominator we can combine them together by finding a common denominator and building up those fractions.  Build up each fraction so they have a common denominator.   Build up each fraction so they have a common denominator.    World View Note: When the Egyptians began working with fractions, they expressed all fractions as a sum of unit fraction. Rather than , they would write the fraction as the sum, . An interesting problem with this system is that this is not a unique solution, is also equal to the sum .   Exercises - Least Common Denominator    Build up denominators.                                                        Find Least Common Denominators.                                                        Find LCD and build up each fraction.                                                       "
+  "body": " Least Common Denominators   Objective: Idenfity the least common denominator and build up denominators to match this common denominator.   As with fractions, the least common denominator or LCD is very important to working with rational expressions. The process we use to find the LCD is based on the process used to find the LCD of intergers.     When finding the LCD of several monomials we first find the LCD of the coefficients, then use all variables and attach the highest exponent on each variable.  Find the LCD of and .   The same pattern can be used on polynomials that have more than one term. However, we must first factor each polynomial so we can identify all the factors to be used (attaching highest exponent if necessary).  Find the LCD of and .   Notice we only used once in our LCD. This is because it only appears as a factor once in either polynomial. The only time we need to repeat a factor or use an exponent on a factor is if there are exponents when one of the polynomials is factored.  Find the LCD of and .   The previous example could have also been done with factoring the first polynomial to . Then we would have used twice in the LCD because it showed up twice in one of the polynomials. However, it is the author’s suggestion to use the exponents in factored form so as to use the same pattern (highest exponent) as used with monomials.  Once we know the LCD, our goal will be to build up fractions so they have matching denominators. In this lesson we will not be adding and subtracting frac- tions, just building them up to a common denominator. We can build up a fraction’s denominator by multipliplying the numerator and denoinator by any factors that are not already in the denominator.        As the above example illustrates, we will multiply out our numerators, but keep our denominators factored. The reason for this is to add and subtract fractions we will want to be able to combine like terms in the numerator, then when we reduce at the end we will want our denominators factored.  Once we know how to find the LCD and how to build up fractions to a desired denominator we can combine them together by finding a common denominator and building up those fractions.  Build up each fraction so they have a common denominator.   Build up each fraction so they have a common denominator.    World View Note: When the Egyptians began working with fractions, they expressed all fractions as a sum of unit fraction. Rather than , they would write the fraction as the sum, . An interesting problem with this system is that this is not a unique solution, is also equal to the sum .   Exercises - Least Common Denominator    Build up denominators.                                                                  Find Least Common Denominators.                                                                  Find LCD and build up each fraction.                                                                 "
 },
 {
   "id": "rational-expressions-LCD-4",
@@ -19249,7 +19249,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-2-3",
@@ -19258,7 +19258,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-2-4",
@@ -19267,7 +19267,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-2-5",
@@ -19276,7 +19276,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-2-6",
@@ -19285,7 +19285,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-2-7",
@@ -19294,7 +19294,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-2-8",
@@ -19303,7 +19303,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-2-9",
@@ -19312,7 +19312,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-2-10",
@@ -19321,7 +19321,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-2-11",
@@ -19330,7 +19330,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-3-2",
@@ -19339,7 +19339,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-3-3",
@@ -19348,7 +19348,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-3-4",
@@ -19357,7 +19357,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-3-5",
@@ -19366,7 +19366,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-3-6",
@@ -19375,7 +19375,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-3-7",
@@ -19384,7 +19384,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-3-8",
@@ -19393,7 +19393,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-3-9",
@@ -19402,7 +19402,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-3-10",
@@ -19411,7 +19411,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-3-11",
@@ -19420,7 +19420,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-4-2",
@@ -19429,7 +19429,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-4-3",
@@ -19438,7 +19438,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-4-4",
@@ -19447,7 +19447,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-4-5",
@@ -19456,7 +19456,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-4-6",
@@ -19465,7 +19465,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-4-7",
@@ -19474,7 +19474,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-4-8",
@@ -19483,7 +19483,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-4-9",
@@ -19492,7 +19492,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-4-10",
@@ -19501,7 +19501,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-LCD-4-11",
@@ -19510,7 +19510,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.3.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "rational-add-subtract",
@@ -19519,7 +19519,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.4",
   "title": "Add and Subtract",
-  "body": " Add and Subtract   Objective: Add and subtract rational expressions with and without common denominators.   Adding and subtracting rational expressions is identical to adding and subtracting with integers. Recall that when adding with a common denominator we add the numerators and keep the denominator. This is the same process used with rational expressions. Remember to reduce, if possible, your final answer.     Subtraction with common denominator follows the same pattern, though the subtraction can cause problems if we are not careful with it. To avoid sign errors we will first distribute the subtraction through the numerator. Then we can treat I like an addition problem. This process is the same as “add the opposite” we saw when subtracting with negatives.      World View Note: The Rhind papyrus of Egypt from BC gives some of the earliest known symbols for addition and subtraction, a pair of legs walking in the direction one reads for addition, and a pair of legs walking in the opposite direction for subtraction.  When we don’t have a common denominator, we will have to find the least common denominator (LCD) and build up each fraction so the denominators match. The following example shows this process with integers.     The same process is used with variables.     The same process can be used for subtraction, we will simply add the first step of adding the opposite.     If our denominators have more than one term in them, we will need to factor first to find the LCD. Then we build up each denominator using the factors that are missing on each fraction.     With subtraction remember to add the opposite.      Exercises – Add and Subtract   Add or subtract the rational expressions. Simplify your answers whenever possible.                                                                                                                                                                                                                                  "
+  "body": " Add and Subtract   Objective: Add and subtract rational expressions with and without common denominators.   Adding and subtracting rational expressions is identical to adding and subtracting with integers. Recall that when adding with a common denominator we add the numerators and keep the denominator. This is the same process used with rational expressions. Remember to reduce, if possible, your final answer.     Subtraction with common denominator follows the same pattern, though the subtraction can cause problems if we are not careful with it. To avoid sign errors we will first distribute the subtraction through the numerator. Then we can treat I like an addition problem. This process is the same as “add the opposite” we saw when subtracting with negatives.      World View Note: The Rhind papyrus of Egypt from BC gives some of the earliest known symbols for addition and subtraction, a pair of legs walking in the direction one reads for addition, and a pair of legs walking in the opposite direction for subtraction.  When we don’t have a common denominator, we will have to find the least common denominator (LCD) and build up each fraction so the denominators match. The following example shows this process with integers.     The same process is used with variables.     The same process can be used for subtraction, we will simply add the first step of adding the opposite.     If our denominators have more than one term in them, we will need to factor first to find the LCD. Then we build up each denominator using the factors that are missing on each fraction.     With subtraction remember to add the opposite.      Exercises – Add and Subtract   Add or subtract the rational expressions. Simplify your answers whenever possible.                                                                                                                                                                                                                                                                              "
 },
 {
   "id": "rational-add-subtract-4",
@@ -19591,7 +19591,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-2",
@@ -19600,7 +19600,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-3",
@@ -19609,7 +19609,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-4",
@@ -19618,7 +19618,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-5",
@@ -19627,7 +19627,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-6",
@@ -19636,7 +19636,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-7",
@@ -19645,7 +19645,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-8",
@@ -19654,7 +19654,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-9",
@@ -19663,7 +19663,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-10",
@@ -19672,7 +19672,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-11",
@@ -19681,7 +19681,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-12",
@@ -19690,7 +19690,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-13",
@@ -19699,7 +19699,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-14",
@@ -19708,7 +19708,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-15",
@@ -19717,7 +19717,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-16",
@@ -19726,7 +19726,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-17",
@@ -19735,7 +19735,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-18",
@@ -19744,7 +19744,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-19",
@@ -19753,7 +19753,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-20",
@@ -19762,7 +19762,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-21",
@@ -19771,7 +19771,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-22",
@@ -19780,7 +19780,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-23",
@@ -19789,7 +19789,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-24",
@@ -19798,7 +19798,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-25",
@@ -19807,7 +19807,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-26",
@@ -19816,7 +19816,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-27",
@@ -19825,7 +19825,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-28",
@@ -19834,7 +19834,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-29",
@@ -19843,7 +19843,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-30",
@@ -19852,7 +19852,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-31",
@@ -19861,7 +19861,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-32",
@@ -19870,7 +19870,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-33",
@@ -19879,7 +19879,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-34",
@@ -19888,7 +19888,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-35",
@@ -19897,7 +19897,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-36",
@@ -19906,7 +19906,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-37",
@@ -19915,7 +19915,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-38",
@@ -19924,7 +19924,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-39",
@@ -19933,7 +19933,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-40",
@@ -19942,7 +19942,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-41",
@@ -19951,7 +19951,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.41",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-42",
@@ -19960,7 +19960,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.42",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-43",
@@ -19969,7 +19969,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.43",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-add-subtract-3-44",
@@ -19978,7 +19978,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.44",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "rational-complex-fractions",
@@ -19987,7 +19987,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.5",
   "title": "Complex Fractions",
-  "body": " Complex Fractions   Objective: Simplify complex fractions by multiplying each term by the least common denominator.   Complex fractions have fractions in either the numerator, or denominator, or usually both. These fractions can be simplified in one of two ways. This will be illustrated first with integers, then we will consider how the process can be expanded to include expressions with variables.  The first method uses order of operations to simplify the numerator and denominator first, then divide the two resulting fractions by multiplying by the reciprocal.     The process above works just fine to simplify, but between getting common denominators, taking reciprocals, and reducing, it can be a very involved process. Generally, we prefer a different method to multiply the numerator and denominator of the large fraction (in effect each term in the complex fraction) by the least common denominator (LCD). This will allow us to reduce and clear the small fractions. We will simplify the same problem using this second method.     Clearly the second method is a much cleaner and faster method to arrive at our solution. It is the method we will use when simplifying with variables as well. We will first find the LCD of the small fractions, and multiply each term by this LCD so we can clear the small fractions and simplify.     The process is the same if the LCD is a binomial, we will need to distribute     The more fractions we have in our problem, the more we repeat the same process.      World View Note: Sophie Germain is one of the most famous women in mathematics, many primes, which are important to finding an LCD, carry her name. Germain primes are prime numbers where one more than double the prime number is also prime, for example is prime and so is prime. The largest known Germain prime (at the time of printing) is which has digits!  Some problems may require us to FOIL as we simplify. To avoid sign errors, if there is a binomial in the numerator, we will first distribute the negative through the numerator.     If there are negative exponents in an expression we will have to first convert these negative exponents into fractions. Remember, the exponent is only on the factor it is attached to, not the whole term.     Once we convert each negative exponent into a fraction, the problem solves exactly like the other complex fraction problems.   Exercises – Complex Fractions    Solve.                                                                                                                                                            Simplify each of the following fractional expressions.                                   "
+  "body": " Complex Fractions   Objective: Simplify complex fractions by multiplying each term by the least common denominator.   Complex fractions have fractions in either the numerator, or denominator, or usually both. These fractions can be simplified in one of two ways. This will be illustrated first with integers, then we will consider how the process can be expanded to include expressions with variables.  The first method uses order of operations to simplify the numerator and denominator first, then divide the two resulting fractions by multiplying by the reciprocal.     The process above works just fine to simplify, but between getting common denominators, taking reciprocals, and reducing, it can be a very involved process. Generally, we prefer a different method to multiply the numerator and denominator of the large fraction (in effect each term in the complex fraction) by the least common denominator (LCD). This will allow us to reduce and clear the small fractions. We will simplify the same problem using this second method.     Clearly the second method is a much cleaner and faster method to arrive at our solution. It is the method we will use when simplifying with variables as well. We will first find the LCD of the small fractions, and multiply each term by this LCD so we can clear the small fractions and simplify.     The process is the same if the LCD is a binomial, we will need to distribute     The more fractions we have in our problem, the more we repeat the same process.      World View Note: Sophie Germain is one of the most famous women in mathematics, many primes, which are important to finding an LCD, carry her name. Germain primes are prime numbers where one more than double the prime number is also prime, for example is prime and so is prime. The largest known Germain prime (at the time of printing) is which has digits!  Some problems may require us to FOIL as we simplify. To avoid sign errors, if there is a binomial in the numerator, we will first distribute the negative through the numerator.     If there are negative exponents in an expression we will have to first convert these negative exponents into fractions. Remember, the exponent is only on the factor it is attached to, not the whole term.     Once we convert each negative exponent into a fraction, the problem solves exactly like the other complex fraction problems.   Exercises – Complex Fractions    Solve.                                                                                                                                                                                          Simplify each of the following fractional expressions.                                         "
 },
 {
   "id": "rational-complex-fractions-5",
@@ -20059,7 +20059,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-3",
@@ -20068,7 +20068,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-4",
@@ -20077,7 +20077,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-5",
@@ -20086,7 +20086,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-6",
@@ -20095,7 +20095,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-7",
@@ -20104,7 +20104,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-8",
@@ -20113,7 +20113,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-9",
@@ -20122,7 +20122,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-10",
@@ -20131,7 +20131,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-11",
@@ -20140,7 +20140,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-12",
@@ -20149,7 +20149,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-13",
@@ -20158,7 +20158,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-14",
@@ -20167,7 +20167,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-15",
@@ -20176,7 +20176,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-16",
@@ -20185,7 +20185,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-17",
@@ -20194,7 +20194,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-18",
@@ -20203,7 +20203,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-19",
@@ -20212,7 +20212,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-20",
@@ -20221,7 +20221,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-21",
@@ -20230,7 +20230,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-22",
@@ -20239,7 +20239,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-23",
@@ -20248,7 +20248,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-24",
@@ -20257,7 +20257,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-25",
@@ -20266,7 +20266,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-26",
@@ -20275,7 +20275,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-27",
@@ -20284,7 +20284,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-28",
@@ -20293,7 +20293,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-29",
@@ -20302,7 +20302,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-30",
@@ -20311,7 +20311,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-2-31",
@@ -20320,7 +20320,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-3-2",
@@ -20329,7 +20329,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-3-3",
@@ -20338,7 +20338,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-3-4",
@@ -20347,7 +20347,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-3-5",
@@ -20356,7 +20356,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-3-6",
@@ -20365,7 +20365,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-3-7",
@@ -20374,7 +20374,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.5.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "rational-expressions-proportions",
@@ -20383,7 +20383,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.6",
   "title": "Proportions",
-  "body": " Proportions   Objective: Solve proportions using the cross product and use proportions to solve application problems.   When two fractions are equal, they are called a proportion. This definition can be generalized to two equal rational expressions. Proportions have an important property called the cross-product.   The cross product tells us we can multiply diagonally to get an equation with no fractions that we can solve.      World View Note: The first clear definition of a proportion and the notation for a proportion came from the German Leibniz who wrote, “I write ; for is to as is to , is indeed the same as, divided by is equal to divided by . From this equation follow then all the rules of proportion.”  If the proportion has more than one term in either numerator or denominator, we will have to distribute while calculating the cross product.     This same idea can be seen when the variable appears in several parts of the proportion.        As we solve proportions, we may end up with a quadratic that we will have to solve. We can solve this quadratic in the same way we solved quadratics in the past, either factoring, completing the square or the quadratic formula. As with solving quadratics before, we will generally end up with two solutions.     Proportions are very useful in how they can be used in many different types of applications. We can use them to compare different quantities and make conclusions about how quantities are related. As we set up these problems it is important to remember to stay organized, if we are comparing dogs and cats, and the number of dogs is in the numerator of the first fraction, then the numerator of the second fraction should also refer to the dogs. This consistency of the numerator and denominator is essential in setting up our proportions.   A six-foot-tall man casts a shadow that is feet long. If the shadow of a flag pole is feet long, how tall is the flagpole?     In a basketball game, the home team was down by points at the end of the game. They only scored points for every points the visiting team scored. What was the final score of the game?     Exercises - Proportions    Solve each proportion.                                                                                                                                                            Answer each question. Round your answer to the nearest tenth. Round dollar amounts to the nearest cent.    The currency in Western Samoa is the Tala. The exchange rate is approximately to Tala. At this rate, how many dollars would you get if you exchanged Tala?    If you can buy one plantain for then how many can you buy with ?    Kali reduced the size of a painting to a height of in. What is the new width if it was originally in. tall and in. wide?    A model train has a scale of in : ft. If the model train is in tall then how tall is the real train?    A bird bath that is ft tall casts a shadow that is ft long. Find the length of the shadow that a ft adult elephant casts.    Victoria and Georgetown are mi from each other. How far apart would the cities be on a map that has a scale of in : mi?    The Vikings led the Timberwolves by points at the half. If the Vikings scored points for every points the Timberwolves scored, what was the half time score?    Sarah worked more hours than Josh. If Sarah worked hr for every hr Josh worked, how long did they each work?    Computer Services Inc. charges more for a repair than Low Cost Computer Repair. If the ratio of the costs is , what will it cost for the repair at Low Cost Computer Repair?    Kelsey’s commute is minutes longer than Christina’s. If Christina drives minutes for every minutes Kelsey drives, how long is each commute?     "
+  "body": " Proportions   Objective: Solve proportions using the cross product and use proportions to solve application problems.   When two fractions are equal, they are called a proportion. This definition can be generalized to two equal rational expressions. Proportions have an important property called the cross-product.   The cross product tells us we can multiply diagonally to get an equation with no fractions that we can solve.      World View Note: The first clear definition of a proportion and the notation for a proportion came from the German Leibniz who wrote, “I write ; for is to as is to , is indeed the same as, divided by is equal to divided by . From this equation follow then all the rules of proportion.”  If the proportion has more than one term in either numerator or denominator, we will have to distribute while calculating the cross product.     This same idea can be seen when the variable appears in several parts of the proportion.        As we solve proportions, we may end up with a quadratic that we will have to solve. We can solve this quadratic in the same way we solved quadratics in the past, either factoring, completing the square or the quadratic formula. As with solving quadratics before, we will generally end up with two solutions.     Proportions are very useful in how they can be used in many different types of applications. We can use them to compare different quantities and make conclusions about how quantities are related. As we set up these problems it is important to remember to stay organized, if we are comparing dogs and cats, and the number of dogs is in the numerator of the first fraction, then the numerator of the second fraction should also refer to the dogs. This consistency of the numerator and denominator is essential in setting up our proportions.   A six-foot-tall man casts a shadow that is feet long. If the shadow of a flag pole is feet long, how tall is the flagpole?     In a basketball game, the home team was down by points at the end of the game. They only scored points for every points the visiting team scored. What was the final score of the game?     Exercises - Proportions    Solve each proportion.                                                                                                                                                                                          Answer each question. Round your answer to the nearest tenth. Round dollar amounts to the nearest cent.    The currency in Western Samoa is the Tala. The exchange rate is approximately to Tala. At this rate, how many dollars would you get if you exchanged Tala?     If you can buy one plantain for then how many can you buy with ?     Kali reduced the size of a painting to a height of in. What is the new width if it was originally in. tall and in. wide?     A model train has a scale of in : ft. If the model train is in tall then how tall is the real train?     A bird bath that is ft tall casts a shadow that is ft long. Find the length of the shadow that a ft adult elephant casts.     Victoria and Georgetown are mi from each other. How far apart would the cities be on a map that has a scale of in : mi?     The Vikings led the Timberwolves by points at the half. If the Vikings scored points for every points the Timberwolves scored, what was the half time score?     Sarah worked more hours than Josh. If Sarah worked hr for every hr Josh worked, how long did they each work?     Computer Services Inc. charges more for a repair than Low Cost Computer Repair. If the ratio of the costs is , what will it cost for the repair at Low Cost Computer Repair?     Kelsey’s commute is minutes longer than Christina’s. If Christina drives minutes for every minutes Kelsey drives, how long is each commute?      "
 },
 {
   "id": "rational-expressions-proportions-6",
@@ -20455,7 +20455,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-3",
@@ -20464,7 +20464,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-4",
@@ -20473,7 +20473,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-5",
@@ -20482,7 +20482,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-6",
@@ -20491,7 +20491,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-7",
@@ -20500,7 +20500,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-8",
@@ -20509,7 +20509,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-9",
@@ -20518,7 +20518,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-10",
@@ -20527,7 +20527,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-11",
@@ -20536,7 +20536,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-12",
@@ -20545,7 +20545,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-13",
@@ -20554,7 +20554,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-14",
@@ -20563,7 +20563,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-15",
@@ -20572,7 +20572,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-16",
@@ -20581,7 +20581,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-17",
@@ -20590,7 +20590,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-18",
@@ -20599,7 +20599,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-19",
@@ -20608,7 +20608,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-20",
@@ -20617,7 +20617,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-21",
@@ -20626,7 +20626,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-22",
@@ -20635,7 +20635,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-23",
@@ -20644,7 +20644,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-24",
@@ -20653,7 +20653,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-25",
@@ -20662,7 +20662,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-26",
@@ -20671,7 +20671,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-27",
@@ -20680,7 +20680,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-28",
@@ -20689,7 +20689,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-29",
@@ -20698,7 +20698,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-30",
@@ -20707,7 +20707,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-2-31",
@@ -20716,7 +20716,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-proportions-3-2",
@@ -20725,7 +20725,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.31",
   "title": "",
-  "body": " The currency in Western Samoa is the Tala. The exchange rate is approximately to Tala. At this rate, how many dollars would you get if you exchanged Tala?  "
+  "body": " The currency in Western Samoa is the Tala. The exchange rate is approximately to Tala. At this rate, how many dollars would you get if you exchanged Tala?   "
 },
 {
   "id": "exercises-rational-expressions-proportions-3-3",
@@ -20734,7 +20734,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.32",
   "title": "",
-  "body": " If you can buy one plantain for then how many can you buy with ?  "
+  "body": " If you can buy one plantain for then how many can you buy with ?   "
 },
 {
   "id": "exercises-rational-expressions-proportions-3-4",
@@ -20743,7 +20743,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.33",
   "title": "",
-  "body": " Kali reduced the size of a painting to a height of in. What is the new width if it was originally in. tall and in. wide?  "
+  "body": " Kali reduced the size of a painting to a height of in. What is the new width if it was originally in. tall and in. wide?   "
 },
 {
   "id": "exercises-rational-expressions-proportions-3-5",
@@ -20752,7 +20752,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.34",
   "title": "",
-  "body": " A model train has a scale of in : ft. If the model train is in tall then how tall is the real train?  "
+  "body": " A model train has a scale of in : ft. If the model train is in tall then how tall is the real train?   "
 },
 {
   "id": "exercises-rational-expressions-proportions-3-6",
@@ -20761,7 +20761,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.35",
   "title": "",
-  "body": " A bird bath that is ft tall casts a shadow that is ft long. Find the length of the shadow that a ft adult elephant casts.  "
+  "body": " A bird bath that is ft tall casts a shadow that is ft long. Find the length of the shadow that a ft adult elephant casts.   "
 },
 {
   "id": "exercises-rational-expressions-proportions-3-7",
@@ -20770,7 +20770,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.36",
   "title": "",
-  "body": " Victoria and Georgetown are mi from each other. How far apart would the cities be on a map that has a scale of in : mi?  "
+  "body": " Victoria and Georgetown are mi from each other. How far apart would the cities be on a map that has a scale of in : mi?   "
 },
 {
   "id": "exercises-rational-expressions-proportions-3-8",
@@ -20779,7 +20779,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.37",
   "title": "",
-  "body": " The Vikings led the Timberwolves by points at the half. If the Vikings scored points for every points the Timberwolves scored, what was the half time score?  "
+  "body": " The Vikings led the Timberwolves by points at the half. If the Vikings scored points for every points the Timberwolves scored, what was the half time score?   "
 },
 {
   "id": "exercises-rational-expressions-proportions-3-9",
@@ -20788,7 +20788,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.38",
   "title": "",
-  "body": " Sarah worked more hours than Josh. If Sarah worked hr for every hr Josh worked, how long did they each work?  "
+  "body": " Sarah worked more hours than Josh. If Sarah worked hr for every hr Josh worked, how long did they each work?   "
 },
 {
   "id": "exercises-rational-expressions-proportions-3-10",
@@ -20797,7 +20797,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.39",
   "title": "",
-  "body": " Computer Services Inc. charges more for a repair than Low Cost Computer Repair. If the ratio of the costs is , what will it cost for the repair at Low Cost Computer Repair?  "
+  "body": " Computer Services Inc. charges more for a repair than Low Cost Computer Repair. If the ratio of the costs is , what will it cost for the repair at Low Cost Computer Repair?   "
 },
 {
   "id": "exercises-rational-expressions-proportions-3-11",
@@ -20806,7 +20806,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.6.40",
   "title": "",
-  "body": " Kelsey’s commute is minutes longer than Christina’s. If Christina drives minutes for every minutes Kelsey drives, how long is each commute?  "
+  "body": " Kelsey’s commute is minutes longer than Christina’s. If Christina drives minutes for every minutes Kelsey drives, how long is each commute?   "
 },
 {
   "id": "rational-expressions-equations",
@@ -20815,7 +20815,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.7",
   "title": "Solving Rational Equations",
-  "body": " Solving Rational Equations   Objective: Solve rational equations by identifying and multiplying by the least common denominator.   When solving equations that are made up of rational expressions, we will solve them using the same strategy we used to solve linear equations with fractions. When we solved problems like the next example, we cleared the fraction by multiplying by the least common denominator (LCD)     We will use the same process to solve rational equations, the only difference is our LCD will be more involved. We will also have to be aware of domain issues. If our LCD equals zero, the solution is undefined. We will always check our solutions in the LCD as we may have to remove a solution from our solution set.     The LCD can be several factors in these problems. As the LCD gets more complex, it is important to remember the process we are using to solve is still the same.     In the precious example the denominators were factored for us. More often we will need to factor before finding the LCD.      World View Note: Maria Agnesi was the first woman to publish a math textbook in , it took her over years to write! This textbook covered everything from arithmetic through differential equations and was over pages!  If we are subtracting a fraction in the problem, it may be easier to avoid a future sign error by first distributing the negative through the numerator.       In the previous example, one of the solutions we found made the LCD zero. When this happens we ignore this result and only use the results that make the rational expressions defined.   Exercises – Solving Rational Equations    Solve the following equations for the given variable:                                                                                                                                                                               "
+  "body": " Solving Rational Equations   Objective: Solve rational equations by identifying and multiplying by the least common denominator.   When solving equations that are made up of rational expressions, we will solve them using the same strategy we used to solve linear equations with fractions. When we solved problems like the next example, we cleared the fraction by multiplying by the least common denominator (LCD)     We will use the same process to solve rational equations, the only difference is our LCD will be more involved. We will also have to be aware of domain issues. If our LCD equals zero, the solution is undefined. We will always check our solutions in the LCD as we may have to remove a solution from our solution set.     The LCD can be several factors in these problems. As the LCD gets more complex, it is important to remember the process we are using to solve is still the same.     In the precious example the denominators were factored for us. More often we will need to factor before finding the LCD.      World View Note: Maria Agnesi was the first woman to publish a math textbook in , it took her over years to write! This textbook covered everything from arithmetic through differential equations and was over pages!  If we are subtracting a fraction in the problem, it may be easier to avoid a future sign error by first distributing the negative through the numerator.       In the previous example, one of the solutions we found made the LCD zero. When this happens we ignore this result and only use the results that make the rational expressions defined.   Exercises – Solving Rational Equations    Solve the following equations for the given variable:                                                                                                                                                                                                                 "
 },
 {
   "id": "rational-expressions-equations-4",
@@ -20869,7 +20869,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-3",
@@ -20878,7 +20878,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-4",
@@ -20887,7 +20887,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-5",
@@ -20896,7 +20896,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-6",
@@ -20905,7 +20905,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-7",
@@ -20914,7 +20914,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-8",
@@ -20923,7 +20923,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-9",
@@ -20932,7 +20932,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-10",
@@ -20941,7 +20941,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-11",
@@ -20950,7 +20950,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-12",
@@ -20959,7 +20959,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-13",
@@ -20968,7 +20968,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-14",
@@ -20977,7 +20977,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-15",
@@ -20986,7 +20986,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-16",
@@ -20995,7 +20995,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-17",
@@ -21004,7 +21004,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-18",
@@ -21013,7 +21013,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-19",
@@ -21022,7 +21022,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-20",
@@ -21031,7 +21031,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-21",
@@ -21040,7 +21040,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-22",
@@ -21049,7 +21049,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-23",
@@ -21058,7 +21058,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-24",
@@ -21067,7 +21067,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-25",
@@ -21076,7 +21076,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-26",
@@ -21085,7 +21085,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-27",
@@ -21094,7 +21094,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-28",
@@ -21103,7 +21103,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-29",
@@ -21112,7 +21112,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-30",
@@ -21121,7 +21121,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-31",
@@ -21130,7 +21130,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-32",
@@ -21139,7 +21139,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-33",
@@ -21148,7 +21148,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-34",
@@ -21157,7 +21157,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-expressions-equations-2-35",
@@ -21166,7 +21166,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.7.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "rational-expressions-dimensional-analysis",
@@ -21175,7 +21175,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.8",
   "title": "Dimensional Analysis",
-  "body": " Dimensional Analysis   Objective: Use dimensional analysis to preform single unit, dual unit, square unit, and cubed unit conversions.   One application of rational expressions deals with converting units. When we convert units of measure we can do so by multiplying several fractions together in a process known as dimensional analysis. The trick will be to decide what fractions to multiply. When multiplying, if we multiply by , the value of the expression does not change. One written as a fraction can look like many different things as long as the numerator and denominator are identical in value. Notice the numerator and denominator are not identical in appearance, but rather identical in value. Below are several fractions, each equal to one where numerator and denominator are identical in value.   The last few fractions that include units are called conversion factors. We can make a conversion factor out of any two measurements that represent the same distance. For example, mile feet. We could then make a conversion factor because both values are the same, the fraction is still equal to one. 5280 ft Similarly we could make a conversion factor . The trick for conversions will be to use the correct fractions.  The idea behind dimensional analysis is we will multiply by a fraction in such a way that the units we don’t want will divide out of the problem. We found out when multiplying rational expressions that if a variable appears in the numerator and denominator, we can divide it out of the expression. It is the same with units. Consider the following conversion.     In the previous example, we had to use the conversion factor so the miles would divide out. If we had used we would not have been able to divide out the miles. This is why when doing dimensional analysis, it is very important to use units in the set-up of the problem, so we know how to correctly set up the conversion factor   If pound ounces, how many pounds is ounces?    The same process can be used to convert problems with several units in them. Consider the following example.   A student averaged miles per hour on a trip. What was the student’s speed in feet per second?    If the units are two-dimensional (such as square inches - ) or three-dimensional (such as cubic feet - ) we will need to put the same exponent on the conversion factor. So, if we are converting square inches to square ft , the conversion factor would be squared, . Similarly, if the units are cubed, we will cube the conversion factor.   Convert cubic feet to . Write as a fraction, put it over    When calculating area or volume, be sure to use the units and multiply them as well.   A room is How many square yards are in the room?    To focus on the process of conversions, a conversion sheet has been included at the end of this lesson which includes several conversion factors for length, volume, mass and time in both English and Metric units.  The process of dimensional analysis can be used to convert other types of units as well. If we can identify relationships that represent the same value, we can make them into a conversion factor.   A child is prescribed a dosage of mg of a certain drug and is allowed to refill his prescription twice. If a there are tablets in a prescription, and each tablet has mg, how many doses are in the prescriptions (original refills)?     World View Note: Only three countries in the world still use the English system commercially: Liberia (Western Africa), Myanmar (between India and Vietnam), and the USA.   Conversion Factors      Length   English  Metric     in ft   mm m     yd ft   mm cm     yd in   cm m     mi ft   dm m       dam m      hm m      km m       English\/Metric     cm in    m ft    km mi       Volume   English  Metric     c oz   mL cc      pt c   L mL     qt pt   L cL     gal qt   L dL       L kL       English\/Metric     mL     qt L    L gal       Area   English  Metric                ha a     acre       acres          English\/Metric     ha acres       Weight (Mass)   English  Metric                g cg      g kg      kg t        English\/Metric     g oz    lb kg       Time    sec min    min hr    sec hr    hr day       Exercises – Dimensional Analysis    Use dimensional analysis to convert the following:     mi. to yards     oz. to tons     mg to grams     km to centimeters     mm (millimeters) to miles     to square yards     to square kilometers     to square feet     to cubic centimeters     to cubic centimeters     to cubic yards     mph (miles per hour) to feet per second     yd. per min. to miles per hour     ft\/s (feet per second) to miles per hour     mph to kilometers per year     mph to kilometers per year     (tons per square yard) to pounds per square inch     to kilometers per hour squared      Use dimensional analysis to solve the following:    On a recent trip, Jan traveled miles using gallons of gas. How many miles per -gallon did she travel? How many yards per -ounce?    A chair lift at the Divide ski resort in Cold Springs, WY is feet long and takes minutes. What is the average speed in miles per hour? How many feet per second does the lift travel?    A certain laser printer can print pages per minute. Determine this printer’s output in pages per day, and reams per month. ( ream = pages)    An average human heart beats times per minute. If an average person lives to the age of , how many times does the average heart beat in a lifetime?    Blood sugar levels are measured in miligrams of gluclose per deciliter of blood volume. If a person’s blood sugar level measured mg\/dL, how much is this in grams per liter?    You are buying carpet to cover a room that measures ft by ft. The carpet cost per square yard. How much will the carpet cost?    A car travels miles in minutes. How fast is it going in miles per hour? in meters per second?    A cargo container is ft long, ft wide, and ft tall. Find its volume in cubic yards and cubic meters.    A local zoning ordinance says that a house’s “footprint” (area of its ground floor) cannot occupy more than of the lot it is built on. Suppose you own a acre lot, what is the maximum allowed footprint for your house in square feet? in square inches? ( acre = )    Computer memory is measured in units of bytes, where one byte is enough memory to store one character (a letter in the alphabet or a number). How many typical pages of text can be stored on a -megabyte compact disc? Assume that one typical page of text contains characters. ( megabyte = bytes)    In April , the Department of the Interior released a “spike flood” from the Glen Canyon Dam on the Colorado River. Its purpose was to restore the river and the habitants along its bank. The release from the dam lasted a week at a rate of cubic feet of water per second. About how much water was released during the -week flood?    The largest single rough diamond ever found, the Cullinan diamond, weighed carats; how much does the diamond weigh in milligrams? in pounds? ( carat - grams)     "
+  "body": " Dimensional Analysis   Objective: Use dimensional analysis to preform single unit, dual unit, square unit, and cubed unit conversions.   One application of rational expressions deals with converting units. When we convert units of measure we can do so by multiplying several fractions together in a process known as dimensional analysis. The trick will be to decide what fractions to multiply. When multiplying, if we multiply by , the value of the expression does not change. One written as a fraction can look like many different things as long as the numerator and denominator are identical in value. Notice the numerator and denominator are not identical in appearance, but rather identical in value. Below are several fractions, each equal to one where numerator and denominator are identical in value.   The last few fractions that include units are called conversion factors. We can make a conversion factor out of any two measurements that represent the same distance. For example, mile feet. We could then make a conversion factor because both values are the same, the fraction is still equal to one. 5280 ft Similarly we could make a conversion factor . The trick for conversions will be to use the correct fractions.  The idea behind dimensional analysis is we will multiply by a fraction in such a way that the units we don’t want will divide out of the problem. We found out when multiplying rational expressions that if a variable appears in the numerator and denominator, we can divide it out of the expression. It is the same with units. Consider the following conversion.     In the previous example, we had to use the conversion factor so the miles would divide out. If we had used we would not have been able to divide out the miles. This is why when doing dimensional analysis, it is very important to use units in the set-up of the problem, so we know how to correctly set up the conversion factor   If pound ounces, how many pounds is ounces?    The same process can be used to convert problems with several units in them. Consider the following example.   A student averaged miles per hour on a trip. What was the student’s speed in feet per second?    If the units are two-dimensional (such as square inches - ) or three-dimensional (such as cubic feet - ) we will need to put the same exponent on the conversion factor. So, if we are converting square inches to square ft , the conversion factor would be squared, . Similarly, if the units are cubed, we will cube the conversion factor.   Convert cubic feet to . Write as a fraction, put it over    When calculating area or volume, be sure to use the units and multiply them as well.   A room is How many square yards are in the room?    To focus on the process of conversions, a conversion sheet has been included at the end of this lesson which includes several conversion factors for length, volume, mass and time in both English and Metric units.  The process of dimensional analysis can be used to convert other types of units as well. If we can identify relationships that represent the same value, we can make them into a conversion factor.   A child is prescribed a dosage of mg of a certain drug and is allowed to refill his prescription twice. If a there are tablets in a prescription, and each tablet has mg, how many doses are in the prescriptions (original refills)?     World View Note: Only three countries in the world still use the English system commercially: Liberia (Western Africa), Myanmar (between India and Vietnam), and the USA.   Conversion Factors      Length   English  Metric     in ft   mm m     yd ft   mm cm     yd in   cm m     mi ft   dm m       dam m      hm m      km m       English\/Metric     cm in    m ft    km mi       Volume   English  Metric     c oz   mL cc      pt c   L mL     qt pt   L cL     gal qt   L dL       L kL       English\/Metric     mL     qt L    L gal       Area   English  Metric                ha a     acre       acres          English\/Metric     ha acres       Weight (Mass)   English  Metric                g cg      g kg      kg t        English\/Metric     g oz    lb kg       Time    sec min    min hr    sec hr    hr day       Exercises – Dimensional Analysis    Use dimensional analysis to convert the following:     mi. to yards      oz. to tons      mg to grams      km to centimeters      mm (millimeters) to miles      to square yards      to square kilometers      to square feet      to cubic centimeters      to cubic centimeters      to cubic yards      mph (miles per hour) to feet per second      yd. per min. to miles per hour      ft\/s (feet per second) to miles per hour      mph to kilometers per year      mph to kilometers per year      (tons per square yard) to pounds per square inch      to kilometers per hour squared       Use dimensional analysis to solve the following:    On a recent trip, Jan traveled miles using gallons of gas. How many miles per -gallon did she travel? How many yards per -ounce?     A chair lift at the Divide ski resort in Cold Springs, WY is feet long and takes minutes. What is the average speed in miles per hour? How many feet per second does the lift travel?     A certain laser printer can print pages per minute. Determine this printer’s output in pages per day, and reams per month. ( ream = pages)     An average human heart beats times per minute. If an average person lives to the age of , how many times does the average heart beat in a lifetime?     Blood sugar levels are measured in miligrams of gluclose per deciliter of blood volume. If a person’s blood sugar level measured mg\/dL, how much is this in grams per liter?     You are buying carpet to cover a room that measures ft by ft. The carpet cost per square yard. How much will the carpet cost?     A car travels miles in minutes. How fast is it going in miles per hour? in meters per second?     A cargo container is ft long, ft wide, and ft tall. Find its volume in cubic yards and cubic meters.     A local zoning ordinance says that a house’s “footprint” (area of its ground floor) cannot occupy more than of the lot it is built on. Suppose you own a acre lot, what is the maximum allowed footprint for your house in square feet? in square inches? ( acre = )     Computer memory is measured in units of bytes, where one byte is enough memory to store one character (a letter in the alphabet or a number). How many typical pages of text can be stored on a -megabyte compact disc? Assume that one typical page of text contains characters. ( megabyte = bytes)     In April , the Department of the Interior released a “spike flood” from the Glen Canyon Dam on the Colorado River. Its purpose was to restore the river and the habitants along its bank. The release from the dam lasted a week at a rate of cubic feet of water per second. About how much water was released during the -week flood?     The largest single rough diamond ever found, the Cullinan diamond, weighed carats; how much does the diamond weigh in milligrams? in pounds? ( carat - grams)      "
 },
 {
   "id": "rational-expressions-dimensional-analysis-7",
@@ -21247,7 +21247,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.1",
   "title": "",
-  "body": "  mi. to yards  "
+  "body": "  mi. to yards   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-2-3",
@@ -21256,7 +21256,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.2",
   "title": "",
-  "body": "  oz. to tons  "
+  "body": "  oz. to tons   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-2-4",
@@ -21265,7 +21265,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.3",
   "title": "",
-  "body": "  mg to grams  "
+  "body": "  mg to grams   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-2-5",
@@ -21274,7 +21274,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.4",
   "title": "",
-  "body": "  km to centimeters  "
+  "body": "  km to centimeters   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-2-6",
@@ -21283,7 +21283,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.5",
   "title": "",
-  "body": "  mm (millimeters) to miles  "
+  "body": "  mm (millimeters) to miles   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-2-7",
@@ -21292,7 +21292,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.6",
   "title": "",
-  "body": "  to square yards  "
+  "body": "  to square yards   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-2-8",
@@ -21301,7 +21301,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.7",
   "title": "",
-  "body": "  to square kilometers  "
+  "body": "  to square kilometers   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-2-9",
@@ -21310,7 +21310,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.8",
   "title": "",
-  "body": "  to square feet  "
+  "body": "  to square feet   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-2-10",
@@ -21319,7 +21319,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.9",
   "title": "",
-  "body": "  to cubic centimeters  "
+  "body": "  to cubic centimeters   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-2-11",
@@ -21328,7 +21328,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.10",
   "title": "",
-  "body": "  to cubic centimeters  "
+  "body": "  to cubic centimeters   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-2-12",
@@ -21337,7 +21337,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.11",
   "title": "",
-  "body": "  to cubic yards  "
+  "body": "  to cubic yards   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-2-13",
@@ -21346,7 +21346,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.12",
   "title": "",
-  "body": "  mph (miles per hour) to feet per second  "
+  "body": "  mph (miles per hour) to feet per second   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-2-14",
@@ -21355,7 +21355,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.13",
   "title": "",
-  "body": "  yd. per min. to miles per hour  "
+  "body": "  yd. per min. to miles per hour   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-2-15",
@@ -21364,7 +21364,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.14",
   "title": "",
-  "body": "  ft\/s (feet per second) to miles per hour  "
+  "body": "  ft\/s (feet per second) to miles per hour   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-2-16",
@@ -21373,7 +21373,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.15",
   "title": "",
-  "body": "  mph to kilometers per year  "
+  "body": "  mph to kilometers per year   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-2-17",
@@ -21382,7 +21382,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.16",
   "title": "",
-  "body": "  mph to kilometers per year  "
+  "body": "  mph to kilometers per year   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-2-18",
@@ -21391,7 +21391,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.17",
   "title": "",
-  "body": "  (tons per square yard) to pounds per square inch  "
+  "body": "  (tons per square yard) to pounds per square inch   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-2-19",
@@ -21400,7 +21400,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.18",
   "title": "",
-  "body": "  to kilometers per hour squared  "
+  "body": "  to kilometers per hour squared   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-3-2",
@@ -21409,7 +21409,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.19",
   "title": "",
-  "body": " On a recent trip, Jan traveled miles using gallons of gas. How many miles per -gallon did she travel? How many yards per -ounce?  "
+  "body": " On a recent trip, Jan traveled miles using gallons of gas. How many miles per -gallon did she travel? How many yards per -ounce?   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-3-3",
@@ -21418,7 +21418,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.20",
   "title": "",
-  "body": " A chair lift at the Divide ski resort in Cold Springs, WY is feet long and takes minutes. What is the average speed in miles per hour? How many feet per second does the lift travel?  "
+  "body": " A chair lift at the Divide ski resort in Cold Springs, WY is feet long and takes minutes. What is the average speed in miles per hour? How many feet per second does the lift travel?   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-3-4",
@@ -21427,7 +21427,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.21",
   "title": "",
-  "body": " A certain laser printer can print pages per minute. Determine this printer’s output in pages per day, and reams per month. ( ream = pages)  "
+  "body": " A certain laser printer can print pages per minute. Determine this printer’s output in pages per day, and reams per month. ( ream = pages)   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-3-5",
@@ -21436,7 +21436,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.22",
   "title": "",
-  "body": " An average human heart beats times per minute. If an average person lives to the age of , how many times does the average heart beat in a lifetime?  "
+  "body": " An average human heart beats times per minute. If an average person lives to the age of , how many times does the average heart beat in a lifetime?   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-3-6",
@@ -21445,7 +21445,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.23",
   "title": "",
-  "body": " Blood sugar levels are measured in miligrams of gluclose per deciliter of blood volume. If a person’s blood sugar level measured mg\/dL, how much is this in grams per liter?  "
+  "body": " Blood sugar levels are measured in miligrams of gluclose per deciliter of blood volume. If a person’s blood sugar level measured mg\/dL, how much is this in grams per liter?   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-3-7",
@@ -21454,7 +21454,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.24",
   "title": "",
-  "body": " You are buying carpet to cover a room that measures ft by ft. The carpet cost per square yard. How much will the carpet cost?  "
+  "body": " You are buying carpet to cover a room that measures ft by ft. The carpet cost per square yard. How much will the carpet cost?   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-3-8",
@@ -21463,7 +21463,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.25",
   "title": "",
-  "body": " A car travels miles in minutes. How fast is it going in miles per hour? in meters per second?  "
+  "body": " A car travels miles in minutes. How fast is it going in miles per hour? in meters per second?   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-3-9",
@@ -21472,7 +21472,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.26",
   "title": "",
-  "body": " A cargo container is ft long, ft wide, and ft tall. Find its volume in cubic yards and cubic meters.  "
+  "body": " A cargo container is ft long, ft wide, and ft tall. Find its volume in cubic yards and cubic meters.   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-3-10",
@@ -21481,7 +21481,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.27",
   "title": "",
-  "body": " A local zoning ordinance says that a house’s “footprint” (area of its ground floor) cannot occupy more than of the lot it is built on. Suppose you own a acre lot, what is the maximum allowed footprint for your house in square feet? in square inches? ( acre = )  "
+  "body": " A local zoning ordinance says that a house’s “footprint” (area of its ground floor) cannot occupy more than of the lot it is built on. Suppose you own a acre lot, what is the maximum allowed footprint for your house in square feet? in square inches? ( acre = )   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-3-11",
@@ -21490,7 +21490,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.28",
   "title": "",
-  "body": " Computer memory is measured in units of bytes, where one byte is enough memory to store one character (a letter in the alphabet or a number). How many typical pages of text can be stored on a -megabyte compact disc? Assume that one typical page of text contains characters. ( megabyte = bytes)  "
+  "body": " Computer memory is measured in units of bytes, where one byte is enough memory to store one character (a letter in the alphabet or a number). How many typical pages of text can be stored on a -megabyte compact disc? Assume that one typical page of text contains characters. ( megabyte = bytes)   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-3-12",
@@ -21499,7 +21499,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.29",
   "title": "",
-  "body": " In April , the Department of the Interior released a “spike flood” from the Glen Canyon Dam on the Colorado River. Its purpose was to restore the river and the habitants along its bank. The release from the dam lasted a week at a rate of cubic feet of water per second. About how much water was released during the -week flood?  "
+  "body": " In April , the Department of the Interior released a “spike flood” from the Glen Canyon Dam on the Colorado River. Its purpose was to restore the river and the habitants along its bank. The release from the dam lasted a week at a rate of cubic feet of water per second. About how much water was released during the -week flood?   "
 },
 {
   "id": "exercises-rational-expressions-dimensional-3-13",
@@ -21508,7 +21508,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.8.30",
   "title": "",
-  "body": " The largest single rough diamond ever found, the Cullinan diamond, weighed carats; how much does the diamond weigh in milligrams? in pounds? ( carat - grams)  "
+  "body": " The largest single rough diamond ever found, the Cullinan diamond, weighed carats; how much does the diamond weigh in milligrams? in pounds? ( carat - grams)   "
 },
 {
   "id": "radicals-square-roots",
@@ -23659,7 +23659,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.6",
   "title": "Rational Exponents",
-  "body": " Rational Exponents   Objective: Convert between radical notation and exponential notation and simplify expressions with rational exponents using the properties of exponents.   When we simplify radicals with exponents, we divide the exponent by the index. Another way to write division is with a fraction bar. This idea is how we will define rational exponents.   The denominator of a rational exponent becomes the index on our radical, likewise the index on the radical becomes the denominator of the exponent. We can use this property to change any radical expression into an exponential expression.        Index is denominator      Negative exponents from reciprocals    We can also change any rational exponent into a radical expression by using the denominator as the index.        Index is denominator      Negative exponents means reciprocals     World View Note: Nicole Oresme, a Mathematician born in Normandy was the first to use rational exponents. He used the notation to represent . However his notation went largely unnoticed.  The ability to change between exponential expressions and radical expressions allows us to evaluate problems we had no means of evaluating before by changing to a radical.     The largest advantage of being able to change a radical expression into an exponential expression is we are now allowed to use all our exponent properties to simplify. The following table reviews all of our exponent properties.    When adding and subtracting with fractions we need to be sure to have a common denominator. When multiplying we only need to multiply the numerators together and denominators together. The following examples show several different problems, using different properties to simplify the rational exponents.              It is important to remember that as we simplify with rational exponents we are using the exact same properties we used when simplifying integer exponents. The only difference is we need to follow our rules for fractions as well. It may be worth reviewing your notes on exponent properties to be sure your comfortable with using the properties.   Exercises – Rational Exponents    Write each expression in radical form.                     Write each expression in exponential form.              Evaluate.              Simplify. Your answer should contain only positive exponents.                                                        "
+  "body": " Rational Exponents   Objective: Convert between radical notation and exponential notation and simplify expressions with rational exponents using the properties of exponents.   When we simplify radicals with exponents, we divide the exponent by the index. Another way to write division is with a fraction bar. This idea is how we will define rational exponents.   The denominator of a rational exponent becomes the index on our radical, likewise the index on the radical becomes the denominator of the exponent. We can use this property to change any radical expression into an exponential expression.        Index is denominator      Negative exponents from reciprocals    We can also change any rational exponent into a radical expression by using the denominator as the index.        Index is denominator      Negative exponents means reciprocals     World View Note: Nicole Oresme, a Mathematician born in Normandy was the first to use rational exponents. He used the notation to represent . However his notation went largely unnoticed.  The ability to change between exponential expressions and radical expressions allows us to evaluate problems we had no means of evaluating before by changing to a radical.     The largest advantage of being able to change a radical expression into an exponential expression is we are now allowed to use all our exponent properties to simplify. The following table reviews all of our exponent properties.    When adding and subtracting with fractions we need to be sure to have a common denominator. When multiplying we only need to multiply the numerators together and denominators together. The following examples show several different problems, using different properties to simplify the rational exponents.              It is important to remember that as we simplify with rational exponents we are using the exact same properties we used when simplifying integer exponents. The only difference is we need to follow our rules for fractions as well. It may be worth reviewing your notes on exponent properties to be sure your comfortable with using the properties.   Exercises – Rational Exponents    Write each expression in radical form.                       Write each expression in exponential form.              Evaluate.              Simplify. Your answer should contain only positive exponents.                                                        "
 },
 {
   "id": "radicals-rational-exponents-6",
@@ -23731,7 +23731,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.6.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-rational-exponents-2-3",
@@ -23740,7 +23740,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.6.2",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-rational-exponents-2-4",
@@ -24037,7 +24037,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.7",
   "title": "Radicals of Mixed Index",
-  "body": " Radicals of Mixed Index   Objective: Reduce the index on a radical and multiply or divide radicals of different index.  Knowing that a radical has the same properties as exponents (written as a ratio) allows us to manipulate radicals in new ways. One thing we are allowed to do is reduce, not just the radicand, but the index as well. This is shown in the following example.     What we have done is reduced our index by dividing the index and all the exponents by the same number ( in the previous example). If we notice a common factor in the index and all the exponnets on every factor we can reduce by dividing by that common factor. This is shown in the next example.     We can use the same process when there are coefficients in the problem. We will first write the coefficient as an exponential expression so we can divide the exponet by the common factor as well.     We can use a very similar idea to also multiply radicals where the index does not match. First we will consider an example using rational exponents, then identify the pattern we can use.     To combine the radicals we need a common index (just like the common denominator). We will get a common index by multiplying each index and exponent by an integer that will allow us to build up to that desired index. This process is shown in the next example.     Often after combining radicals of mixed index we will need to simplify the resulting radical.     Just as with reducing the index, we will rewrite coefficients as exponential expressions. This will aslo allow us to use exponent properties to simplify.     If there is a binomial in the radical then we need to keep that binomial together through the entire problem.      World View Note: Originally the radical was just a check mark with the rest of the radical expression in parenthesis. In Rene Descartes was the first to put a line over the entire radical expression  The same process is used for dividing mixed index as with multiplying mixed index. The only difference is our final answer cannot have a radical over the denominator.      Exercises - Radicals of Mixed Index    Reduce the following radicals.                                                                  Combine the following radicals.                                                                                                                                                                               "
+  "body": " Radicals of Mixed Index   Objective: Reduce the index on a radical and multiply or divide radicals of different index.  Knowing that a radical has the same properties as exponents (written as a ratio) allows us to manipulate radicals in new ways. One thing we are allowed to do is reduce, not just the radicand, but the index as well. This is shown in the following example.     What we have done is reduced our index by dividing the index and all the exponents by the same number ( in the previous example). If we notice a common factor in the index and all the exponnets on every factor we can reduce by dividing by that common factor. This is shown in the next example.     We can use the same process when there are coefficients in the problem. We will first write the coefficient as an exponential expression so we can divide the exponet by the common factor as well.     We can use a very similar idea to also multiply radicals where the index does not match. First we will consider an example using rational exponents, then identify the pattern we can use.     To combine the radicals we need a common index (just like the common denominator). We will get a common index by multiplying each index and exponent by an integer that will allow us to build up to that desired index. This process is shown in the next example.     Often after combining radicals of mixed index we will need to simplify the resulting radical.     Just as with reducing the index, we will rewrite coefficients as exponential expressions. This will aslo allow us to use exponent properties to simplify.     If there is a binomial in the radical then we need to keep that binomial together through the entire problem.      World View Note: Originally the radical was just a check mark with the rest of the radical expression in parenthesis. In Rene Descartes was the first to put a line over the entire radical expression  The same process is used for dividing mixed index as with multiplying mixed index. The only difference is our final answer cannot have a radical over the denominator.      Exercises - Radicals of Mixed Index    Reduce the following radicals.                                                                              Combine the following radicals.                                                                                                                                                                                                                 "
 },
 {
   "id": "radicals-mixed-index-4",
@@ -24127,7 +24127,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-2-3",
@@ -24136,7 +24136,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-2-4",
@@ -24145,7 +24145,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-2-5",
@@ -24154,7 +24154,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-2-6",
@@ -24163,7 +24163,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-2-7",
@@ -24172,7 +24172,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-2-8",
@@ -24181,7 +24181,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-2-9",
@@ -24190,7 +24190,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-2-10",
@@ -24199,7 +24199,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-2-11",
@@ -24208,7 +24208,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-2-12",
@@ -24217,7 +24217,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-2-13",
@@ -24226,7 +24226,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-2",
@@ -24235,7 +24235,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-3",
@@ -24244,7 +24244,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-4",
@@ -24253,7 +24253,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-5",
@@ -24262,7 +24262,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-6",
@@ -24271,7 +24271,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-7",
@@ -24280,7 +24280,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-8",
@@ -24289,7 +24289,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-9",
@@ -24298,7 +24298,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-10",
@@ -24307,7 +24307,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-11",
@@ -24316,7 +24316,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-12",
@@ -24325,7 +24325,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-13",
@@ -24334,7 +24334,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-14",
@@ -24343,7 +24343,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-15",
@@ -24352,7 +24352,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-16",
@@ -24361,7 +24361,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-17",
@@ -24370,7 +24370,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-18",
@@ -24379,7 +24379,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-19",
@@ -24388,7 +24388,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-20",
@@ -24397,7 +24397,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-21",
@@ -24406,7 +24406,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-22",
@@ -24415,7 +24415,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-23",
@@ -24424,7 +24424,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-24",
@@ -24433,7 +24433,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-25",
@@ -24442,7 +24442,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-26",
@@ -24451,7 +24451,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-27",
@@ -24460,7 +24460,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-28",
@@ -24469,7 +24469,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-29",
@@ -24478,7 +24478,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-30",
@@ -24487,7 +24487,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.41",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-31",
@@ -24496,7 +24496,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.42",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-32",
@@ -24505,7 +24505,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.43",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-33",
@@ -24514,7 +24514,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.44",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-34",
@@ -24523,7 +24523,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.45",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-radicals-mixed-index-3-35",
@@ -24532,7 +24532,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.46",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "radicals-complex-numbers",
@@ -24541,7 +24541,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.8",
   "title": "Complex Numbers",
-  "body": " Complex Numbers   Objective: Add, subtract, multiply, rationalize, and simplify expres- sions using complex numbers.    World View Note: When mathematics was first used, the primary purpose was for counting. Thus they did not originally use negatives, zero, fractions or irrational numbers. However, the ancient Egyptians quickly developed the need for \"a part\" and so they made up a new type of number, the ratio or fraction. The Ancient Greeks did not believe in irrational numbers (people were killed for believing otherwise). The Mayans of Central America later made up the number zero when they found use for it as a placeholder. Ancient Chinese Mathematicians made up negative numbers when they found use for them.  In mathematics, when the current number system does not provide the tools to solve the problems the culture is working with, we tend to make up new ways for dealing with the problem that can solve the problem. Throughout history this has been the case with the need for a number that is nothing ( ), smaller than zero (negatives), between integers (fractions), and between fractions (irrational numbers). This is also the case for the square roots of negative numbers. To work with the square root of negative numbers mathematicians have defined what are called imaginary and complex numbers   Examples of imaginary numbers include , , and . A complex number is one that contains both a real and imaginary part, such as .  With this definition, the square root of a negative number is no longer undefined. We now are allowed to do basic operations with the square root of negatives. First we will consider exponents on imaginary numbers. We will do this by manipulating our definition of . If we multiply both sides of the definition by , the equation becomes . Then if we multiply both sides of the equation again by , the equation becomes , or simply . Multiplying again by gives . One more time gives . And if this pattern continues we see a cycle forming, the exponents on i change we cycle through simplified answers of , , , . As there are different possible answers in this cycle, if we divide the exponent by and consider the remainder, we can simplify any exponent on by learning just the following four values:   Cyclic Property of Powers of                    When performing operations (add, subtract, multilpy, divide) we can handle i just like we handle any other variable. This means when adding and subtracting complex numbers we simply add or combine like terms.     It is important to notice what operation we are doing. Students often see the parenthesis and think that means FOIL. We only use FOIL to multiply. This problem is an addition problem so we simply add the terms, or combine like terms.  For subtraction problems the idea is the same, we need to remember to first distribute the negative onto all the terms in the parentheses.     Addition and subtraction can be combined into one problem.     Multiplying with complex numbers is the same as multiplying with variables with one exception, we will want to simplify our final answer so there are no exponents on .              Remember when squaring a binomial we either have to FOIL or use our shortcut to square the first, twice the product and square the last. The next example uses the shortcut.     Dividing with complex numbers also has one thing we need to be careful of. If is , and it is in the denominator of a fraction, then we have a radical in the denominator! This means we will want to rationalize our denominator so there are no ’s. This is done the same way we rationalized denominators with square roots.     The solution for these problems can be written several different ways, for example or . The author has elected to use the solution as written, but it is important to express your answer in the form your instructor prefers.     Using we can simplify radicals with negatives under the root. We will use the product rule and simplify the negative as a factor of negative one. This is shown in the following examples.        When simplifying complex radicals it is important that we take the out of the radical (as an ) before we combine radicals.     If there are fractions, we need to make sure to reduce each term by the same number. This is shown in the following example.     By using we will be able to simplify and solve problems that we could not simplify and solve before. This will be explored in more detail in a later section.   Exercises - Complex Numbers    Simplify.                                                                                                                                                                                                                                                                                                       "
+  "body": " Complex Numbers   Objective: Add, subtract, multiply, rationalize, and simplify expres- sions using complex numbers.    World View Note: When mathematics was first used, the primary purpose was for counting. Thus they did not originally use negatives, zero, fractions or irrational numbers. However, the ancient Egyptians quickly developed the need for \"a part\" and so they made up a new type of number, the ratio or fraction. The Ancient Greeks did not believe in irrational numbers (people were killed for believing otherwise). The Mayans of Central America later made up the number zero when they found use for it as a placeholder. Ancient Chinese Mathematicians made up negative numbers when they found use for them.  In mathematics, when the current number system does not provide the tools to solve the problems the culture is working with, we tend to make up new ways for dealing with the problem that can solve the problem. Throughout history this has been the case with the need for a number that is nothing ( ), smaller than zero (negatives), between integers (fractions), and between fractions (irrational numbers). This is also the case for the square roots of negative numbers. To work with the square root of negative numbers mathematicians have defined what are called imaginary and complex numbers   Examples of imaginary numbers include , , and . A complex number is one that contains both a real and imaginary part, such as .  With this definition, the square root of a negative number is no longer undefined. We now are allowed to do basic operations with the square root of negatives. First we will consider exponents on imaginary numbers. We will do this by manipulating our definition of . If we multiply both sides of the definition by , the equation becomes . Then if we multiply both sides of the equation again by , the equation becomes , or simply . Multiplying again by gives . One more time gives . And if this pattern continues we see a cycle forming, the exponents on i change we cycle through simplified answers of , , , . As there are different possible answers in this cycle, if we divide the exponent by and consider the remainder, we can simplify any exponent on by learning just the following four values:   Cyclic Property of Powers of                    When performing operations (add, subtract, multilpy, divide) we can handle i just like we handle any other variable. This means when adding and subtracting complex numbers we simply add or combine like terms.     It is important to notice what operation we are doing. Students often see the parenthesis and think that means FOIL. We only use FOIL to multiply. This problem is an addition problem so we simply add the terms, or combine like terms.  For subtraction problems the idea is the same, we need to remember to first distribute the negative onto all the terms in the parentheses.     Addition and subtraction can be combined into one problem.     Multiplying with complex numbers is the same as multiplying with variables with one exception, we will want to simplify our final answer so there are no exponents on .              Remember when squaring a binomial we either have to FOIL or use our shortcut to square the first, twice the product and square the last. The next example uses the shortcut.     Dividing with complex numbers also has one thing we need to be careful of. If is , and it is in the denominator of a fraction, then we have a radical in the denominator! This means we will want to rationalize our denominator so there are no ’s. This is done the same way we rationalized denominators with square roots.     The solution for these problems can be written several different ways, for example or . The author has elected to use the solution as written, but it is important to express your answer in the form your instructor prefers.     Using we can simplify radicals with negatives under the root. We will use the product rule and simplify the negative as a factor of negative one. This is shown in the following examples.        When simplifying complex radicals it is important that we take the out of the radical (as an ) before we combine radicals.     If there are fractions, we need to make sure to reduce each term by the same number. This is shown in the following example.     By using we will be able to simplify and solve problems that we could not simplify and solve before. This will be explored in more detail in a later section.   Exercises - Complex Numbers    Simplify.                                                                                                                                                                                                                                                                                                                                                                 "
 },
 {
   "id": "radicals-complex-numbers-8",
@@ -24703,7 +24703,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-3",
@@ -24712,7 +24712,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-4",
@@ -24721,7 +24721,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-5",
@@ -24730,7 +24730,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-6",
@@ -24739,7 +24739,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-7",
@@ -24748,7 +24748,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-8",
@@ -24757,7 +24757,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-9",
@@ -24766,7 +24766,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-10",
@@ -24775,7 +24775,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-11",
@@ -24784,7 +24784,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-12",
@@ -24793,7 +24793,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-13",
@@ -24802,7 +24802,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-14",
@@ -24811,7 +24811,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-15",
@@ -24820,7 +24820,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-16",
@@ -24829,7 +24829,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-17",
@@ -24838,7 +24838,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-18",
@@ -24847,7 +24847,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-19",
@@ -24856,7 +24856,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-20",
@@ -24865,7 +24865,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-21",
@@ -24874,7 +24874,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-22",
@@ -24883,7 +24883,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-23",
@@ -24892,7 +24892,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-24",
@@ -24901,7 +24901,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-25",
@@ -24910,7 +24910,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-26",
@@ -24919,7 +24919,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-27",
@@ -24928,7 +24928,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-28",
@@ -24937,7 +24937,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-29",
@@ -24946,7 +24946,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-30",
@@ -24955,7 +24955,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-31",
@@ -24964,7 +24964,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-32",
@@ -24973,7 +24973,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-33",
@@ -24982,7 +24982,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-34",
@@ -24991,7 +24991,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-35",
@@ -25000,7 +25000,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-36",
@@ -25009,7 +25009,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-37",
@@ -25018,7 +25018,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-38",
@@ -25027,7 +25027,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-39",
@@ -25036,7 +25036,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-40",
@@ -25045,7 +25045,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-41",
@@ -25054,7 +25054,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-42",
@@ -25063,7 +25063,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.41",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-43",
@@ -25072,7 +25072,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.42",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-44",
@@ -25081,7 +25081,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.43",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-45",
@@ -25090,7 +25090,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.44",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-46",
@@ -25099,7 +25099,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.45",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-47",
@@ -25108,7 +25108,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.46",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-48",
@@ -25117,7 +25117,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.47",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-49",
@@ -25126,7 +25126,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.48",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-50",
@@ -25135,7 +25135,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.49",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-51",
@@ -25144,7 +25144,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.50",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-52",
@@ -25153,7 +25153,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.51",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-53",
@@ -25162,7 +25162,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.52",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-54",
@@ -25171,7 +25171,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.53",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-55",
@@ -25180,7 +25180,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.54",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-56",
@@ -25189,7 +25189,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.55",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-57",
@@ -25198,7 +25198,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.56",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-58",
@@ -25207,7 +25207,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.57",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complex-numbers-2-59",
@@ -25216,7 +25216,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.58",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "quadratics-solving-with-radicals",
@@ -25225,7 +25225,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.1",
   "title": "Solving with Radicals",
-  "body": " Solving with Radicals   Objective: Solve equations with radicals and check for extraneous solutions.   Here we look at equations that have roots in the problem. As you might expect, to clear a root we can raise both sides to an exponent. So to clear a square root we can rise both sides to the second power. To clear a cubed root we can raise both sides to a third power. There is one catch to solving a problem with roots in it, sometimes we end up with solutions that do not actually work in the equation. This will only happen if the index on the root is even, and it will not happen all the time. So for these problems it will be required that we check our answer in the original problem. If a value does not work it is called an extraneous solution and not included in the final solution.          In this example one can also notice at the very beginning that in the left hand side is always nonnegative, no mater what the value of is, hence it will never be equal to the righ hand side .  If the radical is not alone on one side of the equation we will have to solve for the radical before we raise it to an exponent     The above example illustrates that as we solve we could end up with an term or a quadratic. In this case we remember to set the equation to zero and solve by factoring. We will have to check both solutions if the index in the problem was even. Sometimes both values work, sometimes only one, and sometimes neither works   World View Note: The babylonians were the first known culture to solve quadratics in radicals - as early as BC!  If there is more than one square root in a problem we will clear the roots one at a time. This means we must first isolate one of them before we square both sides.     When there is more than one square root in the problem, after isolating one root and squaring both sides we may still have a root remaining in the problem. In this case we will again isolate the term with the second root and square both sides. When isolating, we will isolate the term with the square root. This means the square root can be multiplied by a number after isolating.         Exercises - Solving with Radicals    Solve.                                                                                     "
+  "body": " Solving with Radicals   Objective: Solve equations with radicals and check for extraneous solutions.   Here we look at equations that have roots in the problem. As you might expect, to clear a root we can raise both sides to an exponent. So to clear a square root we can rise both sides to the second power. To clear a cubed root we can raise both sides to a third power. There is one catch to solving a problem with roots in it, sometimes we end up with solutions that do not actually work in the equation. This will only happen if the index on the root is even, and it will not happen all the time. So for these problems it will be required that we check our answer in the original problem. If a value does not work it is called an extraneous solution and not included in the final solution.          In this example one can also notice at the very beginning that in the left hand side is always nonnegative, no mater what the value of is, hence it will never be equal to the righ hand side .  If the radical is not alone on one side of the equation we will have to solve for the radical before we raise it to an exponent     The above example illustrates that as we solve we could end up with an term or a quadratic. In this case we remember to set the equation to zero and solve by factoring. We will have to check both solutions if the index in the problem was even. Sometimes both values work, sometimes only one, and sometimes neither works   World View Note: The babylonians were the first known culture to solve quadratics in radicals - as early as BC!  If there is more than one square root in a problem we will clear the roots one at a time. This means we must first isolate one of them before we square both sides.     When there is more than one square root in the problem, after isolating one root and squaring both sides we may still have a root remaining in the problem. In this case we will again isolate the term with the second root and square both sides. When isolating, we will isolate the term with the square root. This means the square root can be multiplied by a number after isolating.         Exercises - Solving with Radicals    Solve.                                                                                                     "
 },
 {
   "id": "quadratics-solving-with-radicals-5",
@@ -25297,7 +25297,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.1.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-solving-with-radiacals-2-3",
@@ -25306,7 +25306,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.1.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-solving-with-radiacals-2-4",
@@ -25315,7 +25315,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.1.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-solving-with-radiacals-2-5",
@@ -25324,7 +25324,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.1.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-solving-with-radiacals-2-6",
@@ -25333,7 +25333,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.1.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-solving-with-radiacals-2-7",
@@ -25342,7 +25342,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.1.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-solving-with-radiacals-2-8",
@@ -25351,7 +25351,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.1.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-solving-with-radiacals-2-9",
@@ -25360,7 +25360,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.1.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-solving-with-radiacals-2-10",
@@ -25369,7 +25369,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.1.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-solving-with-radiacals-2-11",
@@ -25378,7 +25378,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.1.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-solving-with-radiacals-2-12",
@@ -25387,7 +25387,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.1.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-solving-with-radiacals-2-13",
@@ -25396,7 +25396,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.1.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-solving-with-radiacals-2-14",
@@ -25405,7 +25405,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.1.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-solving-with-radiacals-2-15",
@@ -25414,7 +25414,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.1.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-solving-with-radiacals-2-16",
@@ -25423,7 +25423,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.1.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-solving-with-radiacals-2-17",
@@ -25432,7 +25432,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.1.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "quadratics-solving-with-exponents",
@@ -25441,7 +25441,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.2",
   "title": "Solving with Exponents",
-  "body": " Solving with Exponents   Objective: Solve equations with exponents using the odd root property and the even root property.   Another type of equation we can solve is one with exponents. As you might expect we can clear exponents by using roots. This is done with very few unex- pected results when the exponent is odd. We solve these problems very straight forward using the odd root property      However, when the exponent is even we will have two results from taking an even root of both sides. One will be positive and one will be negative. This is because both and . So when solving we will have two solutions, one positive and one negative: and .       World View Note: In , French Mathematicain Gerolamo Cardano published his book The Great Art, or the Rules of Algebra which included the solution of an equation with a fourth power, but it was considered absurd by many to take a quantity to the fourth power because there are only three dimensions!     In the previous example we needed two equations to simplify because when we took the root, our solutions were two rational numbers, and . If the roots did not simplify to rational numbers we can keep the in the equation.     When solving with exponents, it is important to first isolate the part with the exponent before taking any roots.        When our exponents are a fraction we will need to first convert the fractional exponent into a radical expression to solve. Recall that . Once we have done this we can clear the exponent using either the even or odd root property. Then we can clear the radical by raising both sides to an exponent (remember to check answers if the index is even).        With rational exponents it is very helpful to convert to radical form to be able to see if we need a because we used the even root property, or to see if we need to check our answer because there was an even root in the problem. When checking we will usually want to check in the radical form as it will be easier to evaluate.   Exercises - Solving with Exponents    Solve                                                                                                                             "
+  "body": " Solving with Exponents   Objective: Solve equations with exponents using the odd root property and the even root property.   Another type of equation we can solve is one with exponents. As you might expect we can clear exponents by using roots. This is done with very few unex- pected results when the exponent is odd. We solve these problems very straight forward using the odd root property      However, when the exponent is even we will have two results from taking an even root of both sides. One will be positive and one will be negative. This is because both and . So when solving we will have two solutions, one positive and one negative: and .       World View Note: In , French Mathematicain Gerolamo Cardano published his book The Great Art, or the Rules of Algebra which included the solution of an equation with a fourth power, but it was considered absurd by many to take a quantity to the fourth power because there are only three dimensions!     In the previous example we needed two equations to simplify because when we took the root, our solutions were two rational numbers, and . If the roots did not simplify to rational numbers we can keep the in the equation.     When solving with exponents, it is important to first isolate the part with the exponent before taking any roots.        When our exponents are a fraction we will need to first convert the fractional exponent into a radical expression to solve. Recall that . Once we have done this we can clear the exponent using either the even or odd root property. Then we can clear the radical by raising both sides to an exponent (remember to check answers if the index is even).        With rational exponents it is very helpful to convert to radical form to be able to see if we need a because we used the even root property, or to see if we need to check our answer because there was an even root in the problem. When checking we will usually want to check in the radical form as it will be easier to evaluate.   Exercises - Solving with Exponents    Solve                                                                                                                                                     "
 },
 {
   "id": "quadratics-solving-with-exponents-5",
@@ -25522,7 +25522,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-3",
@@ -25531,7 +25531,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-4",
@@ -25540,7 +25540,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-5",
@@ -25549,7 +25549,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-6",
@@ -25558,7 +25558,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-7",
@@ -25567,7 +25567,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-8",
@@ -25576,7 +25576,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-9",
@@ -25585,7 +25585,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-10",
@@ -25594,7 +25594,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-11",
@@ -25603,7 +25603,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-12",
@@ -25612,7 +25612,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-13",
@@ -25621,7 +25621,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-14",
@@ -25630,7 +25630,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-15",
@@ -25639,7 +25639,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-16",
@@ -25648,7 +25648,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-17",
@@ -25657,7 +25657,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-18",
@@ -25666,7 +25666,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-19",
@@ -25675,7 +25675,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-20",
@@ -25684,7 +25684,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-21",
@@ -25693,7 +25693,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-22",
@@ -25702,7 +25702,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-23",
@@ -25711,7 +25711,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-24",
@@ -25720,7 +25720,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-solving-with-exponents-2-25",
@@ -25729,7 +25729,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.2.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "quadratics-complete-the-square",
@@ -25738,7 +25738,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.3",
   "title": "Complete the Square",
-  "body": " Complete the Square   Objective: Solve quadratic equations by completing the square.   When solving quadratic equations in the past we have used factoring to solve for our variable. This is exactly what is done in the next example.     However, the problem with factoring is all equations cannot be factored. Consider the following equation: . The equation cannot be factored, however there are two solutions to this equation, and . To find these two solutions we will use a method known as completing the square. When completing the square we will change the quadratic into a perfect square which can easily be solved with the square root property. The next example reviews the square root property.     To complete the square, or make our problem into the form of the previous example, we will be searching for the third term in a trinomial. If a quadratic is of the form , and a perfect square, the third term, , can be easily found by the formula . This is shown in the following examples, where we find the number that completes the square and then factor the perfect square.           The process in the previous examples, combined with the even root property, is used to solve quadratic equations by completing the square. The following five steps describe the process used to complete the square, along with an example to demonstrate each step.     Problem      Separate constant term from variables       Divide each term by a    Find value to complete the square:     Add to both sides of equation     Factor     Solve by even root property       World View Note: The Chinese in BC were the first known culture group to use a method similar to completing the square, but their method was only used to calculate positive roots.  The advantage of this method is it can be used to solve any quadratic equation. The following examples show how completing the square can give us rational solu- tions, irrational solutions, and even complex solutions.           As several of the examples have shown, when solving by completing the square we will often need to use fractions and be comfortable finding common denominators and adding fractions together. Once we get comfortable solving by completing the square and using the five steps, any quadratic equation can be easily solved.   Exercises - Complete the Square    Find the value that completes the square and then rewrite as a perfect square.                                              Solve each equation by completing the square.                                                                                                                                                                                                                                                     "
+  "body": " Complete the Square   Objective: Solve quadratic equations by completing the square.   When solving quadratic equations in the past we have used factoring to solve for our variable. This is exactly what is done in the next example.     However, the problem with factoring is all equations cannot be factored. Consider the following equation: . The equation cannot be factored, however there are two solutions to this equation, and . To find these two solutions we will use a method known as completing the square. When completing the square we will change the quadratic into a perfect square which can easily be solved with the square root property. The next example reviews the square root property.     To complete the square, or make our problem into the form of the previous example, we will be searching for the third term in a trinomial. If a quadratic is of the form , and a perfect square, the third term, , can be easily found by the formula . This is shown in the following examples, where we find the number that completes the square and then factor the perfect square.           The process in the previous examples, combined with the even root property, is used to solve quadratic equations by completing the square. The following five steps describe the process used to complete the square, along with an example to demonstrate each step.     Problem      Separate constant term from variables       Divide each term by a    Find value to complete the square:     Add to both sides of equation     Factor     Solve by even root property       World View Note: The Chinese in BC were the first known culture group to use a method similar to completing the square, but their method was only used to calculate positive roots.  The advantage of this method is it can be used to solve any quadratic equation. The following examples show how completing the square can give us rational solu- tions, irrational solutions, and even complex solutions.           As several of the examples have shown, when solving by completing the square we will often need to use fractions and be comfortable finding common denominators and adding fractions together. Once we get comfortable solving by completing the square and using the five steps, any quadratic equation can be easily solved.   Exercises - Complete the Square    Find the value that completes the square and then rewrite as a perfect square.                                                      Solve each equation by completing the square.                                                                                                                                                                                                                                                                                                     "
 },
 {
   "id": "quadratics-complete-the-square-4",
@@ -25819,7 +25819,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-2-3",
@@ -25828,7 +25828,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-2-4",
@@ -25837,7 +25837,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-2-5",
@@ -25846,7 +25846,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-2-6",
@@ -25855,7 +25855,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-2-7",
@@ -25864,7 +25864,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-2-8",
@@ -25873,7 +25873,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-2-9",
@@ -25882,7 +25882,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-2",
@@ -25891,7 +25891,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-3",
@@ -25900,7 +25900,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-4",
@@ -25909,7 +25909,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-5",
@@ -25918,7 +25918,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-6",
@@ -25927,7 +25927,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-7",
@@ -25936,7 +25936,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-8",
@@ -25945,7 +25945,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-9",
@@ -25954,7 +25954,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-10",
@@ -25963,7 +25963,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-11",
@@ -25972,7 +25972,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-12",
@@ -25981,7 +25981,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-13",
@@ -25990,7 +25990,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-14",
@@ -25999,7 +25999,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-15",
@@ -26008,7 +26008,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-16",
@@ -26017,7 +26017,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-17",
@@ -26026,7 +26026,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-18",
@@ -26035,7 +26035,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-19",
@@ -26044,7 +26044,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-20",
@@ -26053,7 +26053,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-21",
@@ -26062,7 +26062,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-22",
@@ -26071,7 +26071,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-23",
@@ -26080,7 +26080,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-24",
@@ -26089,7 +26089,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-25",
@@ -26098,7 +26098,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-26",
@@ -26107,7 +26107,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-27",
@@ -26116,7 +26116,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-28",
@@ -26125,7 +26125,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-29",
@@ -26134,7 +26134,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-30",
@@ -26143,7 +26143,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-31",
@@ -26152,7 +26152,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-32",
@@ -26161,7 +26161,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-33",
@@ -26170,7 +26170,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-34",
@@ -26179,7 +26179,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.41",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-35",
@@ -26188,7 +26188,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.42",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-36",
@@ -26197,7 +26197,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.43",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-37",
@@ -26206,7 +26206,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.44",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-38",
@@ -26215,7 +26215,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.45",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-39",
@@ -26224,7 +26224,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.46",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-40",
@@ -26233,7 +26233,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.47",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-41",
@@ -26242,7 +26242,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.48",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-42",
@@ -26251,7 +26251,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.49",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-43",
@@ -26260,7 +26260,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.50",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-44",
@@ -26269,7 +26269,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.51",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-45",
@@ -26278,7 +26278,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.52",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-46",
@@ -26287,7 +26287,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.53",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-47",
@@ -26296,7 +26296,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.54",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-48",
@@ -26305,7 +26305,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.55",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-complete-the-square-3-49",
@@ -26314,7 +26314,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.56",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "quadratics-quadratic-formula",
@@ -26323,7 +26323,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.4",
   "title": "Quadratic Formula",
-  "body": " Quadratic Formula   Objective: Solve quadratic equations by using the quadratic formula.   The general from of a quadratic is . We will now solve this formula for by completing the square.     This solution is a very important one to us. As we solved a general equation by completing the square, we can use this formula to solve any quadratic equation. Once we identify what a, b, and c are in the quadratic, we can substitute those values into and we will get our two solutions. This formula is known as the quadratic fromula.    World View Note: Indian mathematician Brahmagupta gave the first explicit formula for solving quadratics in . However, at that time mathematics was not done with variables and symbols, so the formula he gave was, \"To the absolute number multiplied by four times the square, add the square of the middle term; the square root of the same, less the middle term, being divided by twice the square is the value.\" This would translate to as the solution to the equation   We can use the quadratic formula to solve any quadratic, this is shown in the following examples.     As we are solving using the quadratic formula, it is important to remember the equation must fist be equal to zero.        When we use the quadratic formula we don’t necessarily get two unique answers. We can end up with only one solution if the square root simplifies to zero.     If a term is missing from the quadratic, we can still solve with the quadratic formula, we simply use zero for that term. The order is important, so if the term with is missing, we have , if the constant term is missing, we have .     We have covered three different methods to use to solve a quadratic: factoring, complete the square, and the quadratic formula. It is important to be familiar with all three as each has its advantage to solving quadratics. The following table walks through a suggested process to decide which method would be best to use for solving a problem.     If it can easily factor, solve by factoring       If and is even, complete the square    Otherwise, solve by the quadratic formula      The above table is mearly a suggestion for deciding how to solve a quadtratic. Remember completing the square and quadratic formula will always work to solve any quadratic. Factoring only woks if the equation can be factored.   Exercises - Quadratic Formula    Solve each equation with the quadratic formula.                                                                                                                                                                     "
+  "body": " Quadratic Formula   Objective: Solve quadratic equations by using the quadratic formula.   The general from of a quadratic is . We will now solve this formula for by completing the square.     This solution is a very important one to us. As we solved a general equation by completing the square, we can use this formula to solve any quadratic equation. Once we identify what a, b, and c are in the quadratic, we can substitute those values into and we will get our two solutions. This formula is known as the quadratic fromula.    World View Note: Indian mathematician Brahmagupta gave the first explicit formula for solving quadratics in . However, at that time mathematics was not done with variables and symbols, so the formula he gave was, \"To the absolute number multiplied by four times the square, add the square of the middle term; the square root of the same, less the middle term, being divided by twice the square is the value.\" This would translate to as the solution to the equation   We can use the quadratic formula to solve any quadratic, this is shown in the following examples.     As we are solving using the quadratic formula, it is important to remember the equation must fist be equal to zero.        When we use the quadratic formula we don’t necessarily get two unique answers. We can end up with only one solution if the square root simplifies to zero.     If a term is missing from the quadratic, we can still solve with the quadratic formula, we simply use zero for that term. The order is important, so if the term with is missing, we have , if the constant term is missing, we have .     We have covered three different methods to use to solve a quadratic: factoring, complete the square, and the quadratic formula. It is important to be familiar with all three as each has its advantage to solving quadratics. The following table walks through a suggested process to decide which method would be best to use for solving a problem.     If it can easily factor, solve by factoring       If and is even, complete the square    Otherwise, solve by the quadratic formula      The above table is mearly a suggestion for deciding how to solve a quadtratic. Remember completing the square and quadratic formula will always work to solve any quadratic. Factoring only woks if the equation can be factored.   Exercises - Quadratic Formula    Solve each equation with the quadratic formula.                                                                                                                                                                                                             "
 },
 {
   "id": "quadratics-quadratic-formula-4",
@@ -26386,7 +26386,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.1",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-3",
@@ -26395,7 +26395,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.2",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-4",
@@ -26404,7 +26404,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.3",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-5",
@@ -26413,7 +26413,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.4",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-6",
@@ -26422,7 +26422,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.5",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-7",
@@ -26431,7 +26431,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.6",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-8",
@@ -26440,7 +26440,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.7",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-9",
@@ -26449,7 +26449,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.8",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-10",
@@ -26458,7 +26458,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.9",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-11",
@@ -26467,7 +26467,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.10",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-12",
@@ -26476,7 +26476,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.11",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-13",
@@ -26485,7 +26485,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.12",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-14",
@@ -26494,7 +26494,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.13",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-15",
@@ -26503,7 +26503,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.14",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-16",
@@ -26512,7 +26512,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.15",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-17",
@@ -26521,7 +26521,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.16",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-18",
@@ -26530,7 +26530,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.17",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-19",
@@ -26539,7 +26539,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.18",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-20",
@@ -26548,7 +26548,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.19",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-21",
@@ -26557,7 +26557,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.20",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-22",
@@ -26566,7 +26566,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.21",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-23",
@@ -26575,7 +26575,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.22",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-24",
@@ -26584,7 +26584,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.23",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-25",
@@ -26593,7 +26593,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.24",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-26",
@@ -26602,7 +26602,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.25",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-27",
@@ -26611,7 +26611,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.26",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-28",
@@ -26620,7 +26620,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.27",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-29",
@@ -26629,7 +26629,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.28",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-30",
@@ -26638,7 +26638,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.29",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-31",
@@ -26647,7 +26647,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.30",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-32",
@@ -26656,7 +26656,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.31",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-33",
@@ -26665,7 +26665,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.32",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-34",
@@ -26674,7 +26674,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.33",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-35",
@@ -26683,7 +26683,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.34",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-36",
@@ -26692,7 +26692,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.35",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-37",
@@ -26701,7 +26701,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.36",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-38",
@@ -26710,7 +26710,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.37",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-39",
@@ -26719,7 +26719,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.38",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-40",
@@ -26728,7 +26728,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.39",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-quadratic-formula-2-41",
@@ -26737,7 +26737,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.4.40",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "quadratics-build-from-roots",
@@ -26746,7 +26746,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.5",
   "title": "Build Quadratics From Roots",
-  "body": " Build Quadratics From Roots   Objective: Find a quadratic equation that has given roots using reverse factoring and reverse completing the square.   Up to this point we have found the solutions to quadratics by a method such as factoring or completing the square. Here we will take our solutions and work backwards to find what quadratic goes with the solutions.  We will start with rational solutions. If we have rational solutions we can use factoring in reverse, we will set each solution equal to x and then make the equation equal to zero by adding or subtracting. Once we have done this our expressions will become the factors of the quadratic.     If one or both of the solutions are fractions we will clear the fractions by multiplying by the denominators.     If the solutions have radicals (or complex numbers) then we cannot use reverse factoring. In these cases we will use reverse completing the square. When there are radicals the solutions will always come in pairs, one with a plus, one with a minus, that can be combined into “one” solution using . We will then set this solution equal to and square both sides. This will clear the radical from our problem.     We may have to isolate the term with the square root (with plus or minus) by adding or subtracting. With these problems, remember to square a binomial we use the formula       World View Note: Before the quadratic formula, before completing the square, before factoring, quadratics were solved geometrically by the Greeks as early as BC! In Omar Khayyam, a Persian mathematician solved cubic equations geometrically!  If the solution is a fraction we will clear it just as before by multiplying by the denominator.     The process used for complex solutions is identical to the process used for radicals.         Exercises - Build Quadratics from Roots    From each problem, find a quadratic equation with those numbers as its solutions.                                                                                                                                                                                                             "
+  "body": " Build Quadratics From Roots   Objective: Find a quadratic equation that has given roots using reverse factoring and reverse completing the square.   Up to this point we have found the solutions to quadratics by a method such as factoring or completing the square. Here we will take our solutions and work backwards to find what quadratic goes with the solutions.  We will start with rational solutions. If we have rational solutions we can use factoring in reverse, we will set each solution equal to x and then make the equation equal to zero by adding or subtracting. Once we have done this our expressions will become the factors of the quadratic.     If one or both of the solutions are fractions we will clear the fractions by multiplying by the denominators.     If the solutions have radicals (or complex numbers) then we cannot use reverse factoring. In these cases we will use reverse completing the square. When there are radicals the solutions will always come in pairs, one with a plus, one with a minus, that can be combined into “one” solution using . We will then set this solution equal to and square both sides. This will clear the radical from our problem.     We may have to isolate the term with the square root (with plus or minus) by adding or subtracting. With these problems, remember to square a binomial we use the formula       World View Note: Before the quadratic formula, before completing the square, before factoring, quadratics were solved geometrically by the Greeks as early as BC! In Omar Khayyam, a Persian mathematician solved cubic equations geometrically!  If the solution is a fraction we will clear it just as before by multiplying by the denominator.     The process used for complex solutions is identical to the process used for radicals.         Exercises - Build Quadratics from Roots    From each problem, find a quadratic equation with those numbers as its solutions.                                                                                                                                                                                                                                                     "
 },
 {
   "id": "quadratics-build-from-roots-5",
@@ -26818,7 +26818,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-3",
@@ -26827,7 +26827,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-4",
@@ -26836,7 +26836,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-5",
@@ -26845,7 +26845,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-6",
@@ -26854,7 +26854,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-7",
@@ -26863,7 +26863,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-8",
@@ -26872,7 +26872,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-9",
@@ -26881,7 +26881,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-10",
@@ -26890,7 +26890,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-11",
@@ -26899,7 +26899,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-12",
@@ -26908,7 +26908,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-13",
@@ -26917,7 +26917,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-14",
@@ -26926,7 +26926,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-15",
@@ -26935,7 +26935,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-16",
@@ -26944,7 +26944,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-17",
@@ -26953,7 +26953,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-18",
@@ -26962,7 +26962,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-19",
@@ -26971,7 +26971,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-20",
@@ -26980,7 +26980,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-21",
@@ -26989,7 +26989,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-22",
@@ -26998,7 +26998,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-23",
@@ -27007,7 +27007,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-24",
@@ -27016,7 +27016,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-25",
@@ -27025,7 +27025,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-26",
@@ -27034,7 +27034,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-27",
@@ -27043,7 +27043,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-28",
@@ -27052,7 +27052,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-29",
@@ -27061,7 +27061,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-30",
@@ -27070,7 +27070,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-31",
@@ -27079,7 +27079,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-32",
@@ -27088,7 +27088,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-33",
@@ -27097,7 +27097,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-34",
@@ -27106,7 +27106,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-35",
@@ -27115,7 +27115,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-36",
@@ -27124,7 +27124,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-37",
@@ -27133,7 +27133,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-38",
@@ -27142,7 +27142,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-39",
@@ -27151,7 +27151,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-40",
@@ -27160,7 +27160,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-from-roots-2-41",
@@ -27169,7 +27169,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.5.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "quadratics-quadratic-in-form",
@@ -27655,7 +27655,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.7",
   "title": "Quadratics - Rectangles",
-  "body": " Quadratics - Rectangles   Objective:Solve applications of quadratic equations using rectangles.   An application of solving quadratic equations comes from the formula for the area of a rectangle. The area of a rectangle can be calculated by multiplying the width by the length. To solve problems with rectangles we will first draw a picture to represent the problem and use the picture to set up our equation.     The above rectangle problem is very simple as there is only one rectangle involved. When we compare two rectangles, we may have to get a bit more creative.   If each side of a square is increased by , the area is multiplied by . Find the side of the original square.     The length of a rectangle is ft greater than the width. If each dimension is increased by , the new area will be square feet larger. Find the dimensions of the original rectangle.    From one rectangle we can find two equations. Perimeter is found by adding all the sides of a polygon together. A rectangle has two widths and two lengths, both the same size. So we can use the equation (twice the length plus twice the width).   The area of a rectangle is . The perimeter of the same rectangle is . What are the dimensions of the rectangle?     World View Note: Indian mathematical records from the 9th century demonstrate that their civilization had worked extensively in geometry creating religious alters of various shapes including rectangles.  Another type of rectangle problem is what we will call a “frame problem”. The idea behind a frame problem is that a rectangle, such as a photograph, is centered inside another rectangle, such as a frame. In these cases, it will be important to remember that the frame extends on all sides of the rectangle. This is shown in the following example.   An in by in picture has a frame of uniform width around it. The area of the frame is equal to the area of the picture. What is the width of the frame?     A farmer has a field that is rods by rods. He is mowing the field in a spiral pattern, starting from the outside and working in towards the center. After an hour of work, of the field is left uncut. What is the size of the ring cut around the outside?    For each of the frame problems above we could have also completed the square or use the quadratic formula to solve the trinomials. Remember that completing the square or the quadratic formula always will work when solving, however, factoring only works if we can factor the trinomial.   Exercises - Rectangles   In a landscape plan, a rectangular flowerbed is designed to be meters longer than it is wide. If square meters are needed for the plants in the bed, what should the dimensions of the rectangular bed be?    If the side of a square is increased by the area is multiplied by . Find the side of the original square.    A rectangular lot is yards longer than it is wide and its area is square yards. Find the dimensions of the lot.    The length of a room is ft greater than it is width. If each dimension is increased by ft, the area will be increased by sq. ft. Find the dimensions of the rooms.    The length of a rectangular lot is rods greater than its width, and its area is square rods. Find the dimensions of the lot.    The length of a rectangle is ft greater than its width. If each dimension is decreased by ft, the area will be decreased by . Find the dimensions.    A rectangular piece of paper is twice as long as a square piece and inches wider. The area of the rectangular piece is . Find the dimensions of the square piece.    A room is one yard longer than it is wide. At cents per sq. yd. a covering for the floor costs . Find the dimensions of the floor.    The area of a rectangle is and its perimeter is ft. Find its length and width.    The dimensions of a picture inside a frame of uniform width are by inches. If the whole area (picture and frame) is , what is the width of the frame?    A mirror inches by inches has a frame of uniform width. If the area of the frame equals that of the mirror, what is the width of the frame.    A lawn is ft by ft. How wide a strip must be cut around it when mowing the grass to have cut half of it.    A grass plot yards long and yards wide has a path of uniform width around it. If the area of the path is equal to the area of the plot, determine the width of the path.    A landscape architect is designing a rectangular flowerbed to be border with plants that are placed meter apart. He needs an inner rectangular space in the center for plants that must be meter from the border of the bed and that require square meters for planting. What should the overall dimensions of the flowerbed be?    A page is to have a margin of inch, and is to contain of painting. How large must the page be if the length is to exceed the width by inches?    A picture inches long by inches wide has a frame whose area is one half the area of the picture. What are the outside dimensions of the frame?    A rectangular wheat field is rods long by rods wide. A strip of uniform width is cut around the field, so that half the grain is left standing in the form of a rectangular plot. How wide is the strip that is cut?    A picture inches by inches is placed in a frame of uniform width. If the area of the frame equals the area of the picture find the width of the frame.    A rectangular field ft by ft has a ring of uniform width cut around the outside edge. The ring leaves of the field uncut in the center. What is the width of the ring?    One Saturday morning George goes out to cut his lot that is ft by ft. He starts cutting around the outside boundary spiraling around towards the center. By noon he has cut of the lawn. What is the width of the ring that he has cut?    A frame is in by in and is of uniform width. The inside of the frame leaves of the total area available for the picture. What is the width of the frame?    A farmer has a field ft by ft. He wants to increase the area of the field by by cultivating a band of uniform width around the outside. How wide a band should he cultivate?    The farmer in the previous problem has a neighbor who has a field ft by ft. His neighbor wants to increase the size of his field by by cultivating a band of uniform width around the outside of his lot. How wide a band should his neighbor cultivate?    A third farmer has a field that is ft by ft. He wants to increase his field by . How wide a ring should he cultivate around the outside of his field?    Donna has a garden that is ft by ft. She wants to increase the size of the garden by . How wide a ring around the outside should she cultivate?    A picture is in by in and is surrounded by a frame of uniform width. The area of the frame is of the area of the picture. How wide is the frame?    "
+  "body": " Quadratics - Rectangles   Objective:Solve applications of quadratic equations using rectangles.   An application of solving quadratic equations comes from the formula for the area of a rectangle. The area of a rectangle can be calculated by multiplying the width by the length. To solve problems with rectangles we will first draw a picture to represent the problem and use the picture to set up our equation.     The above rectangle problem is very simple as there is only one rectangle involved. When we compare two rectangles, we may have to get a bit more creative.   If each side of a square is increased by , the area is multiplied by . Find the side of the original square.     The length of a rectangle is ft greater than the width. If each dimension is increased by , the new area will be square feet larger. Find the dimensions of the original rectangle.    From one rectangle we can find two equations. Perimeter is found by adding all the sides of a polygon together. A rectangle has two widths and two lengths, both the same size. So we can use the equation (twice the length plus twice the width).   The area of a rectangle is . The perimeter of the same rectangle is . What are the dimensions of the rectangle?     World View Note: Indian mathematical records from the 9th century demonstrate that their civilization had worked extensively in geometry creating religious alters of various shapes including rectangles.  Another type of rectangle problem is what we will call a “frame problem”. The idea behind a frame problem is that a rectangle, such as a photograph, is centered inside another rectangle, such as a frame. In these cases, it will be important to remember that the frame extends on all sides of the rectangle. This is shown in the following example.   An in by in picture has a frame of uniform width around it. The area of the frame is equal to the area of the picture. What is the width of the frame?     A farmer has a field that is rods by rods. He is mowing the field in a spiral pattern, starting from the outside and working in towards the center. After an hour of work, of the field is left uncut. What is the size of the ring cut around the outside?    For each of the frame problems above we could have also completed the square or use the quadratic formula to solve the trinomials. Remember that completing the square or the quadratic formula always will work when solving, however, factoring only works if we can factor the trinomial.   Exercises - Rectangles   In a landscape plan, a rectangular flowerbed is designed to be meters longer than it is wide. If square meters are needed for the plants in the bed, what should the dimensions of the rectangular bed be?     If the side of a square is increased by the area is multiplied by . Find the side of the original square.     A rectangular lot is yards longer than it is wide and its area is square yards. Find the dimensions of the lot.     The length of a room is ft greater than it is width. If each dimension is increased by ft, the area will be increased by sq. ft. Find the dimensions of the rooms.     The length of a rectangular lot is rods greater than its width, and its area is square rods. Find the dimensions of the lot.     The length of a rectangle is ft greater than its width. If each dimension is decreased by ft, the area will be decreased by . Find the dimensions.     A rectangular piece of paper is twice as long as a square piece and inches wider. The area of the rectangular piece is . Find the dimensions of the square piece.     A room is one yard longer than it is wide. At cents per sq. yd. a covering for the floor costs . Find the dimensions of the floor.     The area of a rectangle is and its perimeter is ft. Find its length and width.     The dimensions of a picture inside a frame of uniform width are by inches. If the whole area (picture and frame) is , what is the width of the frame?     A mirror inches by inches has a frame of uniform width. If the area of the frame equals that of the mirror, what is the width of the frame.     A lawn is ft by ft. How wide a strip must be cut around it when mowing the grass to have cut half of it.     A grass plot yards long and yards wide has a path of uniform width around it. If the area of the path is equal to the area of the plot, determine the width of the path.     A landscape architect is designing a rectangular flowerbed to be border with plants that are placed meter apart. He needs an inner rectangular space in the center for plants that must be meter from the border of the bed and that require square meters for planting. What should the overall dimensions of the flowerbed be?     A page is to have a margin of inch, and is to contain of painting. How large must the page be if the length is to exceed the width by inches?     A picture inches long by inches wide has a frame whose area is one half the area of the picture. What are the outside dimensions of the frame?     A rectangular wheat field is rods long by rods wide. A strip of uniform width is cut around the field, so that half the grain is left standing in the form of a rectangular plot. How wide is the strip that is cut?     A picture inches by inches is placed in a frame of uniform width. If the area of the frame equals the area of the picture find the width of the frame.     A rectangular field ft by ft has a ring of uniform width cut around the outside edge. The ring leaves of the field uncut in the center. What is the width of the ring?     One Saturday morning George goes out to cut his lot that is ft by ft. He starts cutting around the outside boundary spiraling around towards the center. By noon he has cut of the lawn. What is the width of the ring that he has cut?     A frame is in by in and is of uniform width. The inside of the frame leaves of the total area available for the picture. What is the width of the frame?     A farmer has a field ft by ft. He wants to increase the area of the field by by cultivating a band of uniform width around the outside. How wide a band should he cultivate?     The farmer in the previous problem has a neighbor who has a field ft by ft. His neighbor wants to increase the size of his field by by cultivating a band of uniform width around the outside of his lot. How wide a band should his neighbor cultivate?     A third farmer has a field that is ft by ft. He wants to increase his field by . How wide a ring should he cultivate around the outside of his field?     Donna has a garden that is ft by ft. She wants to increase the size of the garden by . How wide a ring around the outside should she cultivate?     A picture is in by in and is surrounded by a frame of uniform width. The area of the frame is of the area of the picture. How wide is the frame?     "
 },
 {
   "id": "quadratics-rectangles-4",
@@ -27718,7 +27718,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.1",
   "title": "",
-  "body": " In a landscape plan, a rectangular flowerbed is designed to be meters longer than it is wide. If square meters are needed for the plants in the bed, what should the dimensions of the rectangular bed be?  "
+  "body": " In a landscape plan, a rectangular flowerbed is designed to be meters longer than it is wide. If square meters are needed for the plants in the bed, what should the dimensions of the rectangular bed be?   "
 },
 {
   "id": "exercises-quadratics-rectangles-3",
@@ -27727,7 +27727,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.2",
   "title": "",
-  "body": " If the side of a square is increased by the area is multiplied by . Find the side of the original square.  "
+  "body": " If the side of a square is increased by the area is multiplied by . Find the side of the original square.   "
 },
 {
   "id": "exercises-quadratics-rectangles-4",
@@ -27736,7 +27736,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.3",
   "title": "",
-  "body": " A rectangular lot is yards longer than it is wide and its area is square yards. Find the dimensions of the lot.  "
+  "body": " A rectangular lot is yards longer than it is wide and its area is square yards. Find the dimensions of the lot.   "
 },
 {
   "id": "exercises-quadratics-rectangles-5",
@@ -27745,7 +27745,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.4",
   "title": "",
-  "body": " The length of a room is ft greater than it is width. If each dimension is increased by ft, the area will be increased by sq. ft. Find the dimensions of the rooms.  "
+  "body": " The length of a room is ft greater than it is width. If each dimension is increased by ft, the area will be increased by sq. ft. Find the dimensions of the rooms.   "
 },
 {
   "id": "exercises-quadratics-rectangles-6",
@@ -27754,7 +27754,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.5",
   "title": "",
-  "body": " The length of a rectangular lot is rods greater than its width, and its area is square rods. Find the dimensions of the lot.  "
+  "body": " The length of a rectangular lot is rods greater than its width, and its area is square rods. Find the dimensions of the lot.   "
 },
 {
   "id": "exercises-quadratics-rectangles-7",
@@ -27763,7 +27763,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.6",
   "title": "",
-  "body": " The length of a rectangle is ft greater than its width. If each dimension is decreased by ft, the area will be decreased by . Find the dimensions.  "
+  "body": " The length of a rectangle is ft greater than its width. If each dimension is decreased by ft, the area will be decreased by . Find the dimensions.   "
 },
 {
   "id": "exercises-quadratics-rectangles-8",
@@ -27772,7 +27772,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.7",
   "title": "",
-  "body": " A rectangular piece of paper is twice as long as a square piece and inches wider. The area of the rectangular piece is . Find the dimensions of the square piece.  "
+  "body": " A rectangular piece of paper is twice as long as a square piece and inches wider. The area of the rectangular piece is . Find the dimensions of the square piece.   "
 },
 {
   "id": "exercises-quadratics-rectangles-9",
@@ -27781,7 +27781,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.8",
   "title": "",
-  "body": " A room is one yard longer than it is wide. At cents per sq. yd. a covering for the floor costs . Find the dimensions of the floor.  "
+  "body": " A room is one yard longer than it is wide. At cents per sq. yd. a covering for the floor costs . Find the dimensions of the floor.   "
 },
 {
   "id": "exercises-quadratics-rectangles-10",
@@ -27790,7 +27790,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.9",
   "title": "",
-  "body": " The area of a rectangle is and its perimeter is ft. Find its length and width.  "
+  "body": " The area of a rectangle is and its perimeter is ft. Find its length and width.   "
 },
 {
   "id": "exercises-quadratics-rectangles-11",
@@ -27799,7 +27799,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.10",
   "title": "",
-  "body": " The dimensions of a picture inside a frame of uniform width are by inches. If the whole area (picture and frame) is , what is the width of the frame?  "
+  "body": " The dimensions of a picture inside a frame of uniform width are by inches. If the whole area (picture and frame) is , what is the width of the frame?   "
 },
 {
   "id": "exercises-quadratics-rectangles-12",
@@ -27808,7 +27808,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.11",
   "title": "",
-  "body": " A mirror inches by inches has a frame of uniform width. If the area of the frame equals that of the mirror, what is the width of the frame.  "
+  "body": " A mirror inches by inches has a frame of uniform width. If the area of the frame equals that of the mirror, what is the width of the frame.   "
 },
 {
   "id": "exercises-quadratics-rectangles-13",
@@ -27817,7 +27817,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.12",
   "title": "",
-  "body": " A lawn is ft by ft. How wide a strip must be cut around it when mowing the grass to have cut half of it.  "
+  "body": " A lawn is ft by ft. How wide a strip must be cut around it when mowing the grass to have cut half of it.   "
 },
 {
   "id": "exercises-quadratics-rectangles-14",
@@ -27826,7 +27826,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.13",
   "title": "",
-  "body": " A grass plot yards long and yards wide has a path of uniform width around it. If the area of the path is equal to the area of the plot, determine the width of the path.  "
+  "body": " A grass plot yards long and yards wide has a path of uniform width around it. If the area of the path is equal to the area of the plot, determine the width of the path.   "
 },
 {
   "id": "exercises-quadratics-rectangles-15",
@@ -27835,7 +27835,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.14",
   "title": "",
-  "body": " A landscape architect is designing a rectangular flowerbed to be border with plants that are placed meter apart. He needs an inner rectangular space in the center for plants that must be meter from the border of the bed and that require square meters for planting. What should the overall dimensions of the flowerbed be?  "
+  "body": " A landscape architect is designing a rectangular flowerbed to be border with plants that are placed meter apart. He needs an inner rectangular space in the center for plants that must be meter from the border of the bed and that require square meters for planting. What should the overall dimensions of the flowerbed be?   "
 },
 {
   "id": "exercises-quadratics-rectangles-16",
@@ -27844,7 +27844,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.15",
   "title": "",
-  "body": " A page is to have a margin of inch, and is to contain of painting. How large must the page be if the length is to exceed the width by inches?  "
+  "body": " A page is to have a margin of inch, and is to contain of painting. How large must the page be if the length is to exceed the width by inches?   "
 },
 {
   "id": "exercises-quadratics-rectangles-17",
@@ -27853,7 +27853,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.16",
   "title": "",
-  "body": " A picture inches long by inches wide has a frame whose area is one half the area of the picture. What are the outside dimensions of the frame?  "
+  "body": " A picture inches long by inches wide has a frame whose area is one half the area of the picture. What are the outside dimensions of the frame?   "
 },
 {
   "id": "exercises-quadratics-rectangles-18",
@@ -27862,7 +27862,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.17",
   "title": "",
-  "body": " A rectangular wheat field is rods long by rods wide. A strip of uniform width is cut around the field, so that half the grain is left standing in the form of a rectangular plot. How wide is the strip that is cut?  "
+  "body": " A rectangular wheat field is rods long by rods wide. A strip of uniform width is cut around the field, so that half the grain is left standing in the form of a rectangular plot. How wide is the strip that is cut?   "
 },
 {
   "id": "exercises-quadratics-rectangles-19",
@@ -27871,7 +27871,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.18",
   "title": "",
-  "body": " A picture inches by inches is placed in a frame of uniform width. If the area of the frame equals the area of the picture find the width of the frame.  "
+  "body": " A picture inches by inches is placed in a frame of uniform width. If the area of the frame equals the area of the picture find the width of the frame.   "
 },
 {
   "id": "exercises-quadratics-rectangles-20",
@@ -27880,7 +27880,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.19",
   "title": "",
-  "body": " A rectangular field ft by ft has a ring of uniform width cut around the outside edge. The ring leaves of the field uncut in the center. What is the width of the ring?  "
+  "body": " A rectangular field ft by ft has a ring of uniform width cut around the outside edge. The ring leaves of the field uncut in the center. What is the width of the ring?   "
 },
 {
   "id": "exercises-quadratics-rectangles-21",
@@ -27889,7 +27889,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.20",
   "title": "",
-  "body": " One Saturday morning George goes out to cut his lot that is ft by ft. He starts cutting around the outside boundary spiraling around towards the center. By noon he has cut of the lawn. What is the width of the ring that he has cut?  "
+  "body": " One Saturday morning George goes out to cut his lot that is ft by ft. He starts cutting around the outside boundary spiraling around towards the center. By noon he has cut of the lawn. What is the width of the ring that he has cut?   "
 },
 {
   "id": "exercises-quadratics-rectangles-22",
@@ -27898,7 +27898,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.21",
   "title": "",
-  "body": " A frame is in by in and is of uniform width. The inside of the frame leaves of the total area available for the picture. What is the width of the frame?  "
+  "body": " A frame is in by in and is of uniform width. The inside of the frame leaves of the total area available for the picture. What is the width of the frame?   "
 },
 {
   "id": "exercises-quadratics-rectangles-23",
@@ -27907,7 +27907,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.22",
   "title": "",
-  "body": " A farmer has a field ft by ft. He wants to increase the area of the field by by cultivating a band of uniform width around the outside. How wide a band should he cultivate?  "
+  "body": " A farmer has a field ft by ft. He wants to increase the area of the field by by cultivating a band of uniform width around the outside. How wide a band should he cultivate?   "
 },
 {
   "id": "exercises-quadratics-rectangles-24",
@@ -27916,7 +27916,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.23",
   "title": "",
-  "body": " The farmer in the previous problem has a neighbor who has a field ft by ft. His neighbor wants to increase the size of his field by by cultivating a band of uniform width around the outside of his lot. How wide a band should his neighbor cultivate?  "
+  "body": " The farmer in the previous problem has a neighbor who has a field ft by ft. His neighbor wants to increase the size of his field by by cultivating a band of uniform width around the outside of his lot. How wide a band should his neighbor cultivate?   "
 },
 {
   "id": "exercises-quadratics-rectangles-25",
@@ -27925,7 +27925,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.24",
   "title": "",
-  "body": " A third farmer has a field that is ft by ft. He wants to increase his field by . How wide a ring should he cultivate around the outside of his field?  "
+  "body": " A third farmer has a field that is ft by ft. He wants to increase his field by . How wide a ring should he cultivate around the outside of his field?   "
 },
 {
   "id": "exercises-quadratics-rectangles-26",
@@ -27934,7 +27934,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.25",
   "title": "",
-  "body": " Donna has a garden that is ft by ft. She wants to increase the size of the garden by . How wide a ring around the outside should she cultivate?  "
+  "body": " Donna has a garden that is ft by ft. She wants to increase the size of the garden by . How wide a ring around the outside should she cultivate?   "
 },
 {
   "id": "exercises-quadratics-rectangles-27",
@@ -27943,7 +27943,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.26",
   "title": "",
-  "body": " A picture is in by in and is surrounded by a frame of uniform width. The area of the frame is of the area of the picture. How wide is the frame?  "
+  "body": " A picture is in by in and is surrounded by a frame of uniform width. The area of the frame is of the area of the picture. How wide is the frame?   "
 },
 {
   "id": "quadratics-teamwork",
@@ -27952,7 +27952,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.8",
   "title": "Quadratics - Teamwork",
-  "body": " Quadratics - Teamwork   Objective: Solve teamwork problems by creating a rational equation to model the problem.   If it takes one person hours to paint a room and another person hours to paint the same room, working together they could paint the room even quicker, it turns out they would paint the room in hours together. This can be reasoned by the following logic, if the first person paints the room in hours, she paints of the room each hour. If the second person takes hours to paint the room, he paints of the room each hour. So together, each hour they paint of the room. Using a common denominator of gives: . This means each hour, working together they complete of the room. If is completed each hour, it follows that it will take hours to complete the entire room.  This pattern is used to solve teamwork problems. If the first person does a job in , a second person does a job in , and together they can do a job in (total). We can use the teamwork equation.   Often these problems will involve fractions. Rather than thinking of the first fraction as , it may be better to think of it as the reciprocal of ’s time.   World View Note: When the Egyptians, who were the first to work with fractions, wrote fractions, they were all unit fractions (numerator of one). They only used these type of fractions for about years! Some believe that this cumbersome style of using fractions was used for so long out of tradition, others believe the Egyptians had a way of thinking about and working with fractions that has been completely lost in history.   Adam can clean a room in hours. If his sister Maria helps, they can clean it in hours. How long will it take Maria to do the job alone?    Sometimes we only know how two people’s times are related to each other as in the next example.   Mike takes twice as long as Rachel to complete a project. Together they can complete the project in hours. How long will it take each of them to complete the project alone?    With problems such as these we will often end up with a quadratic to solve.   Brittney can build a large shed in days less than Cosmo can. If they built it together it would take them days. How long would it take each of them working alone?    In the previous example, when solving, one of the possible times ended up negative. We can’t have a negative amount of time to build a shed, so this possibility is ignored for this problem. Also, as we were solving, we had to factor . This may have been difficult to factor. We could have also chosen to complete the square or use the quadratic formula to find our solutions.  It is important that units match as we solve problems. This means we may have to convert minutes into hours to match the other units given in the problem.   An electrician can complete a job in one hour less than his apprentice. Together they do the job in hour and minutes. How long would it take each of them working alone?    Very similar to a teamwork problem is when the two involved parts are working against each other. A common example of this is a sink that is filled by a pipe and emptied by a drain. If they are working against each other we need to make one of the values negative to show they oppose each other. This is shown in the next example.   A sink can be filled by a pipe in minutes but it takes minutes to drain a full sink. If both the pipe and the drain are open, how long will it take to fill the sink?     Exercises - Teamwork   Bills father can paint a room in two hours less than Bill can paint it. Working together they can complete the job in two hours and minutes. How much time would each require working alone?    Of two inlet pipes, the smaller pipe takes four hours longer than the larger pipe to fill a pool. When both pipes are open, the pool is filled in three hours and forty-five minutes. If only the larger pipe is open, how many hours are required to fill the pool?    Jack can wash and wax the family car in one hour less than Bob can. The two working together can complete the job in hours. How much time would each require if they worked alone?    If A can do a piece of work alone in days and B can do it alone in days, how long will it take the two working together to complete the job?    Working alone it takes John hours longer than Carlos to do a job. Working together they can do the job in hours. How long will it take each to do the job working alone?    A can do a piece of work in days, B in days, and C in days each working alone. How long will it take them to do it working together?    A can do a piece of work in days and B can do it in half the time. How long will it take them to do the work together?    A cistern can be filled by one pipe in minutes and by another in minutes. How long will it take both pipes together to fill the tank?    If A can do a piece of work in days and A and B together can do it in days, how long would it take B to do the work alone?    A carpenter and his assistant can do a piece of work in days. If the carpenter himself could do the work alone in days, how long would the assistant take to do the work alone?    If Sam can do a certain job in days, while it takes Fred days to do the same job, how long will it take them, working together, to complete the job?    Tim can finish a certain job in hours. It take his wife JoAnn only hours to do the same job. If they work together, how long will it take them to complete the job?    Two people working together can complete a job in hours. If one of them works twice as fast as the other, how long would it take the faster person, working alone, to do the job?    If two people working together can do a job in hours, how long will it take the slower person to do the same job if one of them is times as fast as the other?    A water tank can be filled by an inlet pipe in hours. It takes twice that long for the outlet pipe to empty the tank. How long will it take to fill the tank if both pipes are open?    A sink can be filled from the faucet in minutes. It takes only minutes to empty the sink when the drain is open. If the sink is full and both the faucet and the drain are open, how long will it take to empty the sink?    It takes hours to fill a pool with the inlet pipe. It can be emptied in hrs with the outlet pipe. If the pool is half full to begin with, how long will it take to fill it from there if both pipes are open?    A sink is full when both the faucet and the drain are opened. The faucet alone can fill the sink in minutes, while it takes minutes to empty it with the drain. How long will it take to fill the remaining of the sink?    A sink has two faucets, one for hot water and one for cold water. The sink can be filled by a cold-water faucet in minutes. If both faucets are open, the sink is filled in minutes. How long does it take to fill the sink with just the hot-water faucet open?    A water tank is being filled by two inlet pipes. Pipe A can fill the tank in hrs, while both pipes together can fill the tank in hours. How long does it take to fill the tank using only pipe B?    A tank can be emptied by any one of three caps. The first can empty the tank in minutes while the second takes minutes. If all three working together could empty the tank in minutes, how long would the third take to empty the tank?    One pipe can fill a cistern in hours while a second pipe can fill it in hrs. Three pipes working together fill the cistern in minutes. How long would it take the third pipe alone to fill the tank?    Sam takes hours longer than Susan to wax a floor. Working together they can wax the floor in hours. How long will it take each of them working alone to wax the floor?    It takes Robert hours longer than Paul to repair a transmission. If it takes them hours to do the job if they work together, how long will it take each of them working alone?    It takes Sally minutes longer than Patricia to clean up their dorm room. If they work together they can clean it in minutes. How long will it take each of them if they work alone?    A takes minutes longer than B to do a job. Working together they can do the job in minutes. How long does it take each working alone?    Secretary A takes minutes longer than Secretary B to type pages of manuscript. If they divide the job and work together it will take them minutes to type pages. How long will it take each working alone to type the pages?    It takes John minutes longer than Sally to mow the lawn. If they work together they can mow the lawn in minutes. How long will it take each to mow the lawn if they work alone?    "
+  "body": " Quadratics - Teamwork   Objective: Solve teamwork problems by creating a rational equation to model the problem.   If it takes one person hours to paint a room and another person hours to paint the same room, working together they could paint the room even quicker, it turns out they would paint the room in hours together. This can be reasoned by the following logic, if the first person paints the room in hours, she paints of the room each hour. If the second person takes hours to paint the room, he paints of the room each hour. So together, each hour they paint of the room. Using a common denominator of gives: . This means each hour, working together they complete of the room. If is completed each hour, it follows that it will take hours to complete the entire room.  This pattern is used to solve teamwork problems. If the first person does a job in , a second person does a job in , and together they can do a job in (total). We can use the teamwork equation.   Often these problems will involve fractions. Rather than thinking of the first fraction as , it may be better to think of it as the reciprocal of ’s time.   World View Note: When the Egyptians, who were the first to work with fractions, wrote fractions, they were all unit fractions (numerator of one). They only used these type of fractions for about years! Some believe that this cumbersome style of using fractions was used for so long out of tradition, others believe the Egyptians had a way of thinking about and working with fractions that has been completely lost in history.   Adam can clean a room in hours. If his sister Maria helps, they can clean it in hours. How long will it take Maria to do the job alone?    Sometimes we only know how two people’s times are related to each other as in the next example.   Mike takes twice as long as Rachel to complete a project. Together they can complete the project in hours. How long will it take each of them to complete the project alone?    With problems such as these we will often end up with a quadratic to solve.   Brittney can build a large shed in days less than Cosmo can. If they built it together it would take them days. How long would it take each of them working alone?    In the previous example, when solving, one of the possible times ended up negative. We can’t have a negative amount of time to build a shed, so this possibility is ignored for this problem. Also, as we were solving, we had to factor . This may have been difficult to factor. We could have also chosen to complete the square or use the quadratic formula to find our solutions.  It is important that units match as we solve problems. This means we may have to convert minutes into hours to match the other units given in the problem.   An electrician can complete a job in one hour less than his apprentice. Together they do the job in hour and minutes. How long would it take each of them working alone?    Very similar to a teamwork problem is when the two involved parts are working against each other. A common example of this is a sink that is filled by a pipe and emptied by a drain. If they are working against each other we need to make one of the values negative to show they oppose each other. This is shown in the next example.   A sink can be filled by a pipe in minutes but it takes minutes to drain a full sink. If both the pipe and the drain are open, how long will it take to fill the sink?     Exercises - Teamwork   Bills father can paint a room in two hours less than Bill can paint it. Working together they can complete the job in two hours and minutes. How much time would each require working alone?     Of two inlet pipes, the smaller pipe takes four hours longer than the larger pipe to fill a pool. When both pipes are open, the pool is filled in three hours and forty-five minutes. If only the larger pipe is open, how many hours are required to fill the pool?     Jack can wash and wax the family car in one hour less than Bob can. The two working together can complete the job in hours. How much time would each require if they worked alone?     If A can do a piece of work alone in days and B can do it alone in days, how long will it take the two working together to complete the job?     Working alone it takes John hours longer than Carlos to do a job. Working together they can do the job in hours. How long will it take each to do the job working alone?     A can do a piece of work in days, B in days, and C in days each working alone. How long will it take them to do it working together?     A can do a piece of work in days and B can do it in half the time. How long will it take them to do the work together?     A cistern can be filled by one pipe in minutes and by another in minutes. How long will it take both pipes together to fill the tank?     If A can do a piece of work in days and A and B together can do it in days, how long would it take B to do the work alone?     A carpenter and his assistant can do a piece of work in days. If the carpenter himself could do the work alone in days, how long would the assistant take to do the work alone?     If Sam can do a certain job in days, while it takes Fred days to do the same job, how long will it take them, working together, to complete the job?     Tim can finish a certain job in hours. It take his wife JoAnn only hours to do the same job. If they work together, how long will it take them to complete the job?     Two people working together can complete a job in hours. If one of them works twice as fast as the other, how long would it take the faster person, working alone, to do the job?     If two people working together can do a job in hours, how long will it take the slower person to do the same job if one of them is times as fast as the other?     A water tank can be filled by an inlet pipe in hours. It takes twice that long for the outlet pipe to empty the tank. How long will it take to fill the tank if both pipes are open?     A sink can be filled from the faucet in minutes. It takes only minutes to empty the sink when the drain is open. If the sink is full and both the faucet and the drain are open, how long will it take to empty the sink?     It takes hours to fill a pool with the inlet pipe. It can be emptied in hrs with the outlet pipe. If the pool is half full to begin with, how long will it take to fill it from there if both pipes are open?     A sink is full when both the faucet and the drain are opened. The faucet alone can fill the sink in minutes, while it takes minutes to empty it with the drain. How long will it take to fill the remaining of the sink?     A sink has two faucets, one for hot water and one for cold water. The sink can be filled by a cold-water faucet in minutes. If both faucets are open, the sink is filled in minutes. How long does it take to fill the sink with just the hot-water faucet open?     A water tank is being filled by two inlet pipes. Pipe A can fill the tank in hrs, while both pipes together can fill the tank in hours. How long does it take to fill the tank using only pipe B?     A tank can be emptied by any one of three caps. The first can empty the tank in minutes while the second takes minutes. If all three working together could empty the tank in minutes, how long would the third take to empty the tank?     One pipe can fill a cistern in hours while a second pipe can fill it in hrs. Three pipes working together fill the cistern in minutes. How long would it take the third pipe alone to fill the tank?     Sam takes hours longer than Susan to wax a floor. Working together they can wax the floor in hours. How long will it take each of them working alone to wax the floor?     It takes Robert hours longer than Paul to repair a transmission. If it takes them hours to do the job if they work together, how long will it take each of them working alone?     It takes Sally minutes longer than Patricia to clean up their dorm room. If they work together they can clean it in minutes. How long will it take each of them if they work alone?     A takes minutes longer than B to do a job. Working together they can do the job in minutes. How long does it take each working alone?     Secretary A takes minutes longer than Secretary B to type pages of manuscript. If they divide the job and work together it will take them minutes to type pages. How long will it take each working alone to type the pages?     It takes John minutes longer than Sally to mow the lawn. If they work together they can mow the lawn in minutes. How long will it take each to mow the lawn if they work alone?     "
 },
 {
   "id": "quadratics-teamwork-8",
@@ -28006,7 +28006,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.1",
   "title": "",
-  "body": " Bills father can paint a room in two hours less than Bill can paint it. Working together they can complete the job in two hours and minutes. How much time would each require working alone?  "
+  "body": " Bills father can paint a room in two hours less than Bill can paint it. Working together they can complete the job in two hours and minutes. How much time would each require working alone?   "
 },
 {
   "id": "exercises-teamwork-3",
@@ -28015,7 +28015,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.2",
   "title": "",
-  "body": " Of two inlet pipes, the smaller pipe takes four hours longer than the larger pipe to fill a pool. When both pipes are open, the pool is filled in three hours and forty-five minutes. If only the larger pipe is open, how many hours are required to fill the pool?  "
+  "body": " Of two inlet pipes, the smaller pipe takes four hours longer than the larger pipe to fill a pool. When both pipes are open, the pool is filled in three hours and forty-five minutes. If only the larger pipe is open, how many hours are required to fill the pool?   "
 },
 {
   "id": "exercises-teamwork-4",
@@ -28024,7 +28024,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.3",
   "title": "",
-  "body": " Jack can wash and wax the family car in one hour less than Bob can. The two working together can complete the job in hours. How much time would each require if they worked alone?  "
+  "body": " Jack can wash and wax the family car in one hour less than Bob can. The two working together can complete the job in hours. How much time would each require if they worked alone?   "
 },
 {
   "id": "exercises-teamwork-5",
@@ -28033,7 +28033,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.4",
   "title": "",
-  "body": " If A can do a piece of work alone in days and B can do it alone in days, how long will it take the two working together to complete the job?  "
+  "body": " If A can do a piece of work alone in days and B can do it alone in days, how long will it take the two working together to complete the job?   "
 },
 {
   "id": "exercises-teamwork-6",
@@ -28042,7 +28042,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.5",
   "title": "",
-  "body": " Working alone it takes John hours longer than Carlos to do a job. Working together they can do the job in hours. How long will it take each to do the job working alone?  "
+  "body": " Working alone it takes John hours longer than Carlos to do a job. Working together they can do the job in hours. How long will it take each to do the job working alone?   "
 },
 {
   "id": "exercises-teamwork-7",
@@ -28051,7 +28051,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.6",
   "title": "",
-  "body": " A can do a piece of work in days, B in days, and C in days each working alone. How long will it take them to do it working together?  "
+  "body": " A can do a piece of work in days, B in days, and C in days each working alone. How long will it take them to do it working together?   "
 },
 {
   "id": "exercises-teamwork-8",
@@ -28060,7 +28060,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.7",
   "title": "",
-  "body": " A can do a piece of work in days and B can do it in half the time. How long will it take them to do the work together?  "
+  "body": " A can do a piece of work in days and B can do it in half the time. How long will it take them to do the work together?   "
 },
 {
   "id": "exercises-teamwork-9",
@@ -28069,7 +28069,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.8",
   "title": "",
-  "body": " A cistern can be filled by one pipe in minutes and by another in minutes. How long will it take both pipes together to fill the tank?  "
+  "body": " A cistern can be filled by one pipe in minutes and by another in minutes. How long will it take both pipes together to fill the tank?   "
 },
 {
   "id": "exercises-teamwork-10",
@@ -28078,7 +28078,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.9",
   "title": "",
-  "body": " If A can do a piece of work in days and A and B together can do it in days, how long would it take B to do the work alone?  "
+  "body": " If A can do a piece of work in days and A and B together can do it in days, how long would it take B to do the work alone?   "
 },
 {
   "id": "exercises-teamwork-11",
@@ -28087,7 +28087,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.10",
   "title": "",
-  "body": " A carpenter and his assistant can do a piece of work in days. If the carpenter himself could do the work alone in days, how long would the assistant take to do the work alone?  "
+  "body": " A carpenter and his assistant can do a piece of work in days. If the carpenter himself could do the work alone in days, how long would the assistant take to do the work alone?   "
 },
 {
   "id": "exercises-teamwork-12",
@@ -28096,7 +28096,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.11",
   "title": "",
-  "body": " If Sam can do a certain job in days, while it takes Fred days to do the same job, how long will it take them, working together, to complete the job?  "
+  "body": " If Sam can do a certain job in days, while it takes Fred days to do the same job, how long will it take them, working together, to complete the job?   "
 },
 {
   "id": "exercises-teamwork-13",
@@ -28105,7 +28105,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.12",
   "title": "",
-  "body": " Tim can finish a certain job in hours. It take his wife JoAnn only hours to do the same job. If they work together, how long will it take them to complete the job?  "
+  "body": " Tim can finish a certain job in hours. It take his wife JoAnn only hours to do the same job. If they work together, how long will it take them to complete the job?   "
 },
 {
   "id": "exercises-teamwork-14",
@@ -28114,7 +28114,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.13",
   "title": "",
-  "body": " Two people working together can complete a job in hours. If one of them works twice as fast as the other, how long would it take the faster person, working alone, to do the job?  "
+  "body": " Two people working together can complete a job in hours. If one of them works twice as fast as the other, how long would it take the faster person, working alone, to do the job?   "
 },
 {
   "id": "exercises-teamwork-15",
@@ -28123,7 +28123,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.14",
   "title": "",
-  "body": " If two people working together can do a job in hours, how long will it take the slower person to do the same job if one of them is times as fast as the other?  "
+  "body": " If two people working together can do a job in hours, how long will it take the slower person to do the same job if one of them is times as fast as the other?   "
 },
 {
   "id": "exercises-teamwork-16",
@@ -28132,7 +28132,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.15",
   "title": "",
-  "body": " A water tank can be filled by an inlet pipe in hours. It takes twice that long for the outlet pipe to empty the tank. How long will it take to fill the tank if both pipes are open?  "
+  "body": " A water tank can be filled by an inlet pipe in hours. It takes twice that long for the outlet pipe to empty the tank. How long will it take to fill the tank if both pipes are open?   "
 },
 {
   "id": "exercises-teamwork-17",
@@ -28141,7 +28141,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.16",
   "title": "",
-  "body": " A sink can be filled from the faucet in minutes. It takes only minutes to empty the sink when the drain is open. If the sink is full and both the faucet and the drain are open, how long will it take to empty the sink?  "
+  "body": " A sink can be filled from the faucet in minutes. It takes only minutes to empty the sink when the drain is open. If the sink is full and both the faucet and the drain are open, how long will it take to empty the sink?   "
 },
 {
   "id": "exercises-teamwork-18",
@@ -28150,7 +28150,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.17",
   "title": "",
-  "body": " It takes hours to fill a pool with the inlet pipe. It can be emptied in hrs with the outlet pipe. If the pool is half full to begin with, how long will it take to fill it from there if both pipes are open?  "
+  "body": " It takes hours to fill a pool with the inlet pipe. It can be emptied in hrs with the outlet pipe. If the pool is half full to begin with, how long will it take to fill it from there if both pipes are open?   "
 },
 {
   "id": "exercises-teamwork-19",
@@ -28159,7 +28159,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.18",
   "title": "",
-  "body": " A sink is full when both the faucet and the drain are opened. The faucet alone can fill the sink in minutes, while it takes minutes to empty it with the drain. How long will it take to fill the remaining of the sink?  "
+  "body": " A sink is full when both the faucet and the drain are opened. The faucet alone can fill the sink in minutes, while it takes minutes to empty it with the drain. How long will it take to fill the remaining of the sink?   "
 },
 {
   "id": "exercises-teamwork-20",
@@ -28168,7 +28168,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.19",
   "title": "",
-  "body": " A sink has two faucets, one for hot water and one for cold water. The sink can be filled by a cold-water faucet in minutes. If both faucets are open, the sink is filled in minutes. How long does it take to fill the sink with just the hot-water faucet open?  "
+  "body": " A sink has two faucets, one for hot water and one for cold water. The sink can be filled by a cold-water faucet in minutes. If both faucets are open, the sink is filled in minutes. How long does it take to fill the sink with just the hot-water faucet open?   "
 },
 {
   "id": "exercises-teamwork-21",
@@ -28177,7 +28177,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.20",
   "title": "",
-  "body": " A water tank is being filled by two inlet pipes. Pipe A can fill the tank in hrs, while both pipes together can fill the tank in hours. How long does it take to fill the tank using only pipe B?  "
+  "body": " A water tank is being filled by two inlet pipes. Pipe A can fill the tank in hrs, while both pipes together can fill the tank in hours. How long does it take to fill the tank using only pipe B?   "
 },
 {
   "id": "exercises-teamwork-22",
@@ -28186,7 +28186,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.21",
   "title": "",
-  "body": " A tank can be emptied by any one of three caps. The first can empty the tank in minutes while the second takes minutes. If all three working together could empty the tank in minutes, how long would the third take to empty the tank?  "
+  "body": " A tank can be emptied by any one of three caps. The first can empty the tank in minutes while the second takes minutes. If all three working together could empty the tank in minutes, how long would the third take to empty the tank?   "
 },
 {
   "id": "exercises-teamwork-23",
@@ -28195,7 +28195,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.22",
   "title": "",
-  "body": " One pipe can fill a cistern in hours while a second pipe can fill it in hrs. Three pipes working together fill the cistern in minutes. How long would it take the third pipe alone to fill the tank?  "
+  "body": " One pipe can fill a cistern in hours while a second pipe can fill it in hrs. Three pipes working together fill the cistern in minutes. How long would it take the third pipe alone to fill the tank?   "
 },
 {
   "id": "exercises-teamwork-24",
@@ -28204,7 +28204,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.23",
   "title": "",
-  "body": " Sam takes hours longer than Susan to wax a floor. Working together they can wax the floor in hours. How long will it take each of them working alone to wax the floor?  "
+  "body": " Sam takes hours longer than Susan to wax a floor. Working together they can wax the floor in hours. How long will it take each of them working alone to wax the floor?   "
 },
 {
   "id": "exercises-teamwork-25",
@@ -28213,7 +28213,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.24",
   "title": "",
-  "body": " It takes Robert hours longer than Paul to repair a transmission. If it takes them hours to do the job if they work together, how long will it take each of them working alone?  "
+  "body": " It takes Robert hours longer than Paul to repair a transmission. If it takes them hours to do the job if they work together, how long will it take each of them working alone?   "
 },
 {
   "id": "exercises-teamwork-26",
@@ -28222,7 +28222,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.25",
   "title": "",
-  "body": " It takes Sally minutes longer than Patricia to clean up their dorm room. If they work together they can clean it in minutes. How long will it take each of them if they work alone?  "
+  "body": " It takes Sally minutes longer than Patricia to clean up their dorm room. If they work together they can clean it in minutes. How long will it take each of them if they work alone?   "
 },
 {
   "id": "exercises-teamwork-27",
@@ -28231,7 +28231,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.26",
   "title": "",
-  "body": " A takes minutes longer than B to do a job. Working together they can do the job in minutes. How long does it take each working alone?  "
+  "body": " A takes minutes longer than B to do a job. Working together they can do the job in minutes. How long does it take each working alone?   "
 },
 {
   "id": "exercises-teamwork-28",
@@ -28240,7 +28240,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.27",
   "title": "",
-  "body": " Secretary A takes minutes longer than Secretary B to type pages of manuscript. If they divide the job and work together it will take them minutes to type pages. How long will it take each working alone to type the pages?  "
+  "body": " Secretary A takes minutes longer than Secretary B to type pages of manuscript. If they divide the job and work together it will take them minutes to type pages. How long will it take each working alone to type the pages?   "
 },
 {
   "id": "exercises-teamwork-29",
@@ -28249,7 +28249,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.8.28",
   "title": "",
-  "body": " It takes John minutes longer than Sally to mow the lawn. If they work together they can mow the lawn in minutes. How long will it take each to mow the lawn if they work alone?  "
+  "body": " It takes John minutes longer than Sally to mow the lawn. If they work together they can mow the lawn in minutes. How long will it take each to mow the lawn if they work alone?   "
 },
 {
   "id": "quadratics-simultaneous-products",
@@ -28276,7 +28276,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.11",
   "title": "Quadratics - Graphs of Quadratics",
-  "body": " Quadratics - Graphs of Quadratics   Objective: Graph quadratic equations using the vertex, x-intercepts, and y-intercept.   Just as we drew pictures of the solutions for lines or linear equations, we can draw a picture of solution to quadratics as well. One way we can do that is to make a table of values.       Plot the points , , , , and .  Connect the dots with a smooth curve.  Our Solution     When we have in our equations, the graph will no longer be a straight line. Quadratics have a graph that looks like a U shape that is called a parabola.   World View Note: The first major female mathematician was Hypatia of Egypt who was born around 370 AD. She studied conic sections. The parabola is one type of conic section.  The above method to graph a parabola works for any equation, however, it can be very tedious to find all the correct points to get the correct bend and shape. For this reason we identify several key points on a graph and in the equation to help us graph parabolas more efficiently. These key points are described below.     Point  -intercept: Where the graph crosses the vertical -axis.  Points and  -intercepts: Where the graph crosses the horizontal -axis  Point Vertex: The point where the graph curves and changes directions.    We will use the following method to find each of the points on our parabola.  To graph the equation , find the following points    -intercept: Found by making , this simplifies down to   -intercepts: Found by making , this means solving  Vertex: Let to find . Then plug this value into the equation to find .  After finding these points we can connect the dots with a smooth curve to find our graph!       Graph the -intercept at , the - intercepts at and , and the vertex at . Connect the dots with a smooth curve in a U shape to get our parabola.  Our Solution     If the a in is a negative value, the parabola will end up being an upside-down U. The process to graph it is identical, we just need to be very careful of how our signs operate. Remember, if is negative, then will also be negative because we only square the , not the .       Graph the y-intercept at , the - intercepts at and , and the vertex at . Connect the dots with smooth curve in an upside-down U shape to get our parabola.  Our Solution     It is important to remember the graph of all quadratics is a parabola with the same U shape (they could be upside-down). If you plot your points and we cannot connect them in the correct U shape then one of your points must be wrong. Go back and check your work to be sure they are correct!  Just as all quadratics (equation with ) all have the same U-shape to them and all linear equations (equations such as ) have the same line shape when graphed, different equations have different shapes to them. Below are some common equations (some we have yet to cover!) with their graph shape drawn.    Absolute Value  Cubic                        Quadratic  Exponential                          Square Root  Logarithmic                     Exercises - Graphs of Quadratics    Find the vertex and intercepts of the following quadratics. Use this information to graph the quadratic.                                                                                                         "
+  "body": " Quadratics - Graphs of Quadratics   Objective: Graph quadratic equations using the vertex, x-intercepts, and y-intercept.   Just as we drew pictures of the solutions for lines or linear equations, we can draw a picture of solution to quadratics as well. One way we can do that is to make a table of values.       Plot the points , , , , and .  Connect the dots with a smooth curve.  Our Solution     When we have in our equations, the graph will no longer be a straight line. Quadratics have a graph that looks like a U shape that is called a parabola.   World View Note: The first major female mathematician was Hypatia of Egypt who was born around 370 AD. She studied conic sections. The parabola is one type of conic section.  The above method to graph a parabola works for any equation, however, it can be very tedious to find all the correct points to get the correct bend and shape. For this reason we identify several key points on a graph and in the equation to help us graph parabolas more efficiently. These key points are described below.     Point  -intercept: Where the graph crosses the vertical -axis.  Points and  -intercepts: Where the graph crosses the horizontal -axis  Point Vertex: The point where the graph curves and changes directions.    We will use the following method to find each of the points on our parabola.  To graph the equation , find the following points    -intercept: Found by making , this simplifies down to   -intercepts: Found by making , this means solving  Vertex: Let to find . Then plug this value into the equation to find .  After finding these points we can connect the dots with a smooth curve to find our graph!       Graph the -intercept at , the - intercepts at and , and the vertex at . Connect the dots with a smooth curve in a U shape to get our parabola.  Our Solution     If the a in is a negative value, the parabola will end up being an upside-down U. The process to graph it is identical, we just need to be very careful of how our signs operate. Remember, if is negative, then will also be negative because we only square the , not the .       Graph the y-intercept at , the - intercepts at and , and the vertex at . Connect the dots with smooth curve in an upside-down U shape to get our parabola.  Our Solution     It is important to remember the graph of all quadratics is a parabola with the same U shape (they could be upside-down). If you plot your points and we cannot connect them in the correct U shape then one of your points must be wrong. Go back and check your work to be sure they are correct!  Just as all quadratics (equation with ) all have the same U-shape to them and all linear equations (equations such as ) have the same line shape when graphed, different equations have different shapes to them. Below are some common equations (some we have yet to cover!) with their graph shape drawn.    Absolute Value  Cubic                        Quadratic  Exponential                          Square Root  Logarithmic                     Exercises - Graphs of Quadratics    Find the vertex and intercepts of the following quadratics. Use this information to graph the quadratic.                                                                                                                             "
 },
 {
   "id": "quadratics-graphs-4",
@@ -28312,7 +28312,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-3",
@@ -28321,7 +28321,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-4",
@@ -28330,7 +28330,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-5",
@@ -28339,7 +28339,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-6",
@@ -28348,7 +28348,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-7",
@@ -28357,7 +28357,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-8",
@@ -28366,7 +28366,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-9",
@@ -28375,7 +28375,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-10",
@@ -28384,7 +28384,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-11",
@@ -28393,7 +28393,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-12",
@@ -28402,7 +28402,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-13",
@@ -28411,7 +28411,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-14",
@@ -28420,7 +28420,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-15",
@@ -28429,7 +28429,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-16",
@@ -28438,7 +28438,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-17",
@@ -28447,7 +28447,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-18",
@@ -28456,7 +28456,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-19",
@@ -28465,7 +28465,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-20",
@@ -28474,7 +28474,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-quadratics-2-21",
@@ -28483,7 +28483,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.11.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "functions-notation",
@@ -28492,7 +28492,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.1",
   "title": "Function Notation",
-  "body": " Function Notation   Objective: Identify functions and use correct notation to evaluate functions at numerical and variable values.   There are many different types of equations that we can work with in algebra. An equation gives the relationship between variables and numbers. Examples of several relationships are below:   There is a special classification of relationships known as functions. Functions have at most one output for any input. Generally is the variable that we plug into an equation and evaluate to find . For this reason is considered an input variable and is considered an output variable. This means the definition of a function, in terms of equations in and could be said, for any value there is at most one value that corresponds with it.  A great way to visualize this definition is to look at the graphs of a few relation- ships. Because values are vertical lines we will draw a vertical line through the graph. If the vertical line crosses the graph more than once, that means we have too many possible values. If the graph crosses the graph only once, then we say the relationship is a function.  Which of the following graphs are graphs of functions?       Drawing a vertical line through this graph will only cross the graph once, it is a function.  Drawing a vertical line through this graph will cross the graph twice, once at top and once at bottom. This is not a function.  Drawing a vertical line through this graph will cross the graph only once, it is a function.    We can look at the above idea in an algebraic method by taking a relationship and solving it for . If we have only one solution then it is a function.        Once we know we have a function, often we will change the notation used to emphasis the fact that it is a function. Instead of writing , we will use function notation which can be written . We read this notation “ of “ ” So for the above example that was a function, instead of writing , we could have written . It is important to point out that does not mean times , it is merely a notation that names the function with the first letter (function ) and then in parenthesis we are given information about what variables are in the function (variable ). The first letter can be anything we want it to be, often you will see (read of ).   World View Note: The concept of a function was first introduced by Arab mathematician Sharaf al-Din al-Tusi in the late 12th century  Once we know a relationship is a function, we may be interested in what values can be put into the equations. The values that are put into an equation (generally the values) are called the domain. When finding the domain , often it is easier to consider what cannot happen in a given function, then exclude those values.     The notation in the previous example tells us that x can be any value except for and . If were one of those two values, the function would be undefined.     In the above example there are no real numbers that make the function undefined. This means any number can be used for .     The notation in the above example states that our variable can be or any number larger than . But any number smaller would make the function undefined (without using imaginary numbers).  Another use of function notation is to easily plug values into functions. If we want to substitute a variable for a value (or an expression) we simply replace the vari- able with what we want to plug in. This is shown in the following examples.           As the above examples show, the function can take many different forms, but the pattern to evaluate the function is always the same, replace the variable with what is in parenthesis and simplify. We can also substitute expressions into functions using the same process. Often the expressions use the same variable, it is important to remember each variable is replaced by whatever is in parenthesis.        It is important to become comfortable with function notation and how to use it as we transition into more advanced algebra topics.   Exercises – Function Notation    Solve. Which of the following is a function?                                         Specify the domain of each of the following functions.                                   f(x)=\\frac{-2}{x^2-3x-4}                Evaluate each function.     Find      Find      Find      Find      Find      Find      Find      Find      Find      Find      Find      Find      Find      Find      Find      >Find      Find      Find      Find      Find      Find      Find      Find      Find      Find      Find      "
+  "body": " Function Notation   Objective: Identify functions and use correct notation to evaluate functions at numerical and variable values.   There are many different types of equations that we can work with in algebra. An equation gives the relationship between variables and numbers. Examples of several relationships are below:   There is a special classification of relationships known as functions. Functions have at most one output for any input. Generally is the variable that we plug into an equation and evaluate to find . For this reason is considered an input variable and is considered an output variable. This means the definition of a function, in terms of equations in and could be said, for any value there is at most one value that corresponds with it.  A great way to visualize this definition is to look at the graphs of a few relation- ships. Because values are vertical lines we will draw a vertical line through the graph. If the vertical line crosses the graph more than once, that means we have too many possible values. If the graph crosses the graph only once, then we say the relationship is a function.  Which of the following graphs are graphs of functions?       Drawing a vertical line through this graph will only cross the graph once, it is a function.  Drawing a vertical line through this graph will cross the graph twice, once at top and once at bottom. This is not a function.  Drawing a vertical line through this graph will cross the graph only once, it is a function.    We can look at the above idea in an algebraic method by taking a relationship and solving it for . If we have only one solution then it is a function.        Once we know we have a function, often we will change the notation used to emphasis the fact that it is a function. Instead of writing , we will use function notation which can be written . We read this notation “ of “ ” So for the above example that was a function, instead of writing , we could have written . It is important to point out that does not mean times , it is merely a notation that names the function with the first letter (function ) and then in parenthesis we are given information about what variables are in the function (variable ). The first letter can be anything we want it to be, often you will see (read of ).   World View Note: The concept of a function was first introduced by Arab mathematician Sharaf al-Din al-Tusi in the late 12th century  Once we know a relationship is a function, we may be interested in what values can be put into the equations. The values that are put into an equation (generally the values) are called the domain. When finding the domain , often it is easier to consider what cannot happen in a given function, then exclude those values.     The notation in the previous example tells us that x can be any value except for and . If were one of those two values, the function would be undefined.     In the above example there are no real numbers that make the function undefined. This means any number can be used for .     The notation in the above example states that our variable can be or any number larger than . But any number smaller would make the function undefined (without using imaginary numbers).  Another use of function notation is to easily plug values into functions. If we want to substitute a variable for a value (or an expression) we simply replace the vari- able with what we want to plug in. This is shown in the following examples.           As the above examples show, the function can take many different forms, but the pattern to evaluate the function is always the same, replace the variable with what is in parenthesis and simplify. We can also substitute expressions into functions using the same process. Often the expressions use the same variable, it is important to remember each variable is replaced by whatever is in parenthesis.        It is important to become comfortable with function notation and how to use it as we transition into more advanced algebra topics.   Exercises – Function Notation    Solve. Which of the following is a function?                                                 Specify the domain of each of the following functions.                                         f(x)=\\frac{-2}{x^2-3x-4}                   Evaluate each function.     Find       Find       Find       Find       Find       Find       Find       Find       Find       Find       Find       Find       Find       Find       Find       >Find       Find       Find       Find       Find       Find       Find       Find       Find       Find       Find       "
 },
 {
   "id": "functions-notation-7",
@@ -28600,7 +28600,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.1",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-funtionnotation-2-3",
@@ -28609,7 +28609,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.2",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-funtionnotation-2-4",
@@ -28618,7 +28618,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.3",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-funtionnotation-2-5",
@@ -28627,7 +28627,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.4",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-funtionnotation-2-6",
@@ -28636,7 +28636,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-funtionnotation-2-7",
@@ -28645,7 +28645,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.6",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-funtionnotation-2-8",
@@ -28654,7 +28654,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-funtionnotation-2-9",
@@ -28663,7 +28663,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-funtionnotation-3-2",
@@ -28672,7 +28672,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-funtionnotation-3-3",
@@ -28681,7 +28681,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-funtionnotation-3-4",
@@ -28690,7 +28690,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-funtionnotation-3-5",
@@ -28699,7 +28699,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-funtionnotation-3-6",
@@ -28708,7 +28708,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-funtionnotation-3-7",
@@ -28717,7 +28717,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-funtionnotation-3-8",
@@ -28726,7 +28726,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.15",
   "title": "",
-  "body": "  f(x)=\\frac{-2}{x^2-3x-4}  "
+  "body": "  f(x)=\\frac{-2}{x^2-3x-4}   "
 },
 {
   "id": "exercises-funtionnotation-3-9",
@@ -28735,7 +28735,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-funtionnotation-3-10",
@@ -28744,7 +28744,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-funtionnotation-4-2",
@@ -28753,7 +28753,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.18",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-3",
@@ -28762,7 +28762,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.19",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-4",
@@ -28771,7 +28771,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.20",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-5",
@@ -28780,7 +28780,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.21",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-6",
@@ -28789,7 +28789,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.22",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-7",
@@ -28798,7 +28798,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.23",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-8",
@@ -28807,7 +28807,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.24",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-9",
@@ -28816,7 +28816,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.25",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-10",
@@ -28825,7 +28825,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.26",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-11",
@@ -28834,7 +28834,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.27",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-12",
@@ -28843,7 +28843,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.28",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-13",
@@ -28852,7 +28852,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.29",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-14",
@@ -28861,7 +28861,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.30",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-15",
@@ -28870,7 +28870,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.31",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-16",
@@ -28879,7 +28879,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.32",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-17",
@@ -28888,7 +28888,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.33",
   "title": "",
-  "body": "  >Find   "
+  "body": "  >Find    "
 },
 {
   "id": "exercises-funtionnotation-4-18",
@@ -28897,7 +28897,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.34",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-19",
@@ -28906,7 +28906,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.35",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-20",
@@ -28915,7 +28915,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.36",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-21",
@@ -28924,7 +28924,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.37",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-22",
@@ -28933,7 +28933,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.38",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-23",
@@ -28942,7 +28942,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.39",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-24",
@@ -28951,7 +28951,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.40",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-25",
@@ -28960,7 +28960,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.41",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-26",
@@ -28969,7 +28969,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.42",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "exercises-funtionnotation-4-27",
@@ -28978,7 +28978,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.43",
   "title": "",
-  "body": "  Find   "
+  "body": "  Find    "
 },
 {
   "id": "functions-operations",
@@ -28987,7 +28987,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.2",
   "title": "Operations on Functions",
-  "body": " Operations on Functions   Objective: Combine functions using sum, difference, product, quotient and composition of functions.   Several functions can work together in one larger function. There are common operations that can be performed on functions. The four basic operations on functions are adding, subtracting, multiplying, and dividing. The notation for these functions is as follows.   When we do one of these four basic operations we can simply evaluate the two functions at the value and then do the operation with both solutions     The process is the same regardless of the operation being performed.     Often as we add, subtract, multiply, or divide functions, we do so in a way that keeps the variable. If there is no number to plug into the equations we will simply use each equation, in parenthesis, and simplify the expression.     The parentheses are very important when we are replacing and with a variable. In the previous example we needed the parenthesis to know to distribute the negative.     Just as we could substitute an expression into evaluating functions, we can substitute an expression into the operations on functions.        The fifth operation of functions is called composition of functions. A composition of functions is a function inside of a function. The notation used for composition of functions is:   To calculate a composition of function we will evaluate the inner function and substitute the answer into the outer function. This is shown in the following example.     We can also evaluate a composition of functions at a variable. In these problems we will take the inside function and substitute into the outside function.     It is important to note that very rarely is the same as as the following example will show, using the same equations, but compositing them in the opposite direction.      World View Note: The term “function” came from Gottfried Wihelm Leibniz, a German mathematician from the late th century.   Exercises – Operations on Functions    Perform the indicated operations.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           "
+  "body": " Operations on Functions   Objective: Combine functions using sum, difference, product, quotient and composition of functions.   Several functions can work together in one larger function. There are common operations that can be performed on functions. The four basic operations on functions are adding, subtracting, multiplying, and dividing. The notation for these functions is as follows.   When we do one of these four basic operations we can simply evaluate the two functions at the value and then do the operation with both solutions     The process is the same regardless of the operation being performed.     Often as we add, subtract, multiply, or divide functions, we do so in a way that keeps the variable. If there is no number to plug into the equations we will simply use each equation, in parenthesis, and simplify the expression.     The parentheses are very important when we are replacing and with a variable. In the previous example we needed the parenthesis to know to distribute the negative.     Just as we could substitute an expression into evaluating functions, we can substitute an expression into the operations on functions.        The fifth operation of functions is called composition of functions. A composition of functions is a function inside of a function. The notation used for composition of functions is:   To calculate a composition of function we will evaluate the inner function and substitute the answer into the outer function. This is shown in the following example.     We can also evaluate a composition of functions at a variable. In these problems we will take the inside function and substitute into the outside function.     It is important to note that very rarely is the same as as the following example will show, using the same equations, but compositing them in the opposite direction.      World View Note: The term “function” came from Gottfried Wihelm Leibniz, a German mathematician from the late th century.   Exercises – Operations on Functions    Perform the indicated operations.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       "
 },
 {
   "id": "functions-operations-5",
@@ -29077,7 +29077,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.1",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-3",
@@ -29086,7 +29086,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.2",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-4",
@@ -29095,7 +29095,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.3",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-5",
@@ -29104,7 +29104,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.4",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-6",
@@ -29113,7 +29113,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.5",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-7",
@@ -29122,7 +29122,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.6",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-8",
@@ -29131,7 +29131,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.7",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-9",
@@ -29140,7 +29140,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.8",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-10",
@@ -29149,7 +29149,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.9",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-11",
@@ -29158,7 +29158,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.10",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-12",
@@ -29167,7 +29167,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.11",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-13",
@@ -29176,7 +29176,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.12",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-14",
@@ -29185,7 +29185,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.13",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-15",
@@ -29194,7 +29194,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.14",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-16",
@@ -29203,7 +29203,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.15",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-17",
@@ -29212,7 +29212,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.16",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-18",
@@ -29221,7 +29221,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.17",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-19",
@@ -29230,7 +29230,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.18",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-20",
@@ -29239,7 +29239,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.19",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-21",
@@ -29248,7 +29248,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.20",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-22",
@@ -29257,7 +29257,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.21",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-23",
@@ -29266,7 +29266,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.22",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-24",
@@ -29275,7 +29275,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.23",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-25",
@@ -29284,7 +29284,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.24",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-26",
@@ -29293,7 +29293,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.25",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-27",
@@ -29302,7 +29302,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.26",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-28",
@@ -29311,7 +29311,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.27",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-29",
@@ -29320,7 +29320,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.28",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-30",
@@ -29329,7 +29329,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.29",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-31",
@@ -29338,7 +29338,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.30",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-32",
@@ -29347,7 +29347,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.31",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-33",
@@ -29356,7 +29356,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.32",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-34",
@@ -29365,7 +29365,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.33",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-35",
@@ -29374,7 +29374,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.34",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-36",
@@ -29383,7 +29383,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.35",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-37",
@@ -29392,7 +29392,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.36",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-38",
@@ -29401,7 +29401,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.37",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-39",
@@ -29410,7 +29410,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.38",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-40",
@@ -29419,7 +29419,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.39",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-41",
@@ -29428,7 +29428,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.40",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-42",
@@ -29437,7 +29437,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.41",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-43",
@@ -29446,7 +29446,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.42",
   "title": "",
-  "body": "      "
+  "body": "       "
 },
 {
   "id": "exercises-operationonfunctions-2-44",
@@ -29455,7 +29455,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.43",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-45",
@@ -29464,7 +29464,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.44",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-46",
@@ -29473,7 +29473,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.45",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-47",
@@ -29482,7 +29482,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.46",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-48",
@@ -29491,7 +29491,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.47",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-49",
@@ -29500,7 +29500,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.48",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-50",
@@ -29509,7 +29509,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.49",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-51",
@@ -29518,7 +29518,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.50",
   "title": "",
-  "body": "      "
+  "body": "       "
 },
 {
   "id": "exercises-operationonfunctions-2-52",
@@ -29527,7 +29527,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.51",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-53",
@@ -29536,7 +29536,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.52",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-54",
@@ -29545,7 +29545,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.53",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-55",
@@ -29554,7 +29554,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.54",
   "title": "",
-  "body": "      "
+  "body": "       "
 },
 {
   "id": "exercises-operationonfunctions-2-56",
@@ -29563,7 +29563,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.55",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-57",
@@ -29572,7 +29572,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.56",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-58",
@@ -29581,7 +29581,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.57",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-59",
@@ -29590,7 +29590,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.58",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-60",
@@ -29599,7 +29599,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.59",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "exercises-operationonfunctions-2-61",
@@ -29608,7 +29608,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.60",
   "title": "",
-  "body": "        "
+  "body": "         "
 },
 {
   "id": "functions-inverse",
@@ -29617,7 +29617,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.3",
   "title": "Inverse Functions",
-  "body": " Inverse Functions   Objective: Identify and find inverse functions.   When a value goes into a function it is called the input. The result that we get when we evaluate the function is called the output. When working with functions sometimes we will know the output and be interested in what input gave us the output. To find this we use an inverse function. As the name suggests an inverse function undoes whatever the function did. If a function is named , the inverse function will be named (read “f inverse of x”). The negative one is not an exponent, but merely a symbol to let us know that this function is the inverse of .   World View Note: The notation used for functions was first introduced by the great Swiss mathematician, Leonhard Euler in the century.  For example, if , we could deduce that the inverse function would be . If we had an input of , we could calculate . Our output is 8. If we plug this output into the inverse function we get , which is the original input.  Often the functions are much more involved than those described above. It may be difficult to determine just by looking at the functions if they are inverses. In order to test if two functions, and are inverses we will calculate the composition of the two functions at . If changes the variable in some way, then undoes whatever did, then we will be back at again for our final solution. In other words, if we simplify the solution will be . If it is anything but the functions are not inverses.           While the composition is useful to show two functions are inverses, a more common problem is to find the inverse of a function. If we think of as our input and as our output from a function, then the inverse will take as an input and give as the output. This means if we switch and in our function we will find the inverse! This process is called the switch and solve strategy.  Switch and solve strategy to find an inverse:   Replace with   Switch and ’s  Solve for   Replace with          In this lesson we looked at two different things, first showing functions are inverses by calculating the composition, and second finding an inverse when we only have one function. Be careful not to get them backwards. When we already have two functions and are asked to show they are inverses, we do not want to use the switch and solve strategy, what we want to do is calculate the inverse. There may be several ways to represent the same function so the switch and solve strategy may not look the way we expect and can lead us to conclude two functions are not inverses when they are in fact inverses.   Exercises - Inverse Functions    State if the given functions are inverses.                                                                                    Find the inverse of each functions.                                                                                                                                                           "
+  "body": " Inverse Functions   Objective: Identify and find inverse functions.   When a value goes into a function it is called the input. The result that we get when we evaluate the function is called the output. When working with functions sometimes we will know the output and be interested in what input gave us the output. To find this we use an inverse function. As the name suggests an inverse function undoes whatever the function did. If a function is named , the inverse function will be named (read “f inverse of x”). The negative one is not an exponent, but merely a symbol to let us know that this function is the inverse of .   World View Note: The notation used for functions was first introduced by the great Swiss mathematician, Leonhard Euler in the century.  For example, if , we could deduce that the inverse function would be . If we had an input of , we could calculate . Our output is 8. If we plug this output into the inverse function we get , which is the original input.  Often the functions are much more involved than those described above. It may be difficult to determine just by looking at the functions if they are inverses. In order to test if two functions, and are inverses we will calculate the composition of the two functions at . If changes the variable in some way, then undoes whatever did, then we will be back at again for our final solution. In other words, if we simplify the solution will be . If it is anything but the functions are not inverses.           While the composition is useful to show two functions are inverses, a more common problem is to find the inverse of a function. If we think of as our input and as our output from a function, then the inverse will take as an input and give as the output. This means if we switch and in our function we will find the inverse! This process is called the switch and solve strategy.  Switch and solve strategy to find an inverse:   Replace with   Switch and ’s  Solve for   Replace with          In this lesson we looked at two different things, first showing functions are inverses by calculating the composition, and second finding an inverse when we only have one function. Be careful not to get them backwards. When we already have two functions and are asked to show they are inverses, we do not want to use the switch and solve strategy, what we want to do is calculate the inverse. There may be several ways to represent the same function so the switch and solve strategy may not look the way we expect and can lead us to conclude two functions are not inverses when they are in fact inverses.   Exercises - Inverse Functions    State if the given functions are inverses.                                                                                              Find the inverse of each functions.                                                                                                                                                                                         "
 },
 {
   "id": "functions-inverse-7",
@@ -29671,7 +29671,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.1",
   "title": "",
-  "body": "     "
+  "body": "      "
 },
 {
   "id": "exercises-functions-inverse-2-3",
@@ -29680,7 +29680,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.2",
   "title": "",
-  "body": "       "
+  "body": "        "
 },
 {
   "id": "exercises-functions-inverse-2-4",
@@ -29689,7 +29689,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.3",
   "title": "",
-  "body": "       "
+  "body": "        "
 },
 {
   "id": "exercises-functions-inverse-2-5",
@@ -29698,7 +29698,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.4",
   "title": "",
-  "body": "       "
+  "body": "        "
 },
 {
   "id": "exercises-functions-inverse-2-6",
@@ -29707,7 +29707,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.5",
   "title": "",
-  "body": "       "
+  "body": "        "
 },
 {
   "id": "exercises-functions-inverse-2-7",
@@ -29716,7 +29716,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.6",
   "title": "",
-  "body": "       "
+  "body": "        "
 },
 {
   "id": "exercises-functions-inverse-2-8",
@@ -29725,7 +29725,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.7",
   "title": "",
-  "body": "       "
+  "body": "        "
 },
 {
   "id": "exercises-functions-inverse-2-9",
@@ -29734,7 +29734,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.8",
   "title": "",
-  "body": "       "
+  "body": "        "
 },
 {
   "id": "exercises-functions-inverse-2-10",
@@ -29743,7 +29743,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.9",
   "title": "",
-  "body": "       "
+  "body": "        "
 },
 {
   "id": "exercises-functions-inverse-2-11",
@@ -29752,7 +29752,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.10",
   "title": "",
-  "body": "       "
+  "body": "        "
 },
 {
   "id": "exercises-functions-inverse-3-2",
@@ -29761,7 +29761,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-3",
@@ -29770,7 +29770,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-4",
@@ -29779,7 +29779,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-5",
@@ -29788,7 +29788,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-6",
@@ -29797,7 +29797,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-7",
@@ -29806,7 +29806,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-8",
@@ -29815,7 +29815,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-9",
@@ -29824,7 +29824,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-10",
@@ -29833,7 +29833,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-11",
@@ -29842,7 +29842,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-12",
@@ -29851,7 +29851,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-13",
@@ -29860,7 +29860,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-14",
@@ -29869,7 +29869,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-15",
@@ -29878,7 +29878,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-16",
@@ -29887,7 +29887,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-17",
@@ -29896,7 +29896,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-18",
@@ -29905,7 +29905,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-19",
@@ -29914,7 +29914,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-20",
@@ -29923,7 +29923,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-21",
@@ -29932,7 +29932,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-22",
@@ -29941,7 +29941,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-23",
@@ -29950,7 +29950,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-24",
@@ -29959,7 +29959,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-25",
@@ -29968,7 +29968,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-26",
@@ -29977,7 +29977,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-27",
@@ -29986,7 +29986,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-28",
@@ -29995,7 +29995,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-29",
@@ -30004,7 +30004,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-30",
@@ -30013,7 +30013,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-inverse-3-31",
@@ -30022,7 +30022,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "functions-exponential",
@@ -30031,7 +30031,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.4",
   "title": "Exponential Functions",
-  "body": " Exponential Functions   Objective: Solve exponential equations by finding a common base.   As our study of algebra gets more advanced, we begin to study more involved functions. One pair of inverse functions we will look at are exponential functions and logarithmic functions. Here we will look at exponential functions and then we will consider logarithmic functions in another lesson. Exponential functions are functions where the variable is in the exponent such as . (It is important not to confuse exponential functions with polynomial functions where the variable is in the base such as ).   World View Note: One common application of exponential functions is population growth. According to the CIA World Factbook, the country with the highest population growth rate is a tie between the United Arab Emirates (north of Saudi Arabia) and Burundi (central Africa) at . There are countries with negative growth rates, the lowest being the Northern Mariana Islands (north of Australia) at .  Solving exponetial equations cannot be done using the skill set we have seen in the past. For example, if , we cannot take the - root of because we do not know what the index is and this doesn’t get us any closer to finding . However, we may notice that is . We can then conclude that if then . This is the process we will use to solve exponential functions. If we can re-write a problem so the bases match, then the exponents must also match.     Sometimes we may have to do work on both sides of the equation to get a common base. As we do so, we will use various exponent properties to help. First we will use the exponent property that states .     As we multiply exponents we may need to distribute if there several terms involved.     Another useful exponent property is that negative exponents will give us a reciprocal,      If we have several factors with the same base on one side of the equation we can add the exponents using the property that states .     It may take a bit of practice to get use to knowing which base to use, but as we practice, we will get much quicker at knowing which base to use. As we do so, we will use our exponent properties to help us simplify. Again, below are the properties we used to simplify.   We could see all three properties used in the same problem as we get a common base. This is shown in the next example.     All the problems we have solved here we were able to write with a common base. However, not all problems can be written with a common base, for example, , we cannot write this problem with a common base. To solve problems like this we will need to use the inverse of an exponential function. The inverse is called a logarithmic function, which we will discuss in another section.   Exercises – Exponential Functions    Solve each equation.                                                                                                                                                                                                             "
+  "body": " Exponential Functions   Objective: Solve exponential equations by finding a common base.   As our study of algebra gets more advanced, we begin to study more involved functions. One pair of inverse functions we will look at are exponential functions and logarithmic functions. Here we will look at exponential functions and then we will consider logarithmic functions in another lesson. Exponential functions are functions where the variable is in the exponent such as . (It is important not to confuse exponential functions with polynomial functions where the variable is in the base such as ).   World View Note: One common application of exponential functions is population growth. According to the CIA World Factbook, the country with the highest population growth rate is a tie between the United Arab Emirates (north of Saudi Arabia) and Burundi (central Africa) at . There are countries with negative growth rates, the lowest being the Northern Mariana Islands (north of Australia) at .  Solving exponetial equations cannot be done using the skill set we have seen in the past. For example, if , we cannot take the - root of because we do not know what the index is and this doesn’t get us any closer to finding . However, we may notice that is . We can then conclude that if then . This is the process we will use to solve exponential functions. If we can re-write a problem so the bases match, then the exponents must also match.     Sometimes we may have to do work on both sides of the equation to get a common base. As we do so, we will use various exponent properties to help. First we will use the exponent property that states .     As we multiply exponents we may need to distribute if there several terms involved.     Another useful exponent property is that negative exponents will give us a reciprocal,      If we have several factors with the same base on one side of the equation we can add the exponents using the property that states .     It may take a bit of practice to get use to knowing which base to use, but as we practice, we will get much quicker at knowing which base to use. As we do so, we will use our exponent properties to help us simplify. Again, below are the properties we used to simplify.   We could see all three properties used in the same problem as we get a common base. This is shown in the next example.     All the problems we have solved here we were able to write with a common base. However, not all problems can be written with a common base, for example, , we cannot write this problem with a common base. To solve problems like this we will need to use the inverse of an exponential function. The inverse is called a logarithmic function, which we will discuss in another section.   Exercises – Exponential Functions    Solve each equation.                                                                                                                                                                                                                                                     "
 },
 {
   "id": "functions-exponential-6",
@@ -30094,7 +30094,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-3",
@@ -30103,7 +30103,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-4",
@@ -30112,7 +30112,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-5",
@@ -30121,7 +30121,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-6",
@@ -30130,7 +30130,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-7",
@@ -30139,7 +30139,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-8",
@@ -30148,7 +30148,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-9",
@@ -30157,7 +30157,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-10",
@@ -30166,7 +30166,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-11",
@@ -30175,7 +30175,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-12",
@@ -30184,7 +30184,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-13",
@@ -30193,7 +30193,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-14",
@@ -30202,7 +30202,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-15",
@@ -30211,7 +30211,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-16",
@@ -30220,7 +30220,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-17",
@@ -30229,7 +30229,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-18",
@@ -30238,7 +30238,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-19",
@@ -30247,7 +30247,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-20",
@@ -30256,7 +30256,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-21",
@@ -30265,7 +30265,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-22",
@@ -30274,7 +30274,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-23",
@@ -30283,7 +30283,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-24",
@@ -30292,7 +30292,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-25",
@@ -30301,7 +30301,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-26",
@@ -30310,7 +30310,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-27",
@@ -30319,7 +30319,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-28",
@@ -30328,7 +30328,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-29",
@@ -30337,7 +30337,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-30",
@@ -30346,7 +30346,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-31",
@@ -30355,7 +30355,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.30",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-32",
@@ -30364,7 +30364,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-33",
@@ -30373,7 +30373,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-34",
@@ -30382,7 +30382,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-35",
@@ -30391,7 +30391,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-36",
@@ -30400,7 +30400,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-37",
@@ -30409,7 +30409,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-38",
@@ -30418,7 +30418,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-39",
@@ -30427,7 +30427,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-40",
@@ -30436,7 +30436,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-exponential-functions-2-41",
@@ -30445,7 +30445,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "functions-logarithmic",
@@ -30454,7 +30454,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.5",
   "title": "Logarithmic Functions",
-  "body": " Logarithmic Functions   Objective: Convert between logarithms and exponents and use that relationship to solve basic logarithmic equations.   The inverse of an exponential function is a new function known as a logarithm. Logarithms are studied in detail in advanced algebra, here we will take an introductory look at how logarithms work. When working with radicals we found that there were two ways to write radicals. The expression could be written as . Each form has its advantages; thus, we need to be comfortable using both the radical form and the rational exponent form. Similarly, an exponent can be written in two forms, each with its own advantages. The first form we are very familiar with, , where is the base, can be thought of as our answer, and is the exponent. The second way to write this is with a logarithm, . The word “log” tells us that we are in this new form. The variables all still mean the same thing. is still the base, can still be thought of as our answer.  Using this idea the problem could also be written as . Both mean the same thing, both are still the same exponent problem, but just as roots can be written in radical form or rational exponent form, both our forms have their own advantages. The most important thing to be comfortable doing with logarithms and exponents is to be able to switch back and forth between the two forms. This is what is shown in the next few examples.   Write each exponential equation in logarithmic form.     Write each logarithmic equation in exponential form    Once we are comfortable switching between logarithmic and exponential form, we are able to evaluate and solve logarithmic expressions and equations. We will first evaluate logarithmic expressions. An easy way to evaluate a logarithm is to set the logarithm equal to and change it into an exponential equation.            World View Note: Dutch mathematician Adriaan Vlacq published a text in which listed logarithms calculated out from to !  Solving equations with logarithms is done in a very similar way, we simply will change the equation into exponential form and try to solve the resulting equation.           There is one base on a logarithm that gets used more often than any other base, base . Similar to square roots not writing the common index of in the radical, we don’t write the common base of in the logarithm. So if we are working on a problem with no base written we will always assume that base is base .     This lesson has introduced the idea of logarithms, changing between logs and exponents, evaluating logarithms, and solving basic logarithmic equations. In an advanced algebra course, logarithms will be studied in much greater detail.   Exercises – Logarithmic Functions    Rewrite each equation in exponential form.                                    Rewrite each equation in logarithmic form.                                    Evaluate each expression.                                                        Solve each equation.                                                                                              "
+  "body": " Logarithmic Functions   Objective: Convert between logarithms and exponents and use that relationship to solve basic logarithmic equations.   The inverse of an exponential function is a new function known as a logarithm. Logarithms are studied in detail in advanced algebra, here we will take an introductory look at how logarithms work. When working with radicals we found that there were two ways to write radicals. The expression could be written as . Each form has its advantages; thus, we need to be comfortable using both the radical form and the rational exponent form. Similarly, an exponent can be written in two forms, each with its own advantages. The first form we are very familiar with, , where is the base, can be thought of as our answer, and is the exponent. The second way to write this is with a logarithm, . The word “log” tells us that we are in this new form. The variables all still mean the same thing. is still the base, can still be thought of as our answer.  Using this idea the problem could also be written as . Both mean the same thing, both are still the same exponent problem, but just as roots can be written in radical form or rational exponent form, both our forms have their own advantages. The most important thing to be comfortable doing with logarithms and exponents is to be able to switch back and forth between the two forms. This is what is shown in the next few examples.   Write each exponential equation in logarithmic form.     Write each logarithmic equation in exponential form    Once we are comfortable switching between logarithmic and exponential form, we are able to evaluate and solve logarithmic expressions and equations. We will first evaluate logarithmic expressions. An easy way to evaluate a logarithm is to set the logarithm equal to and change it into an exponential equation.            World View Note: Dutch mathematician Adriaan Vlacq published a text in which listed logarithms calculated out from to !  Solving equations with logarithms is done in a very similar way, we simply will change the equation into exponential form and try to solve the resulting equation.           There is one base on a logarithm that gets used more often than any other base, base . Similar to square roots not writing the common index of in the radical, we don’t write the common base of in the logarithm. So if we are working on a problem with no base written we will always assume that base is base .     This lesson has introduced the idea of logarithms, changing between logs and exponents, evaluating logarithms, and solving basic logarithmic equations. In an advanced algebra course, logarithms will be studied in much greater detail.   Exercises – Logarithmic Functions    Rewrite each equation in exponential form.                                          Rewrite each equation in logarithmic form.                                          Evaluate each expression.                                                                  Solve each equation.                                                                                                                "
 },
 {
   "id": "functions-logarithmic-5",
@@ -30544,7 +30544,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.1",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-2-3",
@@ -30553,7 +30553,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.2",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-2-4",
@@ -30562,7 +30562,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.3",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-2-5",
@@ -30571,7 +30571,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.4",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-2-6",
@@ -30580,7 +30580,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.5",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-2-7",
@@ -30589,7 +30589,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.6",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-3-2",
@@ -30598,7 +30598,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.7",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-3-3",
@@ -30607,7 +30607,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.8",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-3-4",
@@ -30616,7 +30616,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.9",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-3-5",
@@ -30625,7 +30625,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.10",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-3-6",
@@ -30634,7 +30634,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.11",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-3-7",
@@ -30643,7 +30643,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.12",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-4-2",
@@ -30652,7 +30652,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.13",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-4-3",
@@ -30661,7 +30661,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.14",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-4-4",
@@ -30670,7 +30670,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.15",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-4-5",
@@ -30679,7 +30679,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.16",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-4-6",
@@ -30688,7 +30688,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.17",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-4-7",
@@ -30697,7 +30697,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.18",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-4-8",
@@ -30706,7 +30706,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.19",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-4-9",
@@ -30715,7 +30715,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.20",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-4-10",
@@ -30724,7 +30724,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.21",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-4-11",
@@ -30733,7 +30733,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.22",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-5-2",
@@ -30742,7 +30742,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.23",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-5-3",
@@ -30751,7 +30751,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.24",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-5-4",
@@ -30760,7 +30760,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.25",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-5-5",
@@ -30769,7 +30769,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.26",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-5-6",
@@ -30778,7 +30778,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.27",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-5-7",
@@ -30787,7 +30787,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.28",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-5-8",
@@ -30796,7 +30796,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.29",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-5-9",
@@ -30805,7 +30805,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.30",
   "title": "",
-  "body": "   "
+  "body": "    "
 },
 {
   "id": "exercises-functions-logarithmic-5-10",
@@ -30814,7 +30814,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.31",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-5-11",
@@ -30823,7 +30823,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.32",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-5-12",
@@ -30832,7 +30832,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.33",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-5-13",
@@ -30841,7 +30841,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.34",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-5-14",
@@ -30850,7 +30850,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.35",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-5-15",
@@ -30859,7 +30859,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.36",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-5-16",
@@ -30868,7 +30868,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.37",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-5-17",
@@ -30877,7 +30877,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.38",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-5-18",
@@ -30886,7 +30886,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.39",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "exercises-functions-logarithmic-5-19",
@@ -30895,7 +30895,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.40",
   "title": "",
-  "body": "    "
+  "body": "     "
 },
 {
   "id": "functions-compound-interest",
@@ -30904,7 +30904,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.6",
   "title": "Compound Interest",
-  "body": " Compound Interest   Objective: Calculate final account balances using the formulas for compound and continuous interest.   An application of exponential functions is compound interest. When money is invested in an account (or given out on loan) a certain amount is added to the balance. This money added to the balance is called interest. Once that interest is added to the balance, it will earn more interest during the next compounding period. This idea of earning interest on interest is called compound interest. For example, if you invest at interest compounded annually, after one year you will earn in interest, giving you a new balance of . The next year you will earn another or , giving you a new balance of . The third year you will earn another or , giving you a new balance of . This pattern will continue each year until you close the account.  There are several ways interest can be paid. The first way, as described above, is compounded annually. In this model the interest is paid once per year. But interest can be compounded more often. Some common compounds include compounded semi-annually (twice per year), quarterly (four times per year, such as quarterly taxes), monthly ( times per year, such as a savings account), weekly ( times per year), or even daily ( times per year, such as some student loans). When interest is compounded in any of these ways, we can calculate the balance after any amount of time using the following formula:         If you take a car loan for with an interest rate of compounded quarterly, no payments required for the first five years, what will your balance be at the end of those five years?    We can also find a missing part of the equation by using our techniques for solving equations.   What principle will amount to if invested at compounded weekly for years    It is interesting to compare equal investments that are made at several different types of compounds. The next few examples do just that.   If is invested in an account paying interest compounded monthly, what is the balance after years?    To investigate what happens to the balance if the compounds happen more often, we will consider the same problem, this time with interest compounded daily.   If is invested in an account paying interest compounded daily, what is the balance after years?    While this difference is not very large, it is a bit higher. The table below shows the result for the same problem with different compounds.    Compound  Balance    Annually       Semi-Annually       Quarterly       Monthly       Weekly       Daily       As the table illustrates, the more often interest is compounded, the higher the final balance will be. The reason is because we are calculating compound interest or interest on interest. So once interest is paid into the account it will start earning interest for the next compound and thus giving a higher final balance. The next question one might consider is what is the maximum number of compounds possible? We actually have a way to calculate interest compounded an infinite number of times a year. This is when the interest is compounded continuously. When we see the word “continuously” we will know that we cannot use the first formula. Instead we will use the following formula:        The variable is a constant similar in idea to pi ( ) in that it goes on forever without repeat or pattern, but just as pi ( ) naturally occurs in several geometry applications, so does appear in many exponential applications, continuous interest being one of them. If you have a scientific calculator you probably have an button (often using the 2nd or shift key, then hit ) that will be useful in calculating interest compounded continuously.   World View Note:  first appeared in in Scottish mathematician’s Napier’s work on logarithms. However, it was Euler in Switzerland who used the letter first to represent this value. Some say he used e because his name begins with E. Others, say it is because exponent starts with . Others say it is because Euler’s work already had the letter in use, so would be the next value. Whatever the reason, ever since he used it in , became the natural base.   If is invested in an account paying interest compounded continuously, what is the balance after years?    Albert Einstein once said that the most powerful force in the universe is compound interest. Consider the following example, illustrating how powerful compound interest can be.   If you invest in an account paying interest compounded continuously for years, and that is all you have to leave your children as an inheritance, what will the final balance be that they will receive?    In years that one-time investment of grew to over one million dollars! That’s the power of compound interest!   Exercises – Compound Interest    Solve.    Find each of the following:   invested at compounded annually for years.   invested at compounded annually for years.   at compounded annually for years.   at compounded semiannually for years.   at compounded semiannually for years.   at compounded semiannually for years.   at compounded quarterly for years.   at compounded quarterly for years.   at compounded quarterly for years.  All of the above compounded continuously.      What principal will amount to if invested at interest compounded semiannually for years?    What principal will amount to if invested at interest compounded quarterly for years?    What principal will amount to if invested at interest compounded semiannually for years?    What principal will amount to if invested at interest compounded semiannually for years?    What principal will amount to if invested at interest compounded quarterly for years?    A thousand dollars is left in a bank savings account drawing interest, compounded quarterly for years. What is the balance at the end of that time?    A thousand dollars is left in a credit union drawing compounded monthly. What is the balance at the end of years?     is invested in an account earning interest compounded monthly for a year period. What is the balance at the end of years?    You lend out at compounded monthly. If the debt is repaid in months, what is the total owed at the time of repayment?    A Treasury Bill earned compounded monthly. If the bill matured in years, what was it worth at maturity?    You borrow at interest compounded monthly. If you are unable to make any payments the first year, how much do you owe, excluding penalties?    A savings institution advertises annual interest, compounded daily, How much more interest would you earn over the bank savings account or credit union in problems and ?    An account earns continuous interest. If is deposited for years, what is the total accumulated?    You lend at continuous interest. If you are repaid months later, what is owed?     "
+  "body": " Compound Interest   Objective: Calculate final account balances using the formulas for compound and continuous interest.   An application of exponential functions is compound interest. When money is invested in an account (or given out on loan) a certain amount is added to the balance. This money added to the balance is called interest. Once that interest is added to the balance, it will earn more interest during the next compounding period. This idea of earning interest on interest is called compound interest. For example, if you invest at interest compounded annually, after one year you will earn in interest, giving you a new balance of . The next year you will earn another or , giving you a new balance of . The third year you will earn another or , giving you a new balance of . This pattern will continue each year until you close the account.  There are several ways interest can be paid. The first way, as described above, is compounded annually. In this model the interest is paid once per year. But interest can be compounded more often. Some common compounds include compounded semi-annually (twice per year), quarterly (four times per year, such as quarterly taxes), monthly ( times per year, such as a savings account), weekly ( times per year), or even daily ( times per year, such as some student loans). When interest is compounded in any of these ways, we can calculate the balance after any amount of time using the following formula:         If you take a car loan for with an interest rate of compounded quarterly, no payments required for the first five years, what will your balance be at the end of those five years?    We can also find a missing part of the equation by using our techniques for solving equations.   What principle will amount to if invested at compounded weekly for years    It is interesting to compare equal investments that are made at several different types of compounds. The next few examples do just that.   If is invested in an account paying interest compounded monthly, what is the balance after years?    To investigate what happens to the balance if the compounds happen more often, we will consider the same problem, this time with interest compounded daily.   If is invested in an account paying interest compounded daily, what is the balance after years?    While this difference is not very large, it is a bit higher. The table below shows the result for the same problem with different compounds.    Compound  Balance    Annually       Semi-Annually       Quarterly       Monthly       Weekly       Daily       As the table illustrates, the more often interest is compounded, the higher the final balance will be. The reason is because we are calculating compound interest or interest on interest. So once interest is paid into the account it will start earning interest for the next compound and thus giving a higher final balance. The next question one might consider is what is the maximum number of compounds possible? We actually have a way to calculate interest compounded an infinite number of times a year. This is when the interest is compounded continuously. When we see the word “continuously” we will know that we cannot use the first formula. Instead we will use the following formula:        The variable is a constant similar in idea to pi ( ) in that it goes on forever without repeat or pattern, but just as pi ( ) naturally occurs in several geometry applications, so does appear in many exponential applications, continuous interest being one of them. If you have a scientific calculator you probably have an button (often using the 2nd or shift key, then hit ) that will be useful in calculating interest compounded continuously.   World View Note:  first appeared in in Scottish mathematician’s Napier’s work on logarithms. However, it was Euler in Switzerland who used the letter first to represent this value. Some say he used e because his name begins with E. Others, say it is because exponent starts with . Others say it is because Euler’s work already had the letter in use, so would be the next value. Whatever the reason, ever since he used it in , became the natural base.   If is invested in an account paying interest compounded continuously, what is the balance after years?    Albert Einstein once said that the most powerful force in the universe is compound interest. Consider the following example, illustrating how powerful compound interest can be.   If you invest in an account paying interest compounded continuously for years, and that is all you have to leave your children as an inheritance, what will the final balance be that they will receive?    In years that one-time investment of grew to over one million dollars! That’s the power of compound interest!   Exercises – Compound Interest    Solve.    Find each of the following:   invested at compounded annually for years.   invested at compounded annually for years.   at compounded annually for years.   at compounded semiannually for years.   at compounded semiannually for years.   at compounded semiannually for years.   at compounded quarterly for years.   at compounded quarterly for years.   at compounded quarterly for years.  All of the above compounded continuously.       What principal will amount to if invested at interest compounded semiannually for years?     What principal will amount to if invested at interest compounded quarterly for years?     What principal will amount to if invested at interest compounded semiannually for years?     What principal will amount to if invested at interest compounded semiannually for years?     What principal will amount to if invested at interest compounded quarterly for years?     A thousand dollars is left in a bank savings account drawing interest, compounded quarterly for years. What is the balance at the end of that time?     A thousand dollars is left in a credit union drawing compounded monthly. What is the balance at the end of years?      is invested in an account earning interest compounded monthly for a year period. What is the balance at the end of years?     You lend out at compounded monthly. If the debt is repaid in months, what is the total owed at the time of repayment?     A Treasury Bill earned compounded monthly. If the bill matured in years, what was it worth at maturity?     You borrow at interest compounded monthly. If you are unable to make any payments the first year, how much do you owe, excluding penalties?     A savings institution advertises annual interest, compounded daily, How much more interest would you earn over the bank savings account or credit union in problems and ?     An account earns continuous interest. If is deposited for years, what is the total accumulated?     You lend at continuous interest. If you are repaid months later, what is owed?      "
 },
 {
   "id": "functions-compound-interest-11",
@@ -30967,7 +30967,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.1",
   "title": "",
-  "body": " Find each of the following:   invested at compounded annually for years.   invested at compounded annually for years.   at compounded annually for years.   at compounded semiannually for years.   at compounded semiannually for years.   at compounded semiannually for years.   at compounded quarterly for years.   at compounded quarterly for years.   at compounded quarterly for years.  All of the above compounded continuously.    "
+  "body": " Find each of the following:   invested at compounded annually for years.   invested at compounded annually for years.   at compounded annually for years.   at compounded semiannually for years.   at compounded semiannually for years.   at compounded semiannually for years.   at compounded quarterly for years.   at compounded quarterly for years.   at compounded quarterly for years.  All of the above compounded continuously.     "
 },
 {
   "id": "exercises-functions-compound-interest-2-3",
@@ -30976,7 +30976,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.2",
   "title": "",
-  "body": " What principal will amount to if invested at interest compounded semiannually for years?  "
+  "body": " What principal will amount to if invested at interest compounded semiannually for years?   "
 },
 {
   "id": "exercises-functions-compound-interest-2-4",
@@ -30985,7 +30985,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.3",
   "title": "",
-  "body": " What principal will amount to if invested at interest compounded quarterly for years?  "
+  "body": " What principal will amount to if invested at interest compounded quarterly for years?   "
 },
 {
   "id": "exercises-functions-compound-interest-2-5",
@@ -30994,7 +30994,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.4",
   "title": "",
-  "body": " What principal will amount to if invested at interest compounded semiannually for years?  "
+  "body": " What principal will amount to if invested at interest compounded semiannually for years?   "
 },
 {
   "id": "exercises-functions-compound-interest-2-6",
@@ -31003,7 +31003,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.5",
   "title": "",
-  "body": " What principal will amount to if invested at interest compounded semiannually for years?  "
+  "body": " What principal will amount to if invested at interest compounded semiannually for years?   "
 },
 {
   "id": "exercises-functions-compound-interest-2-7",
@@ -31012,7 +31012,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.6",
   "title": "",
-  "body": " What principal will amount to if invested at interest compounded quarterly for years?  "
+  "body": " What principal will amount to if invested at interest compounded quarterly for years?   "
 },
 {
   "id": "exercises-functions-compound-interest-2-8",
@@ -31021,7 +31021,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.7",
   "title": "",
-  "body": " A thousand dollars is left in a bank savings account drawing interest, compounded quarterly for years. What is the balance at the end of that time?  "
+  "body": " A thousand dollars is left in a bank savings account drawing interest, compounded quarterly for years. What is the balance at the end of that time?   "
 },
 {
   "id": "exercises-functions-compound-interest-2-9",
@@ -31030,7 +31030,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.8",
   "title": "",
-  "body": " A thousand dollars is left in a credit union drawing compounded monthly. What is the balance at the end of years?  "
+  "body": " A thousand dollars is left in a credit union drawing compounded monthly. What is the balance at the end of years?   "
 },
 {
   "id": "exercises-functions-compound-interest-2-10",
@@ -31039,7 +31039,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.9",
   "title": "",
-  "body": "  is invested in an account earning interest compounded monthly for a year period. What is the balance at the end of years?  "
+  "body": "  is invested in an account earning interest compounded monthly for a year period. What is the balance at the end of years?   "
 },
 {
   "id": "exercises-functions-compound-interest-2-11",
@@ -31048,7 +31048,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.10",
   "title": "",
-  "body": " You lend out at compounded monthly. If the debt is repaid in months, what is the total owed at the time of repayment?  "
+  "body": " You lend out at compounded monthly. If the debt is repaid in months, what is the total owed at the time of repayment?   "
 },
 {
   "id": "exercises-functions-compound-interest-2-12",
@@ -31057,7 +31057,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.11",
   "title": "",
-  "body": " A Treasury Bill earned compounded monthly. If the bill matured in years, what was it worth at maturity?  "
+  "body": " A Treasury Bill earned compounded monthly. If the bill matured in years, what was it worth at maturity?   "
 },
 {
   "id": "exercises-functions-compound-interest-2-13",
@@ -31066,7 +31066,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.12",
   "title": "",
-  "body": " You borrow at interest compounded monthly. If you are unable to make any payments the first year, how much do you owe, excluding penalties?  "
+  "body": " You borrow at interest compounded monthly. If you are unable to make any payments the first year, how much do you owe, excluding penalties?   "
 },
 {
   "id": "exercises-functions-compound-interest-2-14",
@@ -31075,7 +31075,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.13",
   "title": "",
-  "body": " A savings institution advertises annual interest, compounded daily, How much more interest would you earn over the bank savings account or credit union in problems and ?  "
+  "body": " A savings institution advertises annual interest, compounded daily, How much more interest would you earn over the bank savings account or credit union in problems and ?   "
 },
 {
   "id": "exercises-functions-compound-interest-2-15",
@@ -31084,7 +31084,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.14",
   "title": "",
-  "body": " An account earns continuous interest. If is deposited for years, what is the total accumulated?  "
+  "body": " An account earns continuous interest. If is deposited for years, what is the total accumulated?   "
 },
 {
   "id": "exercises-functions-compound-interest-2-16",
@@ -31093,7 +31093,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.15",
   "title": "",
-  "body": " You lend at continuous interest. If you are repaid months later, what is owed?  "
+  "body": " You lend at continuous interest. If you are repaid months later, what is owed?   "
 },
 {
   "id": "backmatter-2",
