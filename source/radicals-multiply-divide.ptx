@@ -138,7 +138,7 @@ The same process can be used to rationalize fractions with variables.
 
   <example> 
     <md>  
-      <mrow> \frac{18\sqrt[4]{6x^3y^4z}} {8\sqrt[4]{10xy^6z^3}} \amp \quad \text {Reduce coefficients and inside radical }   </mrow>  
+      <mrow> \frac{18\sqrt[4]{6x^3y^4z}} {8\sqrt[4]{10xy^6z^4}} \amp \quad \text {Reduce coefficients and inside radical }   </mrow>  
       <mrow>  \frac{9\sqrt[4]{3x^2}}{4\sqrt[4]{5y^2z^3}} \amp \quad \text{Index is $4$, we need four of everything to rationalize, three more fives, two more y’s and one more z. }  </mrow>  
       <mrow>  \frac{9\sqrt[4]{3x^2}}{4\sqrt[4]{5y^2z^3}}\left(\frac{\sqrt[4]{5^3y^2z}}{\sqrt[4]{5^3y^2z}}\right) \amp \quad \text{Multiply numerator and denominator by $\sqrt[4]{5^3y^2z}$}  </mrow>   
       <mrow>  \frac{9\sqrt[4]{375x^2y^2z}}{4 \cdot 5yz} \amp \quad \text{Multiply denominator}  </mrow>   
