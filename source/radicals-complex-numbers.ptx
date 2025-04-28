@@ -123,7 +123,7 @@ For subtraction problems the idea is the same, we need to remember to first dist
   
      <example>
     <md> 
-      <mrow> (2-4i)(3+5i)(3i)(6i)(2 - 3i) \amp \quad  \text{   Multiply first two monomials   }   </mrow> 
+      <mrow> (3i)(6i)(2 - 3i) \amp \quad  \text{   Multiply first two monomials   }   </mrow> 
       <mrow> 18i^2(2 - 3i)\amp\quad  \text{  Distribute  } </mrow> 
       <mrow> 36i^2 - 54i^3 \amp\quad  \text{  Simplify $i^2=-1$ and $i^3=-i$   }  </mrow>
       <mrow> 36(-1)-54(-i) \amp\quad \text{ Multiply} </mrow>
