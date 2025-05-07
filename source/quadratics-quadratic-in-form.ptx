@@ -89,10 +89,10 @@ When we create a new variable for our substitution, it won’t always be equal t
 <example> 
     <md>
 
-      <mrow>  3(x-7)^2-2(x-7)+5=0  \amp\quad  \text{Quadratic Form}  </mrow>
+      <mrow>  3(x-7)^2-2(x-7)-5=0  \amp\quad  \text{Quadratic Form}  </mrow>
       <mrow>  y=x-7  \amp\quad  \text{Define new variable}  </mrow>
       <mrow>  y^2=(x-7)^2  \amp\quad  \text{Square both sides}  </mrow>
-      <mrow>  3y^2-2y+5=0  \amp\quad  \text{Substitute values into original}</mrow>
+      <mrow>  3y^2-2y-5=0  \amp\quad  \text{Substitute values into original}</mrow>
       <mrow>  (3y-5)(y+1)=0  \amp\quad  \text{Factor}  </mrow>
       <mrow> 3y-5=0 \text{ or } y+1=0  \amp\quad  \text{Set each factor equal to zero}  </mrow>
       <mrow>  \underline{+5 +5} \qquad\underline{-1 -1} \amp\quad  \text{Solve each equation}  </mrow>
