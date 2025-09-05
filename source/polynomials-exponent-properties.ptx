@@ -176,7 +176,7 @@ A quicker method to arrive at the solution would have been to just subtract the 
   <example>
     <md>
       <mrow> \left(\frac { a ^3 b }{c^ 8d ^5}\right)^2      \amp \quad  \text{ Put the exponent of $2$ on each factor, multiplying powers   }   </mrow>
-      <mrow>   \frac {a^ 6 b ^2} {c ^8d^{10} }            \amp\quad  \text{   Our Solution  }  </mrow>
+      <mrow>   \frac {a^ 6 b ^2} {c ^{16}d^{10} }            \amp\quad  \text{   Our Solution  }  </mrow>
     </md>
   </example>
 
